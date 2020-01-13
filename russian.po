@@ -1,4 +1,4 @@
-﻿# russian Russian (Russia) translation.
+# russian Russian (Russia) translation.
 # Copyright 1998-2019 Epic Games, Inc. All Rights Reserved.
 # 
 msgid ""
@@ -60,7 +60,7 @@ msgstr ""
 #: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(2 - Value).TravelShrines.ShrineName
 msgctxt ",01DB8D8A43F7EC40F07FB3A355D39722"
 msgid "Cove of Rapture"
-msgstr ""
+msgstr "Бухта восторга"
 
 #. Key:	01DE9F6A42AB1019681AE1B74E68632C
 #. SourceLocation:	/Game/Dialogue/Neela/Default/NeelaGreeting01.Default__NeelaGreeting01_C.SessionData.Lines(0).Lines
