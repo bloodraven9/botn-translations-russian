@@ -3154,7 +3154,7 @@ msgstr ""
 #: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(10 - Value).TraitIcons.DisplayName
 msgctxt ",7EF6E26243EE042D016B90AFA2F62AE7"
 msgid "Divergent"
-msgstr ""
+msgstr "Дивергент"
 
 #. Key:	7FEBA6A748A632320A5759BABB317345
 #. SourceLocation:	/Game/Dialogue/Camilla/Default/CamillaDefault01_R02.Default__CamillaDefault01_R02_C.SessionData.Lines(4).Lines
@@ -3301,7 +3301,7 @@ msgstr ""
 #: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(20 - Value).TraitIcons.DisplayName
 msgctxt ",854AE3F2484BF88BB14875815FEE38B4"
 msgid "Sadistic"
-msgstr ""
+msgstr "Садист"
 
 #. Key:	855B7EB248E6DF97FE4486BAE527851B
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(6 - Value).TraitIcons.DisplayName
@@ -3518,7 +3518,7 @@ msgstr ""
 #: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(11 - Value).TraitIcons.HelpText
 msgctxt ",8B26942A46ED0C778AE5E1BC7C39336A"
 msgid "Fertile: Fertility doubles pregnancy chance from repeated breeding."
-msgstr ""
+msgstr "Плодовитый: Удваивает шанс забеременить при каждой случке."
 
 #. Key:	8B4E1ACB4F89392773B344A3BE6A4E57
 #. SourceLocation:	/Game/Dialogue/Mirru/Default/MirruDefault01_Princess.Default__MirruDefault01_Princess_C.SessionData.Lines(5).Lines
@@ -3532,7 +3532,7 @@ msgstr ""
 #: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(13 - Value).TraitIcons.DisplayName
 msgctxt ",8B77D0FA4239D5EB678BAE8CDE396838"
 msgid "Hedonist"
-msgstr ""
+msgstr "Гедонист"
 
 #. Key:	8B8E6E7E442F870ECD9423A21D60D95B
 #. SourceLocation:	/Game/Dialogue/Fern/DefaultP3/FernGreeting03.Default__FernGreeting03_C.SessionData.LinesToFemale(1).LinesToFemale
@@ -3672,7 +3672,7 @@ msgstr ""
 #: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(11 - Value).TraitIcons.DisplayName
 msgctxt ",8FFFE80A49114390AEF4A190D3F0A48F"
 msgid "Fertile"
-msgstr ""
+msgstr "Плодовитый"
 
 #. Key:	900A82D44250A3392806469644B7B93B
 #. SourceLocation:	/Game/Dialogue/Emissary/Default/EmissaryGreeting01.Default__EmissaryGreeting01_C.SessionData.Lines(3).Lines
@@ -3707,7 +3707,7 @@ msgstr ""
 #: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(13 - Value).TraitIcons.HelpText
 msgctxt ",90BF47A74AF19E981D455BAB280C9D02"
 msgid "Hedonist: Gains the XP that would have been granted to the other mate."
-msgstr ""
+msgstr "Гедонист: Получает больше опыта чем его партнер"
 
 #. Key:	90CF176E415EE7CEA27716868800482A
 #. SourceLocation:	/Game/Dialogue/Blossom/Default/BlossomGreeting01.Default__BlossomGreeting01_C.SessionData.Lines(4).Lines
@@ -3735,7 +3735,7 @@ msgstr ""
 #: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(0 - Value).TraitIcons.HelpText
 msgctxt ",926325814BBC6464CA76E097764B7F27"
 msgid "Hominal: Inherited more human traits."
-msgstr ""
+msgstr "Антропоморфный: Унаследовал больше человеческих черт."
 
 #. Key:	92E3821949A8C289A4AAFCA4103F1915
 #. SourceLocation:	/Game/Dialogue/Camilla/SexScenes/CamillaAdorableLump.Default__CamillaAdorableLump_C.SessionData.LinesToMale(3).LinesToMale
@@ -3777,7 +3777,7 @@ msgstr ""
 #: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(19 - Value).TraitIcons.HelpText
 msgctxt ",94451EBE42500C5CEC2E988DDD887046"
 msgid "Nymphomaniac: Loyalty is increased twice as fast from having sex."
-msgstr ""
+msgstr "Нимфоман(ка): Лояльность повышается в два раза быстрее от секса."
 
 #. Key:	9458CFDE4690A312D5CC8F94BF4AE00A
 #. SourceLocation:	/Game/Dialogue/Fern/DefaultP3/FernDefault03_RL_F.Default__FernDefault03_RL_F_C.ResponseData(3).ResponseData.BreederPrompt
@@ -3826,7 +3826,7 @@ msgstr ""
 #: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(5 - Value).TravelShrines.ShrineName
 msgctxt ",95781B414AAF336B071430A39FC2F698"
 msgid "Esoteric Glade"
-msgstr ""
+msgstr "Эзотерическая лужайка"
 
 #. Key:	9589965546B48748E41BA7942844189B
 #. SourceLocation:	/Game/Dialogue/Fern/DefaultP3/FernDefault03.Default__FernDefault03_C.SessionData.LinesToFuta(2).LinesToFuta
@@ -3882,7 +3882,7 @@ msgstr ""
 #: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(22 - Value).TraitIcons.DisplayName
 msgctxt ",97244FB84D6D7CC0273CD3BB89B847D9"
 msgid "Swift"
-msgstr ""
+msgstr "Проныра"
 
 #. Key:	97819B7A480CF2968256F1AD74021DAD
 #. SourceLocation:	/Game/Dialogue/Romy/Default/RomyDefault01_AboutMusic.Default__RomyDefault01_AboutMusic_C.SessionData.Lines(4).Lines
@@ -4071,7 +4071,7 @@ msgstr ""
 #: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(2 - Value).TraitIcons.HelpText
 msgctxt ",9ECA418E4EC2E9617CD48B82C43CB5FA"
 msgid "Huge: Roughly 10ft in height."
-msgstr ""
+msgstr "Большой: Около 10 футов в росте."
 
 #. Key:	9EEBDB0446F2AAFA8F605E8A3DE83534
 #. SourceLocation:	/Game/Dialogue/Romy/Default/RomyDefault01_YourMusic.Default__RomyDefault01_YourMusic_C.SessionData.LinesToFuta(2).LinesToFuta
@@ -4092,14 +4092,14 @@ msgstr ""
 #: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(22 - Value).TraitIcons.HelpText
 msgctxt ",9F25BEB847378BA942933C8A503B4F1A"
 msgid "Swift: Dexterity reduces lust cost of actions as a percentage."
-msgstr ""
+msgstr "Проныра: Затраты похоти уменьшены пропорционально Ловкости."
 
 #. Key:	9F83DE504D98E2D4C149568C1F8DE768
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(4 - Value).TraitIcons.HelpText
 #: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(4 - Value).TraitIcons.HelpText
 msgctxt ",9F83DE504D98E2D4C149568C1F8DE768"
 msgid "Massive: Roughly 15ft in height."
-msgstr ""
+msgstr "Массивный: Больше 15 футов в росте."
 
 #. Key:	9FAD5CA34B7A4B192E688C9C72A825B3
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_R06.Default__FaleneDefault01_R06_C.SessionData.Lines(1).Lines
@@ -4218,7 +4218,7 @@ msgstr ""
 #: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(18 - Value).TraitIcons.DisplayName
 msgctxt ",A4C22B3045E8159B66E47CB636E23172"
 msgid "Nurturing"
-msgstr ""
+msgstr "Заботливый"
 
 #. Key:	A4E670824F11C45EC16FA29BAF6EB6E1
 #. SourceLocation:	/Game/Dialogue/Camilla/Default/CamillaDefault01_R02.Default__CamillaDefault01_R02_C.SessionData.Lines(3).Lines
@@ -4463,7 +4463,7 @@ msgstr ""
 #: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(10 - Value).TraitIcons.HelpText
 msgctxt ",AFBF754C422E5E00DF8BB7A37B956DFB"
 msgid "Divergent: Offspring have a chance to generate a random trait upon being summoned."
-msgstr ""
+msgstr "Дивергент: Потомок получает черту не свойственную родителям."
 
 #. Key:	B071E1E04B9EA4D9C227C2935955161A
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_R03.Default__FaleneDefault01_R03_C.SessionData.Lines(0).Lines
@@ -4477,7 +4477,7 @@ msgstr ""
 #: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(0 - Value).TraitIcons.DisplayName
 msgctxt ",B088E0624E17857FAE8AE4B893251DA2"
 msgid "Hominal"
-msgstr ""
+msgstr "Антропоморфный"
 
 #. Key:	B11026CD462D3D9C5256F4A490A45911
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_R07.Default__FaleneDefault01_R07_C.SessionData.LinesToFuta(1).LinesToFuta
@@ -4491,7 +4491,7 @@ msgstr ""
 #: /Game/Dialogue/Emissary/Default/EmissaryDefault01_AreYouBlessed.Default__EmissaryDefault01_AreYouBlessed_C.SessionData.Lines(0).Lines
 msgctxt ",B12A342547F0295A52457D814E45C485"
 msgid "Yes @BREEDER_NAME@."
-msgstr ""
+msgstr "Да @BREEDER_NAME@."
 
 #. Key:	B1A4C4984540058620CA09A3FC603DBE
 #. SourceLocation:	/Game/Dialogue/AmberMae/Default/AmberMaeDefault01_Accent.Default__AmberMaeDefault01_Accent_C.SessionData.Lines(1).Lines
@@ -4519,7 +4519,7 @@ msgstr ""
 #: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(30 - Value).TraitIcons.DisplayName
 msgctxt ",B20F5D9040267E77436A9B94B5F68150"
 msgid "Gaudy"
-msgstr ""
+msgstr "Цветастый"
 
 #. Key:	B2323665415F7EE8A74204A9FD52D914
 #. SourceLocation:	/Game/Dialogue/AmberMae/Default/AmberMaeGreeting01.Default__AmberMaeGreeting01_C.SessionData.Lines(7).Lines
@@ -4561,7 +4561,7 @@ msgstr ""
 #: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(23 - Value).TraitIcons.DisplayName
 msgctxt ",B3953BA1451F630DE2CF019EB4CB6A69"
 msgid "Valuable"
-msgstr ""
+msgstr "Породистый"
 
 #. Key:	B3B231554333647A7518C9A44578C0B1
 #. SourceLocation:	/Game/Dialogue/Romy/Default/RomyGreeting01.Default__RomyGreeting01_C.SessionData.Lines(2).Lines
@@ -4659,14 +4659,14 @@ msgstr ""
 #: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(33 - Value).TraitIcons.DisplayName
 msgctxt ",B7AB851641C9ABEE4A178B9DFFD50B0B"
 msgid "Hybrid"
-msgstr ""
+msgstr "Гибрид"
 
 #. Key:	B7DDB984480E5280CB46B69238C0654E
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(25 - Value).TraitIcons.HelpText
 #: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(25 - Value).TraitIcons.HelpText
 msgctxt ",B7DDB984480E5280CB46B69238C0654E"
 msgid "Chubby: This one has more body fat."
-msgstr ""
+msgstr "Толстый: Существо с лишним весом"
 
 #. Key:	B82A33C04616825E1FC07F99415D421D
 #. SourceLocation:	/Game/Dialogue/Fern/Default/FernDefault01_RL_M.Default__FernDefault01_RL_M_C.ResponseData(1).ResponseData.BreederPrompt
@@ -5016,7 +5016,7 @@ msgstr ""
 #: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(1 - Value).TraitIcons.DisplayName
 msgctxt ",C7BA93A840AB5FA97F357E802955A851"
 msgid "Exotic"
-msgstr ""
+msgstr "Экзотический"
 
 #. Key:	C8210788465460F08B2B0EBB68E478F1
 #. SourceLocation:	/Game/Dialogue/Emissary/Default/EmissaryBlessedInquiry01_R01.Default__EmissaryBlessedInquiry01_R01_C.SessionData.Lines(4).Lines
@@ -5037,7 +5037,7 @@ msgstr ""
 #: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(5 - Value).TraitIcons.DisplayName
 msgctxt ",C9DFA1EB40C3BF78D4B015AC82833310"
 msgid "Normal Size"
-msgstr ""
+msgstr "Обычный размер"
 
 #. Key:	CA8A7F834A44AD0FFD7433BCE63D2DF7
 #. SourceLocation:	/Game/Characters/Procedural/Variants/Starfallen/Harvest/StarfallenHarvest.Default__StarfallenHarvest_C.Harvest.RaceName
@@ -5156,21 +5156,21 @@ msgstr ""
 #: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(8 - Value).TravelShrines.ShrineName
 msgctxt ",D066439244AFE855B06F90AB1A4A0829"
 msgid "Sultry Plateau"
-msgstr ""
+msgstr "Знойное плато"
 
 #. Key:	D0FA90CC4E9378DF7150FB881B18DC60
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(5 - Value).TraitIcons.HelpText
 #: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(5 - Value).TraitIcons.HelpText
 msgctxt ",D0FA90CC4E9378DF7150FB881B18DC60"
 msgid "Normal: Roughly 6ft in height."
-msgstr ""
+msgstr "Обычный: около 6 футов в росте."
 
 #. Key:	D15AF6D44FBD9FB7572622AE572A21D7
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(33 - Value).TraitIcons.HelpText
 #: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(33 - Value).TraitIcons.HelpText
 msgctxt ",D15AF6D44FBD9FB7572622AE572A21D7"
 msgid "Hybrid: This one is a mix of two races."
-msgstr ""
+msgstr "Гибрид: Результат скрещивания двух разных видов."
 
 #. Key:	D168672B4C5B79B56A15E097C9217EBC
 #. SourceLocation:	/Game/Dialogue/Fern/Default/FernDefault01_R01.Default__FernDefault01_R01_C.SessionData.Lines(0).Lines
@@ -5240,7 +5240,7 @@ msgstr ""
 #: /Game/Characters/Procedural/Variants/Hybrid/Harvest/HybridHarvest.Default__HybridHarvest_C.Harvest.RaceName
 msgctxt ",D3EBB7904D4648D8930D5B98189AC73D"
 msgid "Hybrid"
-msgstr ""
+msgstr "Гибрид"
 
 #. Key:	D456D54240773E6C7DA921A0B4BDBA16
 #. SourceLocation:	/Game/Dialogue/Fern/DefaultP2/FernDefault02_R04.Default__FernDefault02_R04_C.SessionData.Lines(1).Lines
@@ -5387,7 +5387,7 @@ msgstr ""
 #: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(4 - Value).TravelShrines.ShrineName
 msgctxt ",D913C6254D30AA08E8B01787AE3D1B68"
 msgid "Hivelands"
-msgstr ""
+msgstr "Гудящие поляны"
 
 #. Key:	D942BF8C4B6164B1D4F7569E55FC349E
 #. SourceLocation:	/Game/Dialogue/Fern/DefaultP3/FernDefault03_R03.Default__FernDefault03_R03_C.SessionData.Lines(0).Lines
@@ -5534,7 +5534,7 @@ msgstr ""
 #: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(24 - Value).TraitIcons.DisplayName
 msgctxt ",DC956C0949E5CA05486F1583CEACA3ED"
 msgid "Busty"
-msgstr ""
+msgstr "Грудастая"
 
 #. Key:	DCBFA42D4FD9520CA7F586A84DCF3921
 #. SourceLocation:	/Game/Dialogue/Leylanna/Default/LeylannaDefault01.Default__LeylannaDefault01_C.SessionData.Lines(0).Lines
@@ -5702,7 +5702,7 @@ msgstr ""
 #: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(28 - Value).TraitIcons.HelpText
 msgctxt ",E20511A746C7BFEF4C46D5A2F2586CD0"
 msgid "Slick: Inherited slick oily skin."
-msgstr ""
+msgstr "Гладкий: Глакая жирная кожа."
 
 #. Key:	E227A6EF4C9C296BC4394FA1701CA51F
 #. SourceLocation:	/Game/Dialogue/Leylanna/Default/LeylannaDefault01_RechargeSpiritForm_RL_F.Default__LeylannaDefault01_RechargeSpiritForm_RL_F_C.ResponseData(0).ResponseData.BreederPrompt
@@ -5814,7 +5814,7 @@ msgstr ""
 #: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(31 - Value).TraitIcons.DisplayName
 msgctxt ",E663A2A8494081C671EA74A317740FAD"
 msgid "Atypical"
-msgstr ""
+msgstr "Нестандартный"
 
 #. Key:	E6AE999D442B37DD898ED3B14ADA261A
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_R05.Default__FaleneDefault01_R05_C.SessionData.Lines(2).Lines
@@ -5828,7 +5828,7 @@ msgstr ""
 #: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(1 - Value).TraitIcons.HelpText
 msgctxt ",E8789C0E4CCC57BB8A98178902DA8110"
 msgid "Exotic: Inherited more monster traits."
-msgstr ""
+msgstr "Экзотический: уналедовал все черты родителей"
 
 #. Key:	E89A6BB74D15111C98632A99F45745CC
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(17 - Value).TraitIcons.DisplayName
@@ -6045,7 +6045,7 @@ msgstr ""
 #: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(6 - Value).TraitIcons.HelpText
 msgctxt ",F1D3A2E044E22D62A15FD2A3C291C751"
 msgid "Small: Roughly 5ft in height."
-msgstr ""
+msgstr "Маленький: около 5 футов в росте."
 
 #. Key:	F1EF1BEA4E4AF008C65539ADC6740F61
 #. SourceLocation:	/Game/Dialogue/Fern/Default/FernDefault01_RL_M.Default__FernDefault01_RL_M_C.ResponseData(0).ResponseData.BreederPrompt
@@ -6234,7 +6234,7 @@ msgstr ""
 #: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(12 - Value).TraitIcons.HelpText
 msgctxt ",FA16663A4C4765BC8F4CBC80FF774B75"
 msgid "Grungy: Mates have a 20% of getting dirty, reducing allure by 50%."
-msgstr ""
+msgstr "Грязный: Уменьшается привлекательность на 50%. Верояность испачкать партнера 20%."
 
 #. Key:	FA2C70284FBA2B074235FD87FF6B8D64
 #. SourceLocation:	/Game/Dialogue/Cassie/Default/CassieDefault01.Default__CassieDefault01_C.SessionData.Lines(1).Lines
