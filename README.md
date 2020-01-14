@@ -1,8 +1,7 @@
-# botn-translations-russian
-Translation PO files for Breeders of the Nephelym (russian branch)
+# botn-translations
+Translation PO files for Breeders of the Nephelym
 
-!!!Внимание!!! Будьте осторожны!!!
+# Attention!!!
+The Poedit program cuts comments with multiple spaces, breaking the convenience of translating content!
 
-Poedit съедает чать коментариев с множественными пробелами, нарушая удобство перевода контента!
-
-Пользуйтесь программой аккуратно!
+Please, Be careful!
