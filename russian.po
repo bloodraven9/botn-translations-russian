@@ -6395,7 +6395,7 @@ msgstr "Карликовый"
 #: /Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToMale(25).LinesToMale
 msgctxt ",FE11832245764B482A5550B347EB143E"
 msgid "However, some might be more playful about it and surprise you!"
-msgstr ""
+msgstr "Однако некоторые из них могут быть более настойчивыми и удивить вас!"
 
 #. Key:	FE908E8B4214DDCF1709D284DCA9D0E1
 #. SourceLocation:	/Game/Dialogue/Cassie/SexScenes/CassieButterButtF.Default__CassieButterButtF_C.SessionData.Lines(1).Lines
@@ -6409,21 +6409,21 @@ msgstr ""
 #: /Game/Dialogue/Mirru/SexScenes/MirruKrakVag.Default__MirruKrakVag_C.SessionData.Lines(0).Lines
 msgctxt ",FEE6416B44C40270EC8167ADD51EA060"
 msgid "Ohhh human yes... my soft fleshy groin awaits you."
-msgstr ""
+msgstr "Ооооо человека да... моя мягкий мясистая дырочка ждет тебя."
 
 #. Key:	FEEAD6AA4B91EE463E366FBDCB397167
 #. SourceLocation:	/Game/Dialogue/Mirru/Default/MirruDefault01_AboutKrakens.Default__MirruDefault01_AboutKrakens_C.SessionData.Lines(8).Lines
 #: /Game/Dialogue/Mirru/Default/MirruDefault01_AboutKrakens.Default__MirruDefault01_AboutKrakens_C.SessionData.Lines(8).Lines
 msgctxt ",FEEAD6AA4B91EE463E366FBDCB397167"
 msgid "Even a drylander such as yourself can probably guess what purpose my two front tentacles serve."
-msgstr ""
+msgstr "Даже такой человек, как ты, догадается, для чего нужны два моих передних щупальца."
 
 #. Key:	FF0D5A0E4AD29A5B9CCF59942CB94FFA
 #. SourceLocation:	/Game/Dialogue/Emissary/Default/EmissaryDefault01_RaiseTraitLvl.Default__EmissaryDefault01_RaiseTraitLvl_C.SessionData.Lines(0).Lines
 #: /Game/Dialogue/Emissary/Default/EmissaryDefault01_RaiseTraitLvl.Default__EmissaryDefault01_RaiseTraitLvl_C.SessionData.Lines(0).Lines
 msgctxt ",FF0D5A0E4AD29A5B9CCF59942CB94FFA"
 msgid "Seeketh thou a higher quality breeding stock I sense."
-msgstr ""
+msgstr "Вижу, что ты ищешь как улучшит качество своих питомцев."
 
 #. Key:	FF56CAFF482C5F43FF4C419DCB359C8A
 #. SourceLocation:	/Game/Dialogue/Camilla/Default/CamillaDefault01_R06.Default__CamillaDefault01_R06_C.SessionData.Lines(0).Lines
@@ -6437,14 +6437,14 @@ msgstr ""
 #: /Game/Characters/Procedural/Variants/Seraphim/Harvest/SeraphimHarvest.Default__SeraphimHarvest_C.Harvest.Description
 msgctxt ",FF5A245B4A28E802C1A30CAC4B4DE4E5"
 msgid "Seraphim body fluids."
-msgstr ""
+msgstr "Удои с Серафима"
 
 #. Key:	FFA17F124A05F93244CA07860B63DEA2
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToMale(5).LinesToMale
 #: /Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToMale(5).LinesToMale
 msgctxt ",FFA17F124A05F93244CA07860B63DEA2"
 msgid "Oh silly me, I never introduced myself."
-msgstr ""
+msgstr "О, какая я глупая, так и не представилась."
 
 #. Key:	FFEB9256402DB5ADDFEED38770F40285
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(24 - Value).TraitIcons.HelpText
