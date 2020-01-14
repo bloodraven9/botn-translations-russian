@@ -319,14 +319,14 @@ msgstr ""
 #: /Game/Dialogue/Mirru/Default/MirruDefault01_BodySexToy_RL_F.Default__MirruDefault01_BodySexToy_RL_F_C.ResponseData(1).ResponseData.BreederPrompt
 msgctxt ",0CE3BF194F0AEDEFF8FD32BC70EC9A18"
 msgid "You have multiple hearts?!"
-msgstr ""
+msgstr "У тебя несколько сердец?!"
 
 #. Key:	0CF85A94478ED7F4CC8BA58C2B66D95C
 #. SourceLocation:	/Game/Dialogue/Camilla/Default/CamillaDefault01_RL.Default__CamillaDefault01_RL_C.ResponseData(2).ResponseData.BreederPrompt
 #: /Game/Dialogue/Camilla/Default/CamillaDefault01_RL.Default__CamillaDefault01_RL_C.ResponseData(2).ResponseData.BreederPrompt
 msgctxt ",0CF85A94478ED7F4CC8BA58C2B66D95C"
 msgid "Where can I find @MONSTER_RACE@?"
-msgstr ""
+msgstr "Где мне найти @MONSTER_RACE@?"
 
 #. Key:	0D1AA721421DF16BA8A3CB90943223E5
 #. SourceLocation:	/Game/Dialogue/Neela/Default/NeelaDefault01.Default__NeelaDefault01_C.SessionData.Lines(1).Lines
@@ -375,7 +375,7 @@ msgstr "Стерильный: Не способен дать потомство.
 #: /Game/Dialogue/Emissary/Default/EmissaryRaiseTraitLvl_RL.Default__EmissaryRaiseTraitLvl_RL_C.ResponseData(1).ResponseData.BreederPrompt
 msgctxt ",0EA2FCF24AF05A8FBEF98C9F2C767D3A"
 msgid "Decline"
-msgstr ""
+msgstr "Отказаться"
 
 #. Key:	0F0B2E364C42C3D6BACC018A46DB5BE4
 #. SourceLocation:	/Game/Dialogue/Falene/SexScenes/FaleneBlowJob.Default__FaleneBlowJob_C.SessionData.LinesToFuta(5).LinesToFuta
@@ -445,7 +445,7 @@ msgstr ""
 #: /Game/Dialogue/Emissary/Default/EmissaryBlessedInquiry02_R01.Default__EmissaryBlessedInquiry02_R01_C.SessionData.Lines(0).Lines
 msgctxt ",11020A854E2D02F780F8BEA52E1E313C"
 msgid "If it pleases you, do as you will."
-msgstr ""
+msgstr "Делай все что тебе нравится."
 
 #. Key:	1150B97A4723F9592EB22D9FDDA5B4AE
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToMale(15).LinesToMale
@@ -627,7 +627,7 @@ msgstr ""
 #: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(23 - Value).TraitIcons.HelpText
 msgctxt ",193B4CF045056BF6C0B7E0AF2A4A65FF"
 msgid "Valuable: Value is increased by 35%."
-msgstr ""
+msgstr "Породистый: Цена возрастает на 35%."
 
 #. Key:	193F948E4333F3741026EABB87402DD3
 #. SourceLocation:	/Game/Dialogue/Mirru/Default/MirruDefault01_BodySexToy.Default__MirruDefault01_BodySexToy_C.SessionData.LinesToFuta(2).LinesToFuta
@@ -2153,7 +2153,7 @@ msgstr ""
 #: /Game/Characters/Procedural/Variants/Vulwarg/Harvest/VulwargHarvest.Default__VulwargHarvest_C.Harvest.RaceName
 msgctxt ",5571CD514E0554257F78729BFE55899A"
 msgid "Vulwarg"
-msgstr ""
+msgstr "Вульварг"
 
 #. Key:	55894A674E5C647D1DC14EB1951CE50D
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(20 - Value).TraitIcons.HelpText
@@ -6346,7 +6346,7 @@ msgstr ""
 #: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(14 - Value).TraitIcons.DisplayName
 msgctxt ",FD257CB04C6B3AB420244298D2C33047"
 msgid "Hornball"
-msgstr ""
+msgstr "Похотливый"
 
 #. Key:	FD467EAE4829745CF23D4BA9D511E423
 #. SourceLocation:	/Game/Dialogue/Mirru/SexScenes/MirruSnatchF.Default__MirruSnatchF_C.SessionData.Lines(2).Lines
@@ -6367,7 +6367,7 @@ msgstr ""
 #: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(3 - Value).TravelShrines.ShrineName
 msgctxt ",FD8011CC4C321FCEC4C41F88F97FDCD1"
 msgid "Moaning Crag"
-msgstr ""
+msgstr "Стонущий утес"
 
 #. Key:	FD905EC14D8B8AC5E3D8D28AB7280C39
 #. SourceLocation:	/Game/Dialogue/Neela/Default/NeelaDefault01_YourVoid_RL.Default__NeelaDefault01_YourVoid_RL_C.ResponseData(0).ResponseData.BreederPrompt
@@ -6388,7 +6388,7 @@ msgstr ""
 #: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(7 - Value).TraitIcons.DisplayName
 msgctxt ",FDBDE7714A97FE255B38A0BACEC479DB"
 msgid "Tiny Size"
-msgstr ""
+msgstr "Карликовый"
 
 #. Key:	FE11832245764B482A5550B347EB143E
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToMale(25).LinesToMale
@@ -6451,4 +6451,4 @@ msgstr ""
 #: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(24 - Value).TraitIcons.HelpText
 msgctxt ",FFEB9256402DB5ADDFEED38770F40285"
 msgid "Busty: Inherited very large breasts."
-msgstr ""
+msgstr "Грудастая: Ну очень большая грудь."
