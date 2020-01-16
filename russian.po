@@ -109,7 +109,7 @@ msgstr "..."
 #: /Game/Characters/Procedural/Variants/Titan/Harvest/TitanHarvest.Default__TitanHarvest_C.Harvest.Description
 msgctxt ",035C033E4F7C9048462B63880FD96732"
 msgid "Titan body fluids."
-msgstr "Флюиды Титана"
+msgstr "Телесные жидкоси Титана"
 
 #. Key:	035F52234F8DA96ED37A5AAC5DD88039
 #. SourceLocation:	/Game/Dialogue/Camilla/SexScenes/CamillaAdorableLump.Default__CamillaAdorableLump_C.SessionData.LinesToMale(4).LinesToMale
@@ -1068,7 +1068,7 @@ msgstr "*Мурр*"
 #: /Game/Characters/Procedural/Variants/Dragon/Harvest/DragonHarvest.Default__DragonHarvest_C.Harvest.Description
 msgctxt ",2C3AAB1041FC7DDA3F11DBBAACA151F1"
 msgid "Dragon body fluids."
-msgstr "Флюиды Дракона"
+msgstr "Телесные жидкоси Дракона"
 
 #. Key:	2CCE0ADD406CF961196E5BAEDA387652
 #. SourceLocation:	/Game/Dialogue/Romy/Default/RomyDefault01_AboutMusic.Default__RomyDefault01_AboutMusic_C.SessionData.Lines(0).Lines
@@ -1425,7 +1425,7 @@ msgstr ""
 #: /Game/Dialogue/Neela/Default/NeelaDefault01_TastyHuman.Default__NeelaDefault01_TastyHuman_C.SessionData.Lines(0).Lines
 msgctxt ",3AD149F249D46CC8CCB146B464F0C53D"
 msgid "Ahhhhhh... finally!"
-msgstr "Аххххх... наконец-то!"
+msgstr "Ахшшшш... наконец-то!"
 
 #. Key:	3AD376874C56281EC3CDA2BCD39AC51E
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToFemale(21).LinesToFemale
@@ -1439,7 +1439,7 @@ msgstr ""
 #: /Game/Characters/Procedural/Variants/Starfallen/Harvest/StarfallenHarvest.Default__StarfallenHarvest_C.Harvest.Description
 msgctxt ",3B3FB5184F1E276BF9EE46AB7835441D"
 msgid "Starfallen body fluids."
-msgstr ""
+msgstr "Телесные жидкоси {Starfallen}"
 
 #. Key:	3B447AD04300826ECFC550A03A3AA0BC
 #. SourceLocation:	/Game/Dialogue/Fern/DefaultP3/FernDefault03_R02.Default__FernDefault03_R02_C.SessionData.Lines(4).Lines
@@ -1726,7 +1726,7 @@ msgstr ""
 #: /Game/Characters/Procedural/Variants/Sylvan/Harvest/SylvanHarvest.Default__SylvanHarvest_C.Harvest.Description
 msgctxt ",46DF2A6B40E2BC05DF3CD5879A17D834"
 msgid "Sylvan body fluids."
-msgstr ""
+msgstr "Телесные жидкости Обитателей леса"
 
 #. Key:	4713FDFD44B74E42186DE9AD0CAAEBC6
 #. SourceLocation:	/Game/Dialogue/Neela/SexScenes/NeelaSnakeCuddleF.Default__NeelaSnakeCuddleF_C.SessionData.Lines(3).Lines
@@ -2069,7 +2069,7 @@ msgstr "У Эмбер сиськи больше, чем у меня! Как же
 #: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(26 - Value).TraitIcons.DisplayName
 msgctxt ",5243F67240932D62D7FDFABA63222594"
 msgid "Hung"
-msgstr "Конь"
+msgstr "Жеребец"
 
 #. Key:	52570DF44A9EF55907B4EBBCCC8EFB52
 #. SourceLocation:	/Game/Dialogue/Fern/Default/FernDefault01_R04.Default__FernDefault01_R04_C.SessionData.Lines(0).Lines
@@ -2426,7 +2426,7 @@ msgstr ""
 #: /Game/Characters/Procedural/Variants/Bovaur/Harvest/BovaurHarvest.Default__BovaurHarvest_C.Harvest.Description
 msgctxt ",644065F84B0F2E772BE21695810A2F0F"
 msgid "Bovaur body fluids."
-msgstr ""
+msgstr "Телесные жидкости {Bovaur}"
 
 #. Key:	646A76464079BB23F12A50A6B8512B75
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToFemale(27).LinesToFemale
@@ -3567,7 +3567,7 @@ msgstr ""
 #: /Game/Characters/Procedural/Variants/Hybrid/Harvest/HybridHarvest.Default__HybridHarvest_C.Harvest.Description
 msgctxt ",8C95D2A04A969135BDEC06A780BBC656"
 msgid "Hybrid body fluids."
-msgstr "Флюиды Гибрида"
+msgstr "Телесные жидкости Гибрида"
 
 #. Key:	8CD67FB74B2E43F406AB5B932B717B19
 #. SourceLocation:	/Game/Dialogue/Mirru/Default/MirruDefault01_BodySexToy.Default__MirruDefault01_BodySexToy_C.SessionData.LinesToMale(2).LinesToMale
@@ -3581,7 +3581,7 @@ msgstr "Мысль о спаривании с человеком заставл�
 #: /Game/Characters/Procedural/Variants/Vulwarg/Harvest/VulwargHarvest.Default__VulwargHarvest_C.Harvest.Description
 msgctxt ",8D055D5140B28DADFD055EA100CF2F32"
 msgid "Vulwarg body fluids."
-msgstr "Флюиды Вульварга"
+msgstr "Телесные жидкости Вульварга"
 
 #. Key:	8D19606C4C2EC6C25E3CF1A4F53B952A
 #. SourceLocation:	/Game/Dialogue/Leylanna/Default/LeylannaDefault01_HowToSpiritForm.Default__LeylannaDefault01_HowToSpiritForm_C.SessionData.LinesToFemale(0).LinesToFemale
@@ -3623,7 +3623,7 @@ msgstr ""
 #: /Game/Characters/Procedural/Variants/Foxen/Harvest/FoxenHarvest.Default__FoxenHarvest_C.Harvest.Description
 msgctxt ",8E241E394ECAACAC71637784506ACEA1"
 msgid "Foxen body fluids."
-msgstr "Флюиды Лисы"
+msgstr "Телесные жидкости Лисы"
 
 #. Key:	8E5478244452BC05131C69AB8D675563
 #. SourceLocation:	/Game/Dialogue/AmberMae/Default/AmberMaeSuckJugs_RL.Default__AmberMaeSuckJugs_RL_C.ResponseData(1).ResponseData.BreederPrompt
@@ -3819,7 +3819,7 @@ msgstr ""
 #: /Game/Characters/Procedural/Variants/Harpy/Harvest/HarpyHarvest.Default__HarpyHarvest_C.Harvest.Description
 msgctxt ",9575F3C94F07BC8A511E8D85F3737E68"
 msgid "Harpy body fluids."
-msgstr "Флюиды Гарпи"
+msgstr "Телесные жидкости Гарпи"
 
 #. Key:	95781B414AAF336B071430A39FC2F698
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(5 - Value).TravelShrines.ShrineName
@@ -3987,7 +3987,7 @@ msgstr "Благословенные @MONSTER_RACE@ как и я разумны 
 #: /Game/Dialogue/Blossom/Default/BlossomDefault01_R02.Default__BlossomDefault01_R02_C.SessionData.Lines(0).Lines
 msgctxt ",9AF5988A4B6D8F174F3241B67F4033C8"
 msgid "Blossom!"
-msgstr "Блум!"
+msgstr "Сияние!"
 
 #. Key:	9B115CE5485736847F748591F0C8FB2A
 #. SourceLocation:	/Game/Dialogue/Neela/Default/NeelaDefault01_YourVoid.Default__NeelaDefault01_YourVoid_C.SessionData.LinesToMale(3).LinesToMale
@@ -4127,7 +4127,7 @@ msgstr ""
 #: /Game/Characters/Procedural/Variants/Formurian/Harvest/FormurianHarvest.Default__FormurianHarvest_C.Harvest.Description
 msgctxt ",A01964EC4E78EA32585A688D940B9FCC"
 msgid "Formurian body fluids."
-msgstr "Флюиды Формурианца"
+msgstr "Телесные жидкости Формуриан"
 
 #. Key:	A028577648369DBF41FFC6B04A76C3FA
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToFemale(5).LinesToFemale
@@ -4253,7 +4253,7 @@ msgstr "*Лизь*"
 #: /Game/Dialogue/Neela/Default/NeelaDefault01_YourVoid.Default__NeelaDefault01_YourVoid_C.SessionData.LinesToFuta(1).LinesToFuta
 msgctxt ",A6F150C044603E1020AC1BB1DA82BAF4"
 msgid "See, there is nowhere in @WORLD_NAME@ that I haven't slithered."
-msgstr "Понимаешь, в @WORLD_NAME@ нет такого места, где бы я не ползала."
+msgstr "Понимаешь, в @WORLD_NAME@ нет такого места, где бы я не побывал мой хвост"
 
 #. Key:	A709A6A94647E3F1218D6BB7BF74686D
 #. SourceLocation:	/Game/Dialogue/Blossom/Default/BlossomDefault_R03_RL.Default__BlossomDefault_R03_RL_C.ResponseData(0).ResponseData.BreederPrompt
@@ -4302,7 +4302,7 @@ msgstr "Да, я Раскрашенный Эльф!"
 #: /Game/Dialogue/Cassie/Default/CassieDefault01_Meow_StartSplinters.Default__CassieDefault01_Meow_StartSplinters_C.SessionData.Lines(0).Lines
 msgctxt ",A97AEF8E47499B2AEB627CAE711C36BC"
 msgid "MEOW!!! Penetrate me human!"
-msgstr ""
+msgstr "МЯУ!!! Войди в меня человек!"
 
 #. Key:	A9AE4A3A494201CBF1191DA42CD01CA8
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToFemale(0).LinesToFemale
@@ -4869,7 +4869,7 @@ msgstr ""
 #: /Game/Characters/Procedural/Variants/Thriae/Harvest/ThriaeHarvest.Default__ThriaeHarvest_C.Harvest.Description
 msgctxt ",BFE419FB4198F6466864C0A660018BA3"
 msgid "Thriae body fluids."
-msgstr ""
+msgstr "Телесные жидкости Пчелы"
 
 #. Key:	C03BBCDD4AACD3CC387AAAB2A4FD00E9
 #. SourceLocation:	/Game/Dialogue/Camilla/Default/CamillaDefault01_R01.Default__CamillaDefault01_R01_C.SessionData.Lines(1).Lines
@@ -5828,7 +5828,7 @@ msgstr ""
 #: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(1 - Value).TraitIcons.HelpText
 msgctxt ",E8789C0E4CCC57BB8A98178902DA8110"
 msgid "Exotic: Inherited more monster traits."
-msgstr "Экзотический: Уналедовал все черты родителей"
+msgstr "Экзотический: Унаследовал больше звериных черт"
 
 #. Key:	E89A6BB74D15111C98632A99F45745CC
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(17 - Value).TraitIcons.DisplayName
@@ -5863,14 +5863,14 @@ msgstr "Мы любим размножаться со всеми другими 
 #: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(1 - Value).TravelShrines.ShrineName
 msgctxt ",E95C5DA945F5D8A92099E9892F4615A7"
 msgid "Amorous Hallows"
-msgstr "Амурные Пещеры"
+msgstr "Пещеры Любви"
 
 #. Key:	E9B8B1C5455710ECF7299ABDF56BBA47
 #. SourceLocation:	/Game/Characters/Procedural/Variants/Neko/Harvest/NekoHarvest.Default__NekoHarvest_C.Harvest.Description
 #: /Game/Characters/Procedural/Variants/Neko/Harvest/NekoHarvest.Default__NekoHarvest_C.Harvest.Description
 msgctxt ",E9B8B1C5455710ECF7299ABDF56BBA47"
 msgid "Neko body fluids."
-msgstr ""
+msgstr "Телесные жидкости Кошки"
 
 #. Key:	EA5FEF4E48F8E04291135AA9D42A6CE4
 #. SourceLocation:	/Game/Dialogue/Mirru/Default/MirruDefault01_Formuria.Default__MirruDefault01_Formuria_C.SessionData.Lines(2).Lines
@@ -5919,7 +5919,7 @@ msgstr "Ну, я могу пропустить тебя но... я хочу по
 #: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(26 - Value).TraitIcons.HelpText
 msgctxt ",EC01A5624439E2DDB75614A1656451DD"
 msgid "Hung: Inherited a larger dick."
-msgstr "Конь: Увеличен размер полового члена."
+msgstr "Жеребец: Увеличен размер полового члена."
 
 #. Key:	EC6BFF394580DB5B2B148096C2994439
 #. SourceLocation:	/Game/Dialogue/Fern/DefaultP2/FernDefault02_RL_M.Default__FernDefault02_RL_M_C.ResponseData(0).ResponseData.BreederPrompt
@@ -6087,7 +6087,7 @@ msgstr ""
 #: /Game/Characters/Procedural/Variants/Demon/Harvest/DemonHarvest.Default__DemonHarvest_C.Harvest.Description
 msgctxt ",F3F4124041D97034B836478BD7FE0BF9"
 msgid "Demon body fluids."
-msgstr "Флюиды демона"
+msgstr "Телесные жидкости демона"
 
 #. Key:	F3FBCA874294C689B32721B1C210D74A
 #. SourceLocation:	/Game/Characters/Procedural/Variants/Thriae/Harvest/ThriaeHarvest.Default__ThriaeHarvest_C.Harvest.RaceName
@@ -6437,7 +6437,7 @@ msgstr ""
 #: /Game/Characters/Procedural/Variants/Seraphim/Harvest/SeraphimHarvest.Default__SeraphimHarvest_C.Harvest.Description
 msgctxt ",FF5A245B4A28E802C1A30CAC4B4DE4E5"
 msgid "Seraphim body fluids."
-msgstr "Флюиды Серафима"
+msgstr "Телесные жидкости Серафима"
 
 #. Key:	FFA17F124A05F93244CA07860B63DEA2
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToMale(5).LinesToMale
