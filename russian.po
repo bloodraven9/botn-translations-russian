@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: russian\n"
-"POT-Creation-Date: 2020-01-17 17:57\n"
-"PO-Revision-Date: 2020-01-17 17:57\n"
+"POT-Creation-Date: 2020-01-12 20:37\n"
+"PO-Revision-Date: 2020-01-12 20:37\n"
 "Language-Team: \n"
 "Language: ru-RU\n"
 "MIME-Version: 1.0\n"
@@ -4281,7 +4281,7 @@ msgstr ""
 #: /Game/Dialogue/Falene/Default/FaleneDefault01_RL.Default__FaleneDefault01_RL_C.ResponseData(6).ResponseData.BreederPrompt
 msgctxt ",A83161F4465E00C6CE9D718D3E76EDC6"
 msgid "What is the origin of the name \"@MONSTER_RACE@\"?"
-msgstr "Почему их так назвали \\@ MONSTER_RACE@\\?"
+msgstr "Почему их так назвали \ @ MONSTER_RACE@\?"
 
 #. Key:	A87432C446A6D9C7528A67B94431B712
 #. SourceLocation:	/Game/Dialogue/Falene/SexScenes/FaleneBlowJob.Default__FaleneBlowJob_C.SessionData.LinesToFuta(4).LinesToFuta
