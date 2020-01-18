@@ -1,4 +1,4 @@
-﻿# russian Russian (Russia) translation.
+# russian Russian (Russia) translation.
 # Copyright 1998-2019 Epic Games, Inc. All Rights Reserved.
 # 
 msgid ""
