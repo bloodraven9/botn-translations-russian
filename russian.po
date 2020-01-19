@@ -25,7 +25,7 @@ msgstr "Это моя финальная форма, и ощущается он�
 #: /Game/Dialogue/Cassie/Default/CassieDefault01_Meow.Default__CassieDefault01_Meow_C.SessionData.LinesToFemale(3).LinesToFemale
 msgctxt ",0061A5124B098F61DE991D81AB884112"
 msgid "This little leather tool belt can barely contain my butter stick!"
-msgstr "Этот маленький ремешок едва здерживает мою скольскую палочку"
+msgstr "Этот маленький ремешок едва здерживает мою скользкую палочку"
 
 #. Key:	01386D9C478E6BE9974F00942E5EA1E0
 #. SourceLocation:	/Game/Dialogue/Mirru/Default/MirruDefault01_RL.Default__MirruDefault01_RL_C.ResponseData(0).ResponseData.BreederPrompt
@@ -123,7 +123,7 @@ msgstr "Ахх, вскорми своим семенем мое тело! Зал
 #: /Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToFemale(6).LinesToFemale
 msgctxt ",03BD054E4D9907C2DF497EA4DCC0D8C3"
 msgid "My name is Falene, the leading @MONSTER_RACE@ specialist in all of @WORLD_NAME@."
-msgstr "Меня зовут Фалене, я ведущий специалист по @MONSTER_RACE@ во всем @WORLD_NAME@."
+msgstr "Меня зовут Фэйлине, я ведущий специалист по @MONSTER_RACE@ во всем @WORLD_NAME@."
 
 #. Key:	03C3FCAE4B8424BCF5F580BC933E08E8
 #. SourceLocation:	/Game/Dialogue/Fern/Default/FernDefault01_RL_T.Default__FernDefault01_RL_T_C.ResponseData(0).ResponseData.BreederPrompt
@@ -172,7 +172,7 @@ msgstr "Дай знать, как захочешь обновить свое р�
 #: /Game/Dialogue/Camilla/Default/CamillaDefault01_R07.Default__CamillaDefault01_R07_C.SessionData.LinesToFemale(0).LinesToFemale
 msgctxt ",0522652344116C917836F4A1A78C8815"
 msgid "Don't waste your beautiful tall body on me human. Just wait for Falene to come back, or go suck on Amber's tits."
-msgstr "Не трать на меня свои флюиды. Дождись, когда вернется Фалена, или иди соси сиськи Эмбер."
+msgstr "Не трать на меня свои флюиды. Дождись, когда вернется Фэйлина, или иди соси сиськи Эмбер."
 
 #. Key:	052657834F6DBDBBC49BDAADA6E5E88A
 #. SourceLocation:	/Game/Dialogue/Neela/Default/NeelaDefault01_RL.Default__NeelaDefault01_RL_C.ResponseData(2).ResponseData.BreederPrompt
@@ -256,7 +256,7 @@ msgstr "Можешь взять мое семя!"
 #: /Game/Dialogue/Falene/Default/FaleneDefault01_R07.Default__FaleneDefault01_R07_C.SessionData.LinesToFemale(1).LinesToFemale
 msgctxt ",0968DD0D4744523D6AFCEABE502C530F"
 msgid "I'm so horny I can't stand it anymore! Spread 'em human because here I come!"
-msgstr "Я так завелась что меня ноги не держат! Держись человек ибо я иду!"
+msgstr "Я так завелась что не могу устоять! Держись человек ибо я иду!!"
 
 #. Key:	0A1E776A4877D11A8A4716A6FEE789C1
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToMale(7).LinesToMale
@@ -480,7 +480,7 @@ msgstr "Прости мне мою задумчивость человек. Эм
 #: /Game/Dialogue/Neela/Default/NeelaDefault01_YourVoid.Default__NeelaDefault01_YourVoid_C.SessionData.LinesToMale(6).LinesToMale
 msgctxt ",11A588964451AB702EC48CA542D16E81"
 msgid "Stick that lovely human dick deep into my Lamia body... yes..."
-msgstr "Воньзи свой сладострастный человеческий член как можно глубже в моё Змеиное тело... да...
+msgstr "Вонзи свой сладострастный человеческий член как можно глубже в моё Змеиное тело... да...
 
 #. Key:	12036FB64912193341380BA267A64971
 #. SourceLocation:	/Game/Dialogue/Fern/DefaultP3/FernGreeting03.Default__FernGreeting03_C.SessionData.LinesToFemale(4).LinesToFemale
@@ -550,14 +550,14 @@ msgstr "Мне без разницы Титан ли ты! Ааааааах... �
 #: /Game/Dialogue/Fern/DefaultP3/FernDefault03_R02_R01.Default__FernDefault03_R02_R01_C.SessionData.Lines(1).Lines
 msgctxt ",13F822424D7968B826D8E79C10C52DBC"
 msgid "But we can make love now! Let's do that. Maybe something magical will happen."
-msgstr "Но сейчас мы можем предаться любви! Давайже отдадимся ей. Возможно, случится что-то волшебное."
+msgstr "Но сейчас мы можем предаться любви! Давай же отдадимся ей. Возможно, случится что-то волшебное."
 
 #. Key:	14597A3447ACFD81E4E72CB43D419E39
 #. SourceLocation:	/Game/Dialogue/Fern/DefaultP2/FernDefault02_R01.Default__FernDefault02_R01_C.SessionData.Lines(4).Lines
 #: /Game/Dialogue/Fern/DefaultP2/FernDefault02_R01.Default__FernDefault02_R01_C.SessionData.Lines(4).Lines
 msgctxt ",14597A3447ACFD81E4E72CB43D419E39"
 msgid "If I have to spend the rest of eternity in one spot, I wouldn't want it to be with anyone else..."
-msgstr "Если бы мне пришлось провести вечность в одном месте, я бы предпочла делать это вместе с кем-то..."
+msgstr "Если бы мне пришлось провести вечность на одном месте, я бы предпочла делать это вместе с кем-то..."
 
 #. Key:	146C8ABB4CFE56E192BE198657474339
 #. SourceLocation:	/Game/Dialogue/Blossom/Default/BlossomDefault01_R01.Default__BlossomDefault01_R01_C.SessionData.Lines(0).Lines
@@ -592,7 +592,7 @@ msgstr "Я приведу того кого ты хочешь."
 #: /Game/Dialogue/Falene/Default/FaleneDefault01_R03.Default__FaleneDefault01_R03_C.SessionData.Lines(3).Lines
 msgctxt ",1673BDD74EF0FBC4372DF3AD600FC03A"
 msgid "Those floating busty winged statues with all the sparkles... I will admit I get all tingly inside around them too!"
-msgstr "Те летающие грудастые статуи с крыльями и со всеми этими светлячками вокруг них... Должна признать, внутри меня всё бурлит находясь рядом с ними!"
+msgstr "Те летающие грудастые статуи с крыльями и со всеми этими светлячками вокруг них... Должна признать, внутри меня всё бурлит когда я нахожусь рядом с ними!"
 
 #. Key:	16E336BD48B5FD77EAAE96BC1BAAF7D4
 #. SourceLocation:	/Game/Dialogue/Camilla/SexScenes/CamillaAdorableLump.Default__CamillaAdorableLump_C.SessionData.LinesToMale(2).LinesToMale
@@ -739,7 +739,7 @@ msgstr "К сожалению, я больше не могу помочь вам
 #: /Game/Dialogue/Romy/Default/RomyDefault01_AboutMusic.Default__RomyDefault01_AboutMusic_C.SessionData.Lines(2).Lines
 msgctxt ",1DA742CA40AC6A3A7EC5B6834EEA93B8"
 msgid "Mermaids are unique Formurians, we hear frequencies most others cannot."
-msgstr "Русалки уникальны среди {Обитателей глубин}, мы слышим на частотах, на которых другие слышать не способны."
+msgstr "Русалки уникальны среди формуриан, мы слышим на частотах, на которых другие слышать не способны."
 
 #. Key:	1E23F2524EB7DC68DC07EC92E709C65F
 #. SourceLocation:	/Game/Dialogue/Fern/DefaultP3/FernGreeting03.Default__FernGreeting03_C.SessionData.LinesToFuta(4).LinesToFuta
@@ -760,7 +760,7 @@ msgstr "Столько удовольствия!Аххх..."
 #: /Game/Dialogue/Emissary/Default/EmissaryGreeting01.Default__EmissaryGreeting01_C.SessionData.Lines(5).Lines
 msgctxt ",1E80A3A048E90BE3C26622BC4F2230F7"
 msgid "Bring them to me so that the Goddess can be reunited with her children. You shall be rewarded with the crystalized cum of the Goddess Herself."
-msgstr "Приведи их комне что бы Богиня могла вновь соединится со своими детьми. Тебя будет ждать вознаграждение из кристаллизированного нектара Самой Богини."
+msgstr "Приведи их ко мне что бы Богиня могла вновь соединится со своими детьми. Тебя будет ждать вознаграждение из кристаллизированного нектара Самой Богини."
 
 #. Key:	1E9E8C004AF398F32ECD97B66BFC3438
 #. SourceLocation:	/Game/Dialogue/Fern/Default/FernDefault01_RL_M.Default__FernDefault01_RL_M_C.ResponseData(2).ResponseData.BreederPrompt
@@ -795,7 +795,7 @@ msgstr "Щедрый: При случке партнёр получает в 2 �
 #: /Game/Dialogue/Leylanna/Default/LeylannaDefault01_HowToSpiritForm.Default__LeylannaDefault01_HowToSpiritForm_C.SessionData.LinesToFemale(2).LinesToFemale
 msgctxt ",20149E5046FF32B65667FBA243C9BED4"
 msgid "Catch a female Foxen if you have not done so, and then return to me. We will then make love and form a covenant."
-msgstr "Поймай для меня самку Лисы, если у тебя её ещё нет, а затем вернись ко мне. Тогда мы преадимся любви и заключим договор."
+msgstr "Поймай для меня самку Лисы, если у тебя её ещё нет, а затем вернись ко мне. Тогда мы предадимся любви и заключим договор."
 
 #. Key:	2087D4A34628AB4B8A51C4827BDC8AA0
 #. SourceLocation:	/Game/Dialogue/Fern/SexScenes/FernMilk_01.Default__FernMilk_01_C.SessionData.Lines(6).Lines
@@ -1439,7 +1439,7 @@ msgstr ""
 #: /Game/Characters/Procedural/Variants/Starfallen/Harvest/StarfallenHarvest.Default__StarfallenHarvest_C.Harvest.Description
 msgctxt ",3B3FB5184F1E276BF9EE46AB7835441D"
 msgid "Starfallen body fluids."
-msgstr "Телесные жидкоси {Starfallen}"
+msgstr "Телесные жидкоси Странников"
 
 #. Key:	3B447AD04300826ECFC550A03A3AA0BC
 #. SourceLocation:	/Game/Dialogue/Fern/DefaultP3/FernDefault03_R02.Default__FernDefault03_R02_C.SessionData.Lines(4).Lines
@@ -1656,7 +1656,7 @@ msgstr "Тебе нравится мое змеинное тело?"
 #: /Game/Dialogue/Camilla/Default/CamillaDefault01_R07.Default__CamillaDefault01_R07_C.SessionData.LinesToFuta(0).LinesToFuta
 msgctxt ",43F7A9D34F081E2EA25537A60B42DBA3"
 msgid "Don't waste your delicious body fluid on me. Just wait for Falene to come back, or go suck on Amber's tits."
-msgstr "Не трать на меня свои флюиды. Дождись, когда вернется Фалена, или иди соси сиськи Эмбер."
+msgstr "Не трать на меня свои флюиды. Дождись, когда вернется Фэйлина, или иди соси сиськи Эмбер."
 
 #. Key:	44BC09AE4BDFA439FBFD8BAABD7A96D0
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(25 - Value).TraitIcons.DisplayName
@@ -1712,7 +1712,7 @@ msgstr "Проверить Кошек"
 #: /Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToMale(6).LinesToMale
 msgctxt ",464B0F3B450345A0F3EA8E98C67A5248"
 msgid "My name is Falene, the leading @MONSTER_RACE@ specialist in all of @WORLD_NAME@."
-msgstr "Меня зовут Фалене, я ведущий специалист по @ MONSTER_RACE@ во всем @WORLD_NAME@."
+msgstr "Меня зовут Фэйлине, я ведущий специалист по @ MONSTER_RACE@ во всем @WORLD_NAME@."
 
 #. Key:	4673804842CCE448A5F016907F5651DD
 #. SourceLocation:	/Game/Dialogue/Mirru/Default/MirruDefault01_Princess.Default__MirruDefault01_Princess_C.SessionData.Lines(1).Lines
@@ -2804,7 +2804,7 @@ msgstr ""
 #: /Game/Dialogue/Camilla/Default/CamillaDefault01_R04.Default__CamillaDefault01_R04_C.SessionData.Lines(1).Lines
 msgctxt ",70D390BA48724A55513FB282118180B9"
 msgid "Falene makes me stand on it. She says it's supposed to improve my self-esteem and compensate for my short stature."
-msgstr "Фалена заставляет меня встать на него. Она говорит, что это должно повысить мою самооценку и компенсировать мой низкий рост.{Сука!}"
+msgstr "Фэйлина заставляет меня встать на него. Она говорит, что это должно повысить мою самооценку и компенсировать мой низкий рост.{Сука!}"
 
 #. Key:	715058EB4BEB5B309FE658A485A718AA
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_R04.Default__FaleneDefault01_R04_C.SessionData.Lines(9).Lines
@@ -5044,7 +5044,7 @@ msgstr "Средний"
 #: /Game/Characters/Procedural/Variants/Starfallen/Harvest/StarfallenHarvest.Default__StarfallenHarvest_C.Harvest.RaceName
 msgctxt ",CA8A7F834A44AD0FFD7433BCE63D2DF7"
 msgid "Starfallen"
-msgstr "{Starfallen}"
+msgstr "Странник"
 
 #. Key:	CAB7654B473208B56B23F8857B8CBCA0
 #. SourceLocation:	/Game/Dialogue/Mirru/Default/MirruDefault01_BodySexToy.Default__MirruDefault01_BodySexToy_C.SessionData.LinesToFemale(0).LinesToFemale
@@ -6031,7 +6031,7 @@ msgstr "Множество @MONSTER_RACE@ можно найти в разных 
 #: /Game/Dialogue/Camilla/Default/CamillaDefault01_R07.Default__CamillaDefault01_R07_C.SessionData.LinesToMale(0).LinesToMale
 msgctxt ",F13E7CAC4E86FD0C4B9F639D0F536883"
 msgid "Don't waste your delicious body fluid on me. Just wait for Falene to come back, or go suck on Amber's tits."
-msgstr "Не трать на меня свои флюиды. Дождись, когда вернется Фалена, или иди соси сиськи Эмбер."
+msgstr "Не трать на меня свои флюиды. Дождись, когда вернется Фэйлина, или иди соси сиськи Эмбер."
 
 #. Key:	F15CA5AC442824FB00747A8771A80403
 #. SourceLocation:	/Game/Dialogue/Mirru/SexScenes/MirruKrakVag.Default__MirruKrakVag_C.SessionData.Lines(4).Lines
