@@ -6339,7 +6339,7 @@ msgstr "*Хлюп**Лизь*"
 #: /Game/Dialogue/Romy/Default/RomyGreeting01.Default__RomyGreeting01_C.SessionData.Lines(1).Lines
 msgctxt ",FCD1F71F4D144F31FDAB9F89767AC8E7"
 msgid "Yes it sounds so sweet, it is the sound of human desire. Ahhh... it grows louder as your gaze turns upon my breasts."
-msgstr ""
+msgstr "Да, это звучит столь сладко, этот звук человеческого желания. Аххх... Он становится все громче, как только ваш взгяд устремляется на мою грудь."
 
 #. Key:	FD257CB04C6B3AB420244298D2C33047
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(14 - Value).TraitIcons.DisplayName
