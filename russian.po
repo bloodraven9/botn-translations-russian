@@ -1019,7 +1019,7 @@ msgstr "Ты благословенный @MONSTER_RACE@?"
 #: /Game/Dialogue/Cassie/Default/CassieDefault01_Meow_RL_T.Default__CassieDefault01_Meow_RL_T_C.ResponseData(1).ResponseData.BreederPrompt
 msgctxt ",2AA4EC89483BB63996FEBE9BC4E4055A"
 msgid "Butter stick? Are you serious?"
-msgstr ""
+msgstr "Скользкая палочка? Ты серьёзно?"
 
 #. Key:	2ABC84814DE5DC3039A61BBA0723AF73
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(7 - Value).TraitIcons.HelpText
@@ -1040,7 +1040,7 @@ msgstr "Можешь взять мое семя!"
 #: /Game/Dialogue/Mirru/Default/MirruDefault01_Princess.Default__MirruDefault01_Princess_C.SessionData.Lines(3).Lines
 msgctxt ",2B4CCE054929809171D1D88C30341FB2"
 msgid "Mother has reigned for 788 years human, and it is law that rulers stepdown at 800."
-msgstr ""
+msgstr "Моя мать царствовала 788 лет человек, и по нашим законам в возврасте 800 лет она обязана освободить трон."
 
 #. Key:	2BA86FB140866995E4F323B86DA72C9A
 #. SourceLocation:	/Game/Dialogue/Emissary/Default/EmissaryDefault01_SellMonsters.Default__EmissaryDefault01_SellMonsters_C.SessionData.Lines(0).Lines
@@ -1054,7 +1054,7 @@ msgstr "Богиня одобряет."
 #: /Game/Dialogue/Romy/Default/RomyDefault01_YourMusic_RL.Default__RomyDefault01_YourMusic_RL_C.ResponseData(1).ResponseData.BreederPrompt
 msgctxt ",2BCA631C4BEC509E1B1DAC824001A31A"
 msgid "Whoa, actually I'm tone-deaf."
-msgstr ""
+msgstr "Эм, знаешь, я на самом деле глухой."
 
 #. Key:	2BF4676042EE4C0FA5B54F8CDCD3C5A6
 #. SourceLocation:	/Game/Dialogue/Cassie/SexScenes/CassieSplintersT.Default__CassieSplintersT_C.SessionData.Lines(1).Lines
@@ -1075,21 +1075,21 @@ msgstr "Телесные жидкоси Дракона"
 #: /Game/Dialogue/Romy/Default/RomyDefault01_AboutMusic.Default__RomyDefault01_AboutMusic_C.SessionData.Lines(0).Lines
 msgctxt ",2CCE0ADD406CF961196E5BAEDA387652"
 msgid "Can you not hear it?"
-msgstr ""
+msgstr "Разве ты не слышишь"
 
 #. Key:	2D40A8404D1D3D0D2D24B49349427E5A
 #. SourceLocation:	/Game/Dialogue/Fern/DefaultP3/FernGreeting03.Default__FernGreeting03_C.SessionData.LinesToFemale(3).LinesToFemale
 #: /Game/Dialogue/Fern/DefaultP3/FernGreeting03.Default__FernGreeting03_C.SessionData.LinesToFemale(3).LinesToFemale
 msgctxt ",2D40A8404D1D3D0D2D24B49349427E5A"
 msgid "I suppose there is no need to feed me anymore, but we can always do other things with my amazing flower body!"
-msgstr ""
+msgstr "Полагаю, я более не нуждаюсь в подкормке, однако мы всегда можем делать разные штуки с моим удивительным цветочным телом!"
 
 #. Key:	2DBE58DB4B0AEBCB9FDD04BC94C039BD
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_R04.Default__FaleneDefault01_R04_C.SessionData.Lines(5).Lines
 #: /Game/Dialogue/Falene/Default/FaleneDefault01_R04.Default__FaleneDefault01_R04_C.SessionData.Lines(5).Lines
 msgctxt ",2DBE58DB4B0AEBCB9FDD04BC94C039BD"
 msgid "I frequently must change my lower garments since my vagina is always very wet--it's a common problem for blessed @MONSTER_RACE@ that wear clothes."
-msgstr ""
+msgstr "Мне часто приходится менять исподнее так как я почти всё время мокрая--впрочем, это распространённая проблема для благословлённых @MONSTER_RACE@, если они носят одежду."
 
 #. Key:	2DC7EABB434FE7136DE3498D19A6B8B9
 #. SourceLocation:	/Game/Dialogue/Fern/SexScenes/FernMilk_01.Default__FernMilk_01_C.SessionData.Lines(4).Lines
@@ -1110,7 +1110,7 @@ msgstr "Я хочу услышатьтвою {музыку/песню}."
 #: /Game/Dialogue/Falene/Default/FaleneDefault01_R04.Default__FaleneDefault01_R04_C.SessionData.Lines(0).Lines
 msgctxt ",2E18B0B24CC860D3136F0CA493EDDD3B"
 msgid "Ohhh... that's going to be tough to talk about without cumming right here..."
-msgstr ""
+msgstr "Ооох...это быдет очень жёстко разговаривать об этом и не кончить прямо здесь..."
 
 #. Key:	2E25C7F94C5F91F1328BC39C52574333
 #. SourceLocation:	/Game/Dialogue/Falene/SexScenes/FaleneBlowJob.Default__FaleneBlowJob_C.SessionData.LinesToMale(1).LinesToMale
@@ -1124,7 +1124,7 @@ msgstr "*Чмок**Чмок*"
 #: /Game/Dialogue/Falene/Default/FaleneDefault01_R02.Default__FaleneDefault01_R02_C.SessionData.Lines(2).Lines
 msgctxt ",2E354C3547A22A28F21C20ABC438099D"
 msgid "Blessed @MONSTER_RACE@ are like you humans--we are self aware and intelligent."
-msgstr ""
+msgstr "Благословлённые @MONSTER_RACE@ совсем как вы, люди--мы так же имеем разум и самосознание"
 
 #. Key:	2E7BB9B84F5D0CB4DA2DF986BEFCB857
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToFuta(0).LinesToFuta
