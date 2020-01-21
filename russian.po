@@ -816,7 +816,7 @@ msgstr "Вы только что стали новым жителем @WORLD_NAM
 #: /Game/Dialogue/Blossom/Default/BlossomDefault01_R01.Default__BlossomDefault01_R01_C.SessionData.Lines(1).Lines
 msgctxt ",210B50F94F9FCF3416F33C880389C277"
 msgid "With Mastah's body fluid... mother made me. Still sapling... want fluidsss!"
-msgstr "Ш помощью флюидов Маштера...  Пока ещё рошток... хочу флюидов!"
+msgstr "Ш помощью флюидов Маштера... Мама-Ферн шоздала меня. Пока ещё рошток... хочу флюидов!"
 
 #. Key:	2126F09F4B710631419B5DABA6528521
 #. SourceLocation:	/Game/Dialogue/Fern/SexScenes/FernMilk_01.Default__FernMilk_01_C.SessionData.Lines(5).Lines
