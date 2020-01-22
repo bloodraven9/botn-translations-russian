@@ -1915,7 +1915,7 @@ msgstr ""
 #: /Game/Dialogue/Camilla/Default/CamillaDefault01_R07_RL.Default__CamillaDefault01_R07_RL_C.ResponseData(0).ResponseData.BreederPrompt
 msgctxt ",4DE4EDAD457F0C2715629B82E07D5D91"
 msgid "Oh come here you lovable shortstack!"
-msgstr "О, иди сюда, {милый коротышка}!"
+msgstr "О, иди сюда, моя милая коротышечка!"
 
 #. Key:	4E12D93143928EAE2221E7A3621657C0
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_R01.Default__FaleneDefault01_R01_C.SessionData.Lines(8).Lines
@@ -2132,7 +2132,7 @@ msgstr "Прости меня, если я была груба! Надеюсь, 
 #: /Game/Dialogue/Falene/Default/FaleneDefault01_R02.Default__FaleneDefault01_R02_C.SessionData.Lines(4).Lines
 msgctxt ",54A656CF43AE3DD98B149D8CB0E836B1"
 msgid "It's frustrating, I can't even remember how I got here, nor can any of the others I've spoken to. We share common dreams about humans... that's it."
-msgstr ""
+msgstr "Досадно, я даже не помню, как попала сюда, как и все остальные. У нас общие {мечты/глюки/сны} о людях... Как-то так."
 
 #. Key:	554D996445578E57126935A57AEBB8F3
 #. SourceLocation:	/Game/Dialogue/Fern/DefaultP2/FernDefault02_R03.Default__FernDefault02_R03_C.SessionData.Lines(0).Lines
@@ -2181,7 +2181,7 @@ msgstr "Девственные Разломы"
 #: /Game/Dialogue/Neela/Default/NeelaDefault01_YourVoid.Default__NeelaDefault01_YourVoid_C.SessionData.LinesToFemale(5).LinesToFemale
 msgctxt ",5624D94B49EF02787D13EDAFB71F472A"
 msgid "Ohhh... would you please this old warden? It is a lonely life..."
-msgstr ""
+msgstr "Ох... Развей печаль старушки надзирателя? Здесь так одиноко..."
 
 #. Key:	567F4EF7487947546DDFE3B0195DFDEB
 #. SourceLocation:	/Game/Dialogue/Neela/SexScenes/NeelaSnakeCuddleF.Default__NeelaSnakeCuddleF_C.SessionData.Lines(0).Lines
