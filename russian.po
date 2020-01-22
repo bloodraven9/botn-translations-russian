@@ -1341,7 +1341,7 @@ msgstr "О! Человек!"
 #: /Game/Dialogue/Mirru/Default/MirruDefault01_BodySexToy.Default__MirruDefault01_BodySexToy_C.SessionData.LinesToFemale(4).LinesToFemale
 msgctxt ",37933117464CBF3120925D83C7A81935"
 msgid "Imagine how good my tentacles will feel between your labia... and I promise they will touch every corner."
-msgstr "Представь, как мои щупальца раздвигают твоими губки... и ведь они могут достать до самых потенных мест."
+msgstr "Представь, как мои щупальца раздвигают твои губки... и ведь они могут достать до самых потенных мест."
 
 #. Key:	37BE82A749B75C694B68B3856342C2A7
 #. SourceLocation:	/Game/Dialogue/Falene/SexScenes/FaleneBlowJob.Default__FaleneBlowJob_C.SessionData.LinesToMale(4).LinesToMale
@@ -1642,7 +1642,7 @@ msgstr "Принять"
 #: /Game/Dialogue/Mirru/Default/MirruDefault01_MultipleHearts.Default__MirruDefault01_MultipleHearts_C.SessionData.Lines(1).Lines
 msgctxt ",43D16A4C487E8E717D3AF2A72A1F2C56"
 msgid "Way to kill the mood human."
-msgstr "{Ты все испортишь человек.}"
+msgstr "Ты все портишь человек."
 
 #. Key:	43D6E7FC4718254A804FD5AF3D1C8186
 #. SourceLocation:	/Game/Dialogue/Neela/SexScenes/NeelaSnakeCuddleT.Default__NeelaSnakeCuddleT_C.SessionData.Lines(3).Lines
@@ -2181,7 +2181,7 @@ msgstr "Девственные Разломы"
 #: /Game/Dialogue/Neela/Default/NeelaDefault01_YourVoid.Default__NeelaDefault01_YourVoid_C.SessionData.LinesToFemale(5).LinesToFemale
 msgctxt ",5624D94B49EF02787D13EDAFB71F472A"
 msgid "Ohhh... would you please this old warden? It is a lonely life..."
-msgstr "Ох... Развей печаль старушки надзирателя? Здесь так одиноко..."
+msgstr "Ох... Здесь так одиноко... Развей печаль старушки надзирателя."
 
 #. Key:	567F4EF7487947546DDFE3B0195DFDEB
 #. SourceLocation:	/Game/Dialogue/Neela/SexScenes/NeelaSnakeCuddleF.Default__NeelaSnakeCuddleF_C.SessionData.Lines(0).Lines
@@ -2265,7 +2265,7 @@ msgstr "Ферн, твой бутон разговаривает!"
 #: /Game/Dialogue/Neela/Default/NeelaDefault01_YourVoid.Default__NeelaDefault01_YourVoid_C.SessionData.LinesToFuta(7).LinesToFuta
 msgctxt ",5AEA5C7F4EB5E13F37FC0C9552530212"
 msgid "I want to feel warm human cum course through me!"
-msgstr ""
+msgstr "Я хочу чувствовать теплую человеческую сперму, внутри себя!"
 
 #. Key:	5B50ECD6460E78702D62488307BE2A0A
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_RL.Default__FaleneDefault01_RL_C.ResponseData(7).ResponseData.BreederPrompt
@@ -2482,7 +2482,7 @@ msgstr ""
 #: /Game/Dialogue/Fern/DefaultP2/FernDefault02_R04.Default__FernDefault02_R04_C.SessionData.Lines(0).Lines
 msgctxt ",659F65A5454F216DBCA2DE943F3D816D"
 msgid "Oh Master... you are too good to me."
-msgstr ""
+msgstr "О, Мастер... ты слишком добр ко мне."
 
 #. Key:	65F2B1384977D80660A4E4A91389BC9D
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(12 - Value).TraitIcons.DisplayName
@@ -2608,7 +2608,7 @@ msgstr "Оххх, здоровый человеческий член! Восхи
 #: /Game/Dialogue/AmberMae/Default/AmberMaeSuckJugs_Start.Default__AmberMaeSuckJugs_Start_C.SessionData.Lines(0).Lines
 msgctxt ",6AD76D124EA5FF55B998D39AD1070F08"
 msgid "Oh my! Ohhhh!"
-msgstr ""
+msgstr "О, моя... Аххх!.."
 
 #. Key:	6B00C5C74D9E87523316E2827BCF76F6
 #. SourceLocation:	/Game/Dialogue/Falene/SexScenes/FaleneBlowJob.Default__FaleneBlowJob_C.SessionData.LinesToFuta(1).LinesToFuta
@@ -2706,7 +2706,7 @@ msgstr ""
 #: /Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToFuta(24).LinesToFuta
 msgctxt ",6E9F24A04A1B818667C201B33366EB1B"
 msgid "You will no doubt encounter blessed ones in this world who simply want their desires fulfilled."
-msgstr ""
+msgstr "Без сомнения ты, встретишь еще Благословенных, они зхотят утолить свои желания."
 
 #. Key:	6EA72B844C05F4F77473C38011839AB4
 #. SourceLocation:	/Game/Dialogue/Camilla/Default/CamillaDefault01_R08.Default__CamillaDefault01_R08_C.SessionData.Lines(0).Lines
@@ -2797,7 +2797,7 @@ msgstr ""
 #: /Game/Dialogue/Falene/Default/FaleneDefault01_FutaBalls.Default__FaleneDefault01_FutaBalls_C.SessionData.Lines(3).Lines
 msgctxt ",70CF21944D42682E43C6EBB4A8757DB0"
 msgid "Like we say here in @WORLD_NAME@: SUGAR WALLS BEFORE BALLS!!"
-msgstr ""
+msgstr "Как мы говорим в @WORLD_NAME@: Карамельные губки превыше шаров!!!"
 
 #. Key:	70D390BA48724A55513FB282118180B9
 #. SourceLocation:	/Game/Dialogue/Camilla/Default/CamillaDefault01_R04.Default__CamillaDefault01_R04_C.SessionData.Lines(1).Lines
@@ -3000,7 +3000,7 @@ msgstr ""
 #: /Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToMale(24).LinesToMale
 msgctxt ",77DDFABE4F632A4183C2FE891D6AC9EA"
 msgid "You will no doubt encounter blessed ones in this world who simply want their desires fulfilled."
-msgstr ""
+msgstr "Без сомнения ты, встретишь еще Благословенных, они зхотят утолить свои желания."
 
 #. Key:	77E7C4FC4287147D1A10F5BD3D5F5081
 #. SourceLocation:	/Game/Dialogue/Romy/Default/RomyDefault01_AboutMusic.Default__RomyDefault01_AboutMusic_C.SessionData.Lines(5).Lines
@@ -3028,7 +3028,7 @@ msgstr "Худышка"
 #: /Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToFemale(13).LinesToFemale
 msgctxt ",78BE7208419A717547042586055934C2"
 msgid "Just looking at you is filling me with burning desire... "
-msgstr ""
+msgstr "Один только взгляд на тебя наполняет меня жгучим желанием..."
 
 #. Key:	78CE278740CEF8CBD44C7699C20FEA54
 #. SourceLocation:	/Game/Dialogue/Neela/Default/NeelaDefault01_AboutLamias.Default__NeelaDefault01_AboutLamias_C.SessionData.Lines(1).Lines
@@ -3322,7 +3322,7 @@ msgstr ""
 #: /Game/Dialogue/Fern/DefaultP2/FernDefault02.Default__FernDefault02_C.SessionData.LinesToFuta(3).LinesToFuta
 msgctxt ",85F4F7D540B5915CFE03BCB33A1C34E7"
 msgid "Let me wrap my lips around that fat cock of yours, my body longs for your warm cum."
-msgstr ""
+msgstr "Позволь моим губам обнять твой большой член, мое тело жаждет твоей теплой спермы."
 
 #. Key:	85F88762464249CF2ADFD0AFB3D92DB4
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_R05.Default__FaleneDefault01_R05_C.SessionData.Lines(3).Lines
@@ -3686,7 +3686,7 @@ msgstr ""
 #: /Game/Dialogue/Fern/DefaultP2/FernDefault02.Default__FernDefault02_C.SessionData.LinesToFemale(3).LinesToFemale
 msgctxt ",902A41DB403EFA60B99E8CB596EFE0BF"
 msgid "My body longs for your delicious breast milk."
-msgstr ""
+msgstr "Мое тело жаждет твоего восхитительного молока."
 
 #. Key:	907E7C35462D4EC3BC72C5B05C7ABDB9
 #. SourceLocation:	/Game/Dialogue/Romy/Default/RomyGreeting01.Default__RomyGreeting01_C.SessionData.LinesGrungy(2).LinesGrungy
@@ -3714,7 +3714,7 @@ msgstr "Гедонист: Получает больше опыта чем его
 #: /Game/Dialogue/Blossom/Default/BlossomGreeting01.Default__BlossomGreeting01_C.SessionData.Lines(4).Lines
 msgctxt ",90CF176E415EE7CEA27716868800482A"
 msgid "Timeeee for the fluidsssss?"
-msgstr ""
+msgstr "Времяяяя дойкииии?"
 
 #. Key:	90DA01BE4F6814F010ECF99D4730B696
 #. SourceLocation:	/Game/Characters/Procedural/Variants/Dragon/Harvest/DragonHarvest.Default__DragonHarvest_C.Harvest.RaceName
@@ -3798,7 +3798,7 @@ msgstr ""
 #: /Game/Dialogue/Fern/DefaultP2/FernDefault02_R02.Default__FernDefault02_R02_C.SessionData.Lines(0).Lines
 msgctxt ",9471D48E445DF08463FDFC8291100E4E"
 msgid "Indeed! Your delicious fluid has done wonders."
-msgstr ""
+msgstr "Действительно! Твоя восхитительная жидкость творит чудеса."
 
 #. Key:	94861BA24AA560F31BB02F9A4AC431F9
 #. SourceLocation:	/Game/Dialogue/Mirru/Default/MirruDefault01_Princess.Default__MirruDefault01_Princess_C.SessionData.Lines(2).Lines
@@ -3868,7 +3868,7 @@ msgstr "Ахх... {подойди/кончай} человек!"
 #: /Game/Dialogue/Neela/Default/NeelaDefault01_YourVoid.Default__NeelaDefault01_YourVoid_C.SessionData.LinesToFemale(2).LinesToFemale
 msgctxt ",96D35D8C41748461CFD8F9A9404E42B5"
 msgid "I have experienced @MONSTER_RACE@ dick and vagina beyond comprehension."
-msgstr ""
+msgstr "Я познал {член и влагалище @MONSTER_RACE@ за пределами понимания}."
 
 #. Key:	97086CA946BFA31C6199599097E76015
 #. SourceLocation:	/Game/Dialogue/Cassie/SexScenes/CassieButterButtF.Default__CassieButterButtF_C.SessionData.Lines(4).Lines
@@ -3924,14 +3924,14 @@ msgstr "Почему у футы нет яиц?"
 #: /Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToFemale(24).LinesToFemale
 msgctxt ",9826413940251A15497827A9930F74C3"
 msgid "You will no doubt encounter blessed ones in this world who simply want their desires fulfilled."
-msgstr ""
+msgstr "Без сомнения ты, встретишь еще Благословенных, они зхотят утолить свои желания."
 
 #. Key:	9828516944EAF3071BF52881396D2B01
 #. SourceLocation:	/Game/Dialogue/Blossom/Default/BlossomDefault01.Default__BlossomDefault01_C.SessionData.Lines(2).Lines
 #: /Game/Dialogue/Blossom/Default/BlossomDefault01.Default__BlossomDefault01_C.SessionData.Lines(2).Lines
 msgctxt ",9828516944EAF3071BF52881396D2B01"
 msgid "Timeeee for harvest fluidsssss?"
-msgstr ""
+msgstr "Времяяяя дойкииии?"
 
 #. Key:	985E4BA14797DC7FF94FF4974E66471A
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_R06.Default__FaleneDefault01_R06_C.SessionData.Lines(6).Lines
@@ -4036,7 +4036,7 @@ msgstr ""
 #: /Game/Dialogue/Neela/Default/NeelaDefault01_YourVoid.Default__NeelaDefault01_YourVoid_C.SessionData.LinesToMale(2).LinesToMale
 msgctxt ",9D593DC94FAA9CCF2CB35CBA7EA06A73"
 msgid "I have experienced @MONSTER_RACE@ dick and vagina beyond comprehension."
-msgstr ""
+msgstr "Я познал {член и влагалище @MONSTER_RACE@ за пределами понимания}."
 
 #. Key:	9DE705ED4BD5D59C986C0DA2BDD7CFF5
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_R06.Default__FaleneDefault01_R06_C.SessionData.Lines(5).Lines
@@ -4134,7 +4134,7 @@ msgstr "Телесные жидкости Формуриан"
 #: /Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToFemale(5).LinesToFemale
 msgctxt ",A028577648369DBF41FFC6B04A76C3FA"
 msgid "Oh silly me, I never introduced myself."
-msgstr ""
+msgstr "О, какая я глупая, так и не представилась."
 
 #. Key:	A0B57F5941F9CAEBBB30CF828C3E26AC
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_R01.Default__FaleneDefault01_R01_C.SessionData.Lines(12).Lines
@@ -4239,7 +4239,7 @@ msgstr "Вот кто я!"
 #: /Game/Dialogue/Mirru/Default/MirruGreeting01.Default__MirruGreeting01_C.SessionData.Lines(1).Lines
 msgctxt ",A6DD5AA2419F165755885E8ED44BB09B"
 msgid "You are lucky, for today you have crossed paths with the Kraken princess of Formuria."
-msgstr ""
+msgstr "Тебе повезло, ибо ты сегодня повтречал принцессу кракенов Формурии."
 
 #. Key:	A6EE239344DA6CC08AFE6E8689A1996F
 #. SourceLocation:	/Game/Dialogue/Neela/SexScenes/NeelaSnakeCuddleF.Default__NeelaSnakeCuddleF_C.SessionData.Lines(1).Lines
@@ -4260,7 +4260,7 @@ msgstr "Понимаешь, в @WORLD_NAME@ нет такого места, гд
 #: /Game/Dialogue/Blossom/Default/BlossomDefault_R03_RL.Default__BlossomDefault_R03_RL_C.ResponseData(0).ResponseData.BreederPrompt
 msgctxt ",A709A6A94647E3F1218D6BB7BF74686D"
 msgid "Oh no not again..."
-msgstr ""
+msgstr "О нет, снова..."
 
 #. Key:	A7310E5A43F60121BD9352B96FBB8369
 #. SourceLocation:	/Game/Dialogue/Romy/Default/RomyDefault01_RL.Default__RomyDefault01_RL_C.ResponseData(3).ResponseData.BreederPrompt
@@ -4358,7 +4358,7 @@ msgstr "Быкавр"
 #: /Game/Dialogue/Mirru/Default/MirruDefault01_Princess.Default__MirruDefault01_Princess_C.SessionData.Lines(0).Lines
 msgctxt ",ABE8783F45F5B2BBC550D384AB07C325"
 msgid "Indeed, and soon queen of all Formuria."
-msgstr ""
+msgstr "Конечно, и будущая королева всей Формурии."
 
 #. Key:	ABE9EC6846B58FCFACC56D9EEF9C2B8B
 #. SourceLocation:	/Game/Characters/Procedural/Variants/Titan/Harvest/TitanHarvest.Default__TitanHarvest_C.Harvest.RaceName
@@ -4589,7 +4589,7 @@ msgstr ""
 #: /Game/Dialogue/Fern/DefaultP3/FernDefault03.Default__FernDefault03_C.SessionData.LinesToFemale(3).LinesToFemale
 msgctxt ",B48E37AC4977FA95BA4EB3B39018F087"
 msgid "My body longs for your delicious breast milk."
-msgstr ""
+msgstr "Мое тело жаждет твоего восхитительного молока."
 
 #. Key:	B4EFBB67424526E49554149C5ADDE508
 #. SourceLocation:	/Game/Dialogue/Camilla/SexScenes/CamillaAdorableLump.Default__CamillaAdorableLump_C.SessionData.LinesToFuta(0).LinesToFuta
@@ -4897,7 +4897,7 @@ msgstr ""
 #: /Game/Dialogue/Mirru/Default/MirruDefault01_AboutKrakens.Default__MirruDefault01_AboutKrakens_C.SessionData.Lines(4).Lines
 msgctxt ",C18558714C7A7B697778D68CFD03FAF0"
 msgid "Such has caused many a Kraken to force herself on weaker mates."
-msgstr ""
+msgstr "Это заставляло многих кракенов насиловать более слабых партнеров."
 
 #. Key:	C198075048B96603CACC81A045A05956
 #. SourceLocation:	/Game/Dialogue/Neela/Default/NeelaDefault01_PussyPortals.Default__NeelaDefault01_PussyPortals_C.SessionData.Lines(1).Lines
@@ -4974,7 +4974,7 @@ msgstr "Мне нравится это имя Ферн. Шшш!"
 #: /Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToMale(12).LinesToMale
 msgctxt ",C5F9CCA94803FF5DA8A42E947B60C68D"
 msgid "Just looking at you is filling me with burning desire... "
-msgstr ""
+msgstr "Один только взгляд на тебя наполняет меня жгучим желанием..."
 
 #. Key:	C636175C4CF5AE827A704F85AE8E4032
 #. SourceLocation:	/Game/Dialogue/Leylanna/Default/LeylannaDefault01_Emissary.Default__LeylannaDefault01_Emissary_C.SessionData.Lines(5).Lines
@@ -5009,7 +5009,7 @@ msgstr "Будьте осторожны, некоторые могут подд�
 #: /Game/Dialogue/Leylanna/Default/LeylannaDefault01_RL.Default__LeylannaDefault01_RL_C.ResponseData(2).ResponseData.BreederPrompt
 msgctxt ",C77FA616486308414031F29069272188"
 msgid "Let's recharge my spirit form."
-msgstr ""
+msgstr "Давай Востановим мою духовную энергию."
 
 #. Key:	C7BA93A840AB5FA97F357E802955A851
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(1 - Value).TraitIcons.DisplayName
@@ -5128,7 +5128,7 @@ msgstr ""
 #: /Game/Dialogue/Fern/DefaultP3/FernDefault03.Default__FernDefault03_C.SessionData.LinesToFuta(3).LinesToFuta
 msgctxt ",CEC660F240FC0F1941C19ABA02D18068"
 msgid "Let me wrap my lips around that fat cock of yours, my body longs for your warm cum."
-msgstr ""
+msgstr "Позволь моим губам обнять твой большой член, мое тело жаждет твоей теплой спермы."
 
 #. Key:	CEE2CED74492461582B4EB8D5D2CB4B6
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_R02.Default__FaleneDefault01_R02_C.SessionData.Lines(11).Lines
@@ -5219,7 +5219,7 @@ msgstr "Когда маштер не захочит доить... Ферн эт�
 #: /Game/Dialogue/Camilla/Default/CamillaGreeting01.Default__CamillaGreeting01_C.SessionData.Lines(1).Lines
 msgctxt ",D2DF40244F8B96F91F4101A5AD5F08AA"
 msgid "I'm Camilla! Falene's little goblin assistant! You probably won't need to talk to me much because she's the smart one around here."
-msgstr ""
+msgstr "Я - Камилла! Маленький гоблин - помощник Фейлин! Тебе, наверное, не стоит говорить со мной, Фейлин здесь самая умная."
 
 #. Key:	D395A99C4C2FAC4029FBE0A0AACFDE16
 #. SourceLocation:	/Game/Dialogue/Emissary/Default/EmissaryDefault01_Leylanna.Default__EmissaryDefault01_Leylanna_C.SessionData.Lines(3).Lines
@@ -5275,7 +5275,7 @@ msgstr ""
 #: /Game/Dialogue/Leylanna/Default/LeylannaDefault01_RechargeSpiritForm_RL_T.Default__LeylannaDefault01_RechargeSpiritForm_RL_T_C.ResponseData(0).ResponseData.BreederPrompt
 msgctxt ",D4F1F3F04E4BCBC46FFF2E9AC9B301C0"
 msgid "Let's make love!"
-msgstr ""
+msgstr "Давай займемся любовью!!"
 
 #. Key:	D535E0D84F73A7E07CA72DA2ED4F1B11
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(17 - Value).TraitIcons.HelpText
@@ -5289,7 +5289,7 @@ msgstr ""
 #: /Game/Dialogue/Neela/Default/NeelaDefault01_YourVoid.Default__NeelaDefault01_YourVoid_C.SessionData.LinesToFemale(6).LinesToFemale
 msgctxt ",D57D76E842FCC75ECC756BA13E9E8C9B"
 msgid "Let me lick that sweet human vagina of yours... yes..."
-msgstr ""
+msgstr "Позволь мне вылизать твою сладкую ванигу... да..."
 
 #. Key:	D5A1DB2341980090F900379E1AE48051
 #. SourceLocation:	/Game/Dialogue/Camilla/Default/CamillaDefault01_R01.Default__CamillaDefault01_R01_C.SessionData.Lines(4).Lines
@@ -5345,7 +5345,7 @@ msgstr "Все было просто восхитительно... ну, раз�
 #: /Game/Dialogue/Fern/DefaultP2/FernGreeting02.Default__FernGreeting02_C.SessionData.LinesToFemale(3).LinesToFemale
 msgctxt ",D7B87B2D4E7F9B733C981C804A0914C8"
 msgid "My body longs for your delicious breast milk."
-msgstr ""
+msgstr "Мое тело жаждет твоего восхитительного молока."
 
 #. Key:	D7CBF3A849F90F40A1E899A00B974FBA
 #. SourceLocation:	/Game/Dialogue/Neela/Default/NeelaDefault01_YourVoid.Default__NeelaDefault01_YourVoid_C.SessionData.LinesToFemale(1).LinesToFemale
@@ -5394,7 +5394,7 @@ msgstr "Гудящая поляна"
 #: /Game/Dialogue/Fern/DefaultP3/FernDefault03_R03.Default__FernDefault03_R03_C.SessionData.Lines(0).Lines
 msgctxt ",D942BF8C4B6164B1D4F7569E55FC349E"
 msgid "Oh Master... you are too good to me."
-msgstr ""
+msgstr "О, Мастер... ты слишком добр ко мне."
 
 #. Key:	D9AEE8B346F04D85CD643FA456C20645
 #. SourceLocation:	/Game/Dialogue/Camilla/Default/CamillaDefault01_R05.Default__CamillaDefault01_R05_C.SessionData.Lines(1).Lines
@@ -5590,7 +5590,7 @@ msgstr ""
 #: /Game/Dialogue/Camilla/Default/CamillaDefault01_R05.Default__CamillaDefault01_R05_C.SessionData.Lines(2).Lines
 msgctxt ",DED16C92469A536D38021EBB9437E929"
 msgid "I think we're going to get along well human."
-msgstr ""
+msgstr "Я думаю, что мы поладим, человек."
 
 #. Key:	DED8326741203DABBF5FDBB2B97D6492
 #. SourceLocation:	/Game/Dialogue/Mirru/Default/MirruDefault01_Formuria.Default__MirruDefault01_Formuria_C.SessionData.Lines(0).Lines
@@ -5625,7 +5625,7 @@ msgstr "Что у тебя за акцент?"
 #: /Game/Dialogue/Fern/DefaultP3/FernDefault03_R02.Default__FernDefault03_R02_C.SessionData.Lines(0).Lines
 msgctxt ",E01ADC7A41DCC8C65CA87E9C9561359D"
 msgid "Indeed! Your delicious fluid has done wonders."
-msgstr ""
+msgstr "Действительно! Твоя восхитительная жидкость творит чудеса."
 
 #. Key:	E043108D41291B6169E3579CE41F44B3
 #. SourceLocation:	/Game/Dialogue/Emissary/SexScenes/EmissaryAngelGroinLove.Default__EmissaryAngelGroinLove_C.SessionData.LinesToFemale(2).LinesToFemale
@@ -5709,7 +5709,7 @@ msgstr "Глянцевый: Глакая, блестящая кожа."
 #: /Game/Dialogue/Leylanna/Default/LeylannaDefault01_RechargeSpiritForm_RL_F.Default__LeylannaDefault01_RechargeSpiritForm_RL_F_C.ResponseData(0).ResponseData.BreederPrompt
 msgctxt ",E227A6EF4C9C296BC4394FA1701CA51F"
 msgid "Let's make love!!"
-msgstr ""
+msgstr "Давай займемся любовью!!"
 
 #. Key:	E264C5AA4DFA58630DD1B5AF551D5C38
 #. SourceLocation:	/Game/Dialogue/Blossom/Default/BlossomGreeting01.Default__BlossomGreeting01_C.SessionData.Lines(1).Lines
@@ -5821,7 +5821,7 @@ msgstr "Нестандартный"
 #: /Game/Dialogue/Falene/Default/FaleneDefault01_R05.Default__FaleneDefault01_R05_C.SessionData.Lines(2).Lines
 msgctxt ",E6AE999D442B37DD898ED3B14ADA261A"
 msgid "Wild elves aren't as common as other @MONSTER_RACE@, Painted Elves even less so."
-msgstr ""
+msgstr "Эльфы самые малочисленные @MONSTER_RACE@, а Крашенные Эльфы совсем редкость."
 
 #. Key:	E8789C0E4CCC57BB8A98178902DA8110
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(1 - Value).TraitIcons.HelpText
@@ -5835,7 +5835,7 @@ msgstr "Экзотический: Унаследовал больше звери
 #: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(17 - Value).TraitIcons.DisplayName
 msgctxt ",E89A6BB74D15111C98632A99F45745CC"
 msgid "Meaty"
-msgstr ""
+msgstr "Мясной"
 
 #. Key:	E89B660E4DCD6EDBFE7FBDB73A354FD0
 #. SourceLocation:	/Game/Dialogue/Fern/Default/FernDefault01_R02_R01.Default__FernDefault01_R02_R01_C.SessionData.Lines(2).Lines
@@ -5884,7 +5884,7 @@ msgstr ""
 #: /Game/Dialogue/Cassie/Default/CassieDefault01_Meow.Default__CassieDefault01_Meow_C.SessionData.LinesToFemale(0).LinesToFemale
 msgctxt ",EB2D583D443FA7DB15278C95780CBC37"
 msgid "Meow! Hehehe don't get me started!"
-msgstr ""
+msgstr "Мяу! Хе-хе, не заводи меня!"
 
 #. Key:	EB717BA44A439427B1DE6CA60FA650A2
 #. SourceLocation:	/Game/Dialogue/Mirru/SexScenes/MirruKrakVag.Default__MirruKrakVag_C.SessionData.Lines(2).Lines
@@ -5968,7 +5968,7 @@ msgstr ""
 #: /Game/Dialogue/Neela/Default/NeelaDefault01_YourVoid.Default__NeelaDefault01_YourVoid_C.SessionData.LinesToFuta(5).LinesToFuta
 msgctxt ",EE11DC6C4F3DE85807004E93DB73A0B2"
 msgid "Ohhh... would you please this old warden? It is a lonely life..."
-msgstr ""
+msgstr "Ох... Здесь так одиноко... Развей печаль старушки надзирателя."
 
 #. Key:	EE8FDFD64822DC7BFDD6C9A70419163D
 #. SourceLocation:	/Game/Dialogue/Fern/DefaultP2/FernDefault02.Default__FernDefault02_C.SessionData.LinesToFemale(0).LinesToFemale
@@ -6038,7 +6038,7 @@ msgstr "Не трать на меня свои флюиды. Дождись, к�
 #: /Game/Dialogue/Mirru/SexScenes/MirruKrakVag.Default__MirruKrakVag_C.SessionData.Lines(4).Lines
 msgctxt ",F15CA5AC442824FB00747A8771A80403"
 msgid "Yes, ohh... give me all of your seed. Ahhhhh..."
-msgstr ""
+msgstr "Да, ох... дай мне свое семя. Аххх..."
 
 #. Key:	F1D3A2E044E22D62A15FD2A3C291C751
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(6 - Value).TraitIcons.HelpText
@@ -6178,7 +6178,7 @@ msgstr "Осторожно человек, похоть Кракена нель�
 #: /Game/Dialogue/Mirru/Default/MirruDefault01_Formuria.Default__MirruDefault01_Formuria_C.SessionData.Lines(3).Lines
 msgctxt ",F88AA516424D4DB3A67953803B2F3000"
 msgid "*Sigh* I hold them dear, but pity them for not being born Kraken."
-msgstr " Я их очень люблю, но жаль, что они не родились кракенами."
+msgstr "Я их очень люблю, но жаль, что они не родились кракенами."
 
 #. Key:	F8A579884E09A8EAFE39C78D6B221425
 #. SourceLocation:	/Game/Dialogue/AmberMae/SexScenes/AmberMilkyF.Default__AmberMilkyF_C.SessionData.Lines(2).Lines
@@ -6192,7 +6192,7 @@ msgstr ""
 #: /Game/Dialogue/Neela/Default/NeelaDefault01_YourVoid.Default__NeelaDefault01_YourVoid_C.SessionData.LinesToMale(5).LinesToMale
 msgctxt ",F8E2DB524A01D500B2ED3BB19853D247"
 msgid "Ohhh... would you please this old warden? It is a lonely life..."
-msgstr ""
+msgstr "Ох... Здесь так одиноко... Развей печаль старушки надзирателя."
 
 #. Key:	F8E720D345661A45019656BB02DC9809
 #. SourceLocation:	/Game/Dialogue/Blossom/Default/BlossomGreeting01.Default__BlossomGreeting01_C.SessionData.Lines(2).Lines
