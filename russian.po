@@ -1,6 +1,6 @@
 ﻿# russian Russian (Russia) translation.
 # Copyright 1998-2019 Epic Games, Inc. All Rights Reserved.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: russian\n"
@@ -1327,7 +1327,7 @@ msgstr "У Эмбер сиськи больше, чем у меня! Как же
 #: /Game/Dialogue/Cassie/Default/CassieDefault01_Meow_ButterStick.Default__CassieDefault01_Meow_ButterStick_C.SessionData.Lines(0).Lines
 msgctxt ",34C104D84D1D1734B9408FA6B2BDA125"
 msgid "Awww... meow... Cassie is sad now."
-msgstr "айй"
+msgstr "оуу... мяу... Касси теперь в печали."
 
 #. Key:	3526724A47197988348500AADC4A0504
 #. SourceLocation:	/Game/Dialogue/Romy/Default/RomyDefault01_RL.Default__RomyDefault01_RL_C.ResponseData(2).ResponseData.BreederPrompt
@@ -6802,4 +6802,3 @@ msgstr "О, какая я глупая, так и не представилас�
 msgctxt ",FFEB9256402DB5ADDFEED38770F40285"
 msgid "Busty: Inherited very large breasts."
 msgstr "Большегрудая: Ну очень большая грудь."
-
