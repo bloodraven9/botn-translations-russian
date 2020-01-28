@@ -2475,7 +2475,7 @@ msgstr "Ты всегда стоишь на этой бочке?"
 #: /Game/Dialogue/Camilla/Default/CamillaDefault01.Default__CamillaDefault01_C.SessionData.Lines(2).Lines
 msgctxt ",650E3F124AAD112733D65B9F0D095FA8"
 msgid "When I came back covered in cum from every creature in @WORLD_NAME@, she laughed for hours."
-msgstr "{Когда я вернулась, покрытая спермой каждого существа в @WORLD_NAME@, она смеялась несколько часов.}"
+msgstr "Когда я вернулась, покрытая спермой каждого существа в @WORLD_NAME@, она смеялась несколько часов."
 
 #. Key:	659F65A5454F216DBCA2DE943F3D816D
 #. SourceLocation:	/Game/Dialogue/Fern/DefaultP2/FernDefault02_R04.Default__FernDefault02_R04_C.SessionData.Lines(0).Lines
@@ -2552,7 +2552,7 @@ msgstr "*Мурр*"
 #: /Game/Dialogue/Mirru/Default/MirruDefault01_AboutKrakens.Default__MirruDefault01_AboutKrakens_C.SessionData.Lines(5).Lines
 msgctxt ",688E1D934E2D63E60F30488E807E8643"
 msgid "While we never want to do harm, our desires must be satisfied at any expense."
-msgstr "{Хотя мы никогда не хотим причинять вред, наши желания должны быть удовлетворены любой ценой.}"
+msgstr "Хотя мы никогда не хотим причинять вред, наши желания должны быть удовлетворены любой ценой."
 
 #. Key:	68CDC1534D4397A3A7211A8ED7C2F578
 #. SourceLocation:	/Game/Dialogue/Cassie/SexScenes/CassieSplintersT.Default__CassieSplintersT_C.SessionData.Lines(5).Lines
@@ -2580,7 +2580,7 @@ msgstr "Что ты умеешь?"
 #: /Game/Dialogue/Cassie/Default/CassieGreeting01.Default__CassieGreeting01_C.SessionData.Lines(0).Lines
 msgctxt ",6993DD7B4964C190B75F98AABA008FAA"
 msgid "Well butter my butt and slap me with a biscuit. A human!"
-msgstr "{Хорошенько смажь мой зад, а затем отшлепай меня, Человек!}"
+msgstr "Хорошенько смажь мой зад, а затем отшлепай меня, Человек!"
 
 #. Key:	69F9118A434154DE440203AEBAD52F22
 #. SourceLocation:	/Game/Dialogue/Mirru/Default/MirruDefault01_AboutKrakens.Default__MirruDefault01_AboutKrakens_C.SessionData.Lines(6).Lines
@@ -2832,7 +2832,7 @@ msgstr "Причиндалы у @MONSTER_RACE@ работают так же, к�
 #: /Game/Dialogue/Fern/DefaultP3/FernDefault03_R04.Default__FernDefault03_R04_C.SessionData.Lines(1).Lines
 msgctxt ",7216159047B371957AA4BBB677FF8B34"
 msgid "You will experience ecstasy as you cum inside my flower over and over."
-msgstr "{Ты испытаешь непередаваемое удовольствие, когда будешь кончать в мой цветок снова и снова.}"
+msgstr "Ты испытаешь непередаваемое удовольствие, когда будешь кончать в мой цветок снова и снова."
 
 #. Key:	722820CF485DAAEF312AD7B7C497D3AD
 #. SourceLocation:	/Game/Dialogue/Fern/DefaultP3/FernDefault03_R05.Default__FernDefault03_R05_C.SessionData.Lines(0).Lines
@@ -2965,7 +2965,7 @@ msgstr "Что для тебя может сделать скромная рус
 #: /Game/Dialogue/Falene/Default/FaleneDefault01_R01.Default__FaleneDefault01_R01_C.SessionData.Lines(1).Lines
 msgctxt ",76894E414F0E86A40CDEB69862E1A67C"
 msgid "To be honest, we don't entirely understand how it works, but I have created the most widely accepted theory."
-msgstr "{Честно говоря, мы не совсем понимаем, как это работает, но я создала наиболее распространенную теорию}."
+msgstr "Честно говоря, мы не совсем понимаем, как это работает, но я создала наиболее распространенную теорию."
 
 #. Key:	76C3B8B24ADB1D21C1F205A4E3B35D2A
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(31 - Value).TraitIcons.HelpText
@@ -4393,7 +4393,7 @@ msgstr "Однако, наши семя и яйцеклетки находятс
 #: /Game/Dialogue/Cassie/Default/CassieGreeting01.Default__CassieGreeting01_C.SessionData.Lines(1).Lines
 msgctxt ",AD1829A4465DB79DEB4829B81F4E7A03"
 msgid "Meow! That's a fine piece o' property ya got down there..."
-msgstr "{Мяу! Там внизу находится моя гордость...}"
+msgstr "Мяу! Там внизу находится моя гордость..."
 
 #. Key:	AD224A514AC35938B00457BC8B2C7422
 #. SourceLocation:	/Game/Dialogue/Blossom/Default/BlossomDefault01_R02.Default__BlossomDefault01_R02_C.SessionData.Lines(2).Lines
@@ -4953,7 +4953,7 @@ msgstr "Ой! Кто-то хочет, чтобы ему отсосали!"
 #: /Game/Dialogue/Emissary/Default/EmissaryDefault01.Default__EmissaryDefault01_C.SessionData.Lines(2).Lines
 msgctxt ",C4F4ECA34FB62457AF54C48B18A75686"
 msgid "Or, hath desire brought you abreast my holy golden bosom?"
-msgstr "{Или, чья воля привела тебя к моему священному золотому лону {золотой груди}?}"
+msgstr "Или, чья воля привела тебя к моему священному золотому лону?"
 
 #. Key:	C4F8D7B9479B1BE8B5FA0AB326EEEF3A
 #. SourceLocation:	/Game/Characters/Procedural/Variants/Formurian/Harvest/FormurianHarvest.Default__FormurianHarvest_C.Harvest.RaceName
@@ -5576,7 +5576,7 @@ msgstr "Большинство @MONSTER_RACE@ дикие, настолько ч�
 #: /Game/Dialogue/Cassie/Default/CassieGreeting01.Default__CassieGreeting01_C.SessionData.Lines(3).Lines
 msgctxt ",DDC88AD7412D1B9E7696ED8213C21E27"
 msgid "Though, whoever drew up your fence line is a lunatic!"
-msgstr "{Тем не менее, кто бы не возвёл твою изгородь, он был сумасшедшим!}"
+msgstr "Тем не менее, кто бы не возвёл твою изгородь, он был сумасшедшим!"
 
 #. Key:	DE7B484C4224680737F160881A189942
 #. SourceLocation:	/Game/Dialogue/Leylanna/Default/LeylannaDefault01_Emissary.Default__LeylannaDefault01_Emissary_C.SessionData.Lines(2).Lines
