@@ -130,7 +130,7 @@ msgstr "Меня зовут Фалин, я ведущий специалист �
 #: /Game/Dialogue/Fern/Default/FernDefault01_RL_T.Default__FernDefault01_RL_T_C.ResponseData(0).ResponseData.BreederPrompt
 msgctxt ",03C3FCAE4B8424BCF5F580BC933E08E8"
 msgid "Why did you call me master?"
-msgstr "Почему ты зовешь меня хозяином?"
+msgstr "Почему ты зовешь меня мастером?"
 
 #. Key:	03FDE484412EB5432BA89A9FF52176AD
 #. SourceLocation:	/Game/Dialogue/Cassie/SexScenes/CassieSplintersT.Default__CassieSplintersT_C.SessionData.Lines(3).Lines
@@ -403,7 +403,7 @@ msgstr "Несмотря на воинственное прошлое, боль�
 #: /Game/Dialogue/Fern/DefaultP3/FernDefault03_R05.Default__FernDefault03_R05_C.SessionData.Lines(1).Lines
 msgctxt ",0FC69F2441505B7DAACAC7807627892D"
 msgid "We made her together when your bodily fluids merged with mine."
-msgstr "Мы создали её вместе, когда соединили ваши флюиды с моими."
+msgstr "Мы сcоздали её вмессте, когда ссоединили твои флюиды с моими."
 
 #. Key:	1019EEE14B67704DE6DE0B9FD7D0D596
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToFuta(30).LinesToFuta
@@ -487,14 +487,14 @@ msgstr "Вонзи свой сладострастный человечески�
 #: /Game/Dialogue/Fern/DefaultP3/FernGreeting03.Default__FernGreeting03_C.SessionData.LinesToFemale(4).LinesToFemale
 msgctxt ",12036FB64912193341380BA267A64971"
 msgid "Slide yourself in here with me, by body is silky and filled with sweet nectar. I will make you feel so good..."
-msgstr "Забирайся сюда ко мне, мое тело словно бархат и наполнено нектаром. Я сделаю тебе так хорошо..."
+msgstr "Забирайсся сcюда ко мне, мое тело cсловно бархат и наполнено нектаром. Я ссделаю тебе так хорошо..."
 
 #. Key:	123F93684828FFF522F86B84110A5712
 #. SourceLocation:	/Game/Dialogue/Fern/Default/FernDefault01_RL_F.Default__FernDefault01_RL_F_C.ResponseData(0).ResponseData.BreederPrompt
 #: /Game/Dialogue/Fern/Default/FernDefault01_RL_F.Default__FernDefault01_RL_F_C.ResponseData(0).ResponseData.BreederPrompt
 msgctxt ",123F93684828FFF522F86B84110A5712"
 msgid "Why did you call me master?"
-msgstr "Почему ты зовешь меня хозяином?"
+msgstr "Почему ты зовешь меня мастером?"
 
 #. Key:	1240C441425085EA27ECBDBABB3C00AF
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_R04.Default__FaleneDefault01_R04_C.SessionData.Lines(14).Lines
@@ -550,14 +550,14 @@ msgstr "Мне без разницы, Титан ты или..! Ааааааах
 #: /Game/Dialogue/Fern/DefaultP3/FernDefault03_R02_R01.Default__FernDefault03_R02_R01_C.SessionData.Lines(1).Lines
 msgctxt ",13F822424D7968B826D8E79C10C52DBC"
 msgid "But we can make love now! Let's do that. Maybe something magical will happen."
-msgstr "Но сейчас мы можем предаться любви! Давай же отдадимся ей, и тогда, возможно, случится что-то волшебное."
+msgstr "Но сcейчасс мы можем предатьcся любви! Давай же отдадимсся ей, и тогда, возможно, сcлучитсся что-то волшебное."
 
 #. Key:	14597A3447ACFD81E4E72CB43D419E39
 #. SourceLocation:	/Game/Dialogue/Fern/DefaultP2/FernDefault02_R01.Default__FernDefault02_R01_C.SessionData.Lines(4).Lines
 #: /Game/Dialogue/Fern/DefaultP2/FernDefault02_R01.Default__FernDefault02_R01_C.SessionData.Lines(4).Lines
 msgctxt ",14597A3447ACFD81E4E72CB43D419E39"
 msgid "If I have to spend the rest of eternity in one spot, I wouldn't want it to be with anyone else..."
-msgstr "Если бы мне пришлось провести вечность на одном месте, я бы предпочла делать это вместе с кем-то..."
+msgstr "Если бы мне пришлоccь провесcти вечноcсть на одном мессте, я бы предпочла делать это вмессте с кем-то..."
 
 #. Key:	146C8ABB4CFE56E192BE198657474339
 #. SourceLocation:	/Game/Dialogue/Blossom/Default/BlossomDefault01_R01.Default__BlossomDefault01_R01_C.SessionData.Lines(0).Lines
@@ -732,7 +732,7 @@ msgstr "Мой обожаемый маленький ассистент Ками
 #: /Game/Dialogue/Fern/DefaultP3/FernDefault03_R02_R01.Default__FernDefault03_R02_R01_C.SessionData.Lines(0).Lines
 msgctxt ",1D81ECE4468C6B5A5BE467964A7CFE43"
 msgid "Sadly I can no longer help you harvest fluids from wild @MONSTER_RACE@."
-msgstr "К сожалению, я больше не могу помочь вам в дойке @MONSTER_RACE@."
+msgstr "К ссожалению, я больше не могу помочь вам в дойке @MONSTER_RACE@."
 
 #. Key:	1DA742CA40AC6A3A7EC5B6834EEA93B8
 #. SourceLocation:	/Game/Dialogue/Romy/Default/RomyDefault01_AboutMusic.Default__RomyDefault01_AboutMusic_C.SessionData.Lines(2).Lines
@@ -746,7 +746,7 @@ msgstr "Русалки уникальны среди формуриан, мы с
 #: /Game/Dialogue/Fern/DefaultP3/FernGreeting03.Default__FernGreeting03_C.SessionData.LinesToFuta(4).LinesToFuta
 msgctxt ",1E23F2524EB7DC68DC07EC92E709C65F"
 msgid "Slide yourself in here with me, by body is silky and filled with sweet nectar. I will make you feel so good..."
-msgstr "Забирайся сюда ко мне, мое тело словно бархат и наполнено нектаром. Я сделаю тебе так хорошо..."
+msgstr "Забирайсся сcюда ко мне, мое тело сcловно бархат и наполнено нектаром. Я ссделаю тебе так хорошо..."
 
 #. Key:	1E3AD95641E1D41AAA9115A007EDC28A
 #. SourceLocation:	/Game/Dialogue/Cassie/SexScenes/CassieSplintersT.Default__CassieSplintersT_C.SessionData.Lines(2).Lines
@@ -858,7 +858,7 @@ msgstr "Человек, посмотри, какой ты грязный. Нет
 #: /Game/Dialogue/Fern/DefaultP3/FernDefault03_R02.Default__FernDefault03_R02_C.SessionData.Lines(2).Lines
 msgctxt ",22721E7243A0F89426773BB6C47E987A"
 msgid "We can have a lot of fun with my flower body! I have wanted to make love with you Master..."
-msgstr "Нам может быть так весело в моём цветочном теле! Я хочу заняться с тобой любовью Хозяин..."
+msgstr "Нам может быть так вессело в моём цветочном теле! Я хочу занятьcся с тобой любовью Хозяин..."
 
 #. Key:	22A642E14AB14A866F4A749782B623B0
 #. SourceLocation:	/Game/Dialogue/Mirru/Default/MirruDefault01_BodySexToy.Default__MirruDefault01_BodySexToy_C.SessionData.LinesToFemale(3).LinesToFemale
@@ -886,7 +886,7 @@ msgstr "Масстер... твой член такой большой! Он да
 #: /Game/Dialogue/Fern/DefaultP2/FernDefault02_R02_R01.Default__FernDefault02_R02_R01_C.SessionData.Lines(2).Lines
 msgctxt ",2373050C45C9AA9783D038B170402B88"
 msgid "You could... always keep giving me your fluids. I will reward you with intense pleasure and that shiny stuff you like so much."
-msgstr "Ты всегда...можешь дать флюиды мне. Я отплачу сладостным удовольствием и теми блестяшками что тебе так нравятся."
+msgstr "Ты вcсегда...можешь дать флюиды мне. Я отплачу cсладосстным удовольсствием и теми блеcстяшками что тебе так нравятсся."
 
 #. Key:	239678F6481C22C297A01BAF6A94E397
 #. SourceLocation:	/Game/Dialogue/Mirru/Default/MirruDefault01_BodySexToy_RL_T.Default__MirruDefault01_BodySexToy_RL_T_C.ResponseData(0).ResponseData.BreederPrompt
@@ -1082,7 +1082,7 @@ msgstr "Разве ты не слышишь?"
 #: /Game/Dialogue/Fern/DefaultP3/FernGreeting03.Default__FernGreeting03_C.SessionData.LinesToFemale(3).LinesToFemale
 msgctxt ",2D40A8404D1D3D0D2D24B49349427E5A"
 msgid "I suppose there is no need to feed me anymore, but we can always do other things with my amazing flower body!"
-msgstr "Полагаю, я более не нуждаюсь в подкормке, однако мы всегда можем делать разные штуки с моим удивительным цветочным телом!"
+msgstr "Полагаю, я более не нуждаюссь в подкормке, однако мы вссегда можем делать разные штуки с моим удивительным цветочным телом!"
 
 #. Key:	2DBE58DB4B0AEBCB9FDD04BC94C039BD
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_R04.Default__FaleneDefault01_R04_C.SessionData.Lines(5).Lines
@@ -1278,7 +1278,7 @@ msgstr "Аах... подойди человек!"
 #: /Game/Dialogue/Fern/DefaultP3/FernDefault03_R01.Default__FernDefault03_R01_C.SessionData.Lines(2).Lines
 msgctxt ",3587D87D4538714F62271FBFA1D17FFF"
 msgid "If I have to spend the rest of eternity in one spot, I wouldn't want it to be with anyone else..."
-msgstr "Если мне придется провести остаток своих дней на этом месте, я бы не хотела, чтобы это было с кем-то еще..."
+msgstr "Еcсли мне придетсся провессти осстаток сcвоих дней на этом меcсте, я бы не хотела, чтобы это было с кем-то еще..."
 
 #. Key:	35B0312145CDC987463545B35DBCF219
 #. SourceLocation:	/Game/Dialogue/Mirru/SexScenes/MirruSnatchT.Default__MirruSnatchT_C.SessionData.Lines(0).Lines
@@ -1488,7 +1488,7 @@ msgstr "Я забираюсь в твой цветок."
 #: /Game/Dialogue/Fern/DefaultP2/FernDefault02_RL_F.Default__FernDefault02_RL_F_C.ResponseData(0).ResponseData.BreederPrompt
 msgctxt ",3EDC6D7644348135F915AD8CFA2438CE"
 msgid "Why did you call me master?"
-msgstr "Почему ты зовешь меня хозяином?"
+msgstr "Почему ты зовешь меня мастером?"
 
 #. Key:	3EEDCB0B41A901791EE10990EB7EBF6A
 #. SourceLocation:	/Game/Dialogue/Romy/Default/RomyDefault01_AboutMusic.Default__RomyDefault01_AboutMusic_C.SessionData.Lines(6).Lines
@@ -1551,7 +1551,7 @@ msgstr "Если вы не в настроении, вы также можете
 #: /Game/Dialogue/Fern/DefaultP2/FernDefault02_RL_T.Default__FernDefault02_RL_T_C.ResponseData(0).ResponseData.BreederPrompt
 msgctxt ",4052D6DF434789A177EAA1A32665DC40"
 msgid "Why did you call me master?"
-msgstr "Почему ты зовешь меня хозяином?"
+msgstr "Почему ты зовешь меня мастером?"
 
 #. Key:	410012DF43FE2AB2B4B74FA7EE1CB85E
 #. SourceLocation:	/Game/Dialogue/AmberMae/Default/AmberMaeDefault01.Default__AmberMaeDefault01_C.SessionData.Lines(1).Lines
@@ -2391,7 +2391,7 @@ msgstr "Они перемещаются в другое измерение, гд
 #: /Game/Dialogue/Fern/DefaultP3/FernDefault03_RL_F.Default__FernDefault03_RL_F_C.ResponseData(0).ResponseData.BreederPrompt
 msgctxt ",6266DCAA4BE349E65FF6D89994B5E9C6"
 msgid "Why did you call me master?"
-msgstr "Почему ты зовешь меня хозяином?"
+msgstr "Почему ты зовешь меня мастером?"
 
 #. Key:	62DABAA04453893D6FCD5390D28CB19A
 #. SourceLocation:	/Game/Dialogue/Fern/DefaultP2/FernDefault02_R02.Default__FernDefault02_R02_C.SessionData.Lines(2).Lines
@@ -2461,7 +2461,7 @@ msgstr "Твое тело напоминает большую секс-игру�
 #: /Game/Dialogue/Blossom/Default/BlossomDefault01_RL_F.Default__BlossomDefault01_RL_F_C.ResponseData(0).ResponseData.BreederPrompt
 msgctxt ",64DDB04B426866024F9EFC98D34E99E5"
 msgid "Why did you call me master?"
-msgstr "Почему ты зовешь меня хозяином?"
+msgstr "Почему ты зовешь меня мастером?"
 
 #. Key:	64E952FE4B46D2DBE99FAD9370462318
 #. SourceLocation:	/Game/Dialogue/Camilla/Default/CamillaDefault01_RL.Default__CamillaDefault01_RL_C.ResponseData(3).ResponseData.BreederPrompt
@@ -2762,7 +2762,7 @@ msgstr "Ааах! Соси шибше, моё молоко, выпей его в
 #: /Game/Dialogue/Fern/DefaultP3/FernDefault03.Default__FernDefault03_C.SessionData.LinesToFuta(1).LinesToFuta
 msgctxt ",6FB79F1B4245887D7C56A197959DA2A1"
 msgid "Look at my beautiful flower, it bloomed! Oh my did it feel weird..."
-msgstr "Посмотри мой прекрасный цветок расцвел! О боже, это так странно..."
+msgstr "Поcсмотри - мой прекраcсный цветок раcсцвел! О боже, это так сcтранно..."
 
 #. Key:	6FED048C4BF38E565F2ADC90DC3F4390
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(16 - Value).TraitIcons.DisplayName
@@ -2888,7 +2888,7 @@ msgstr "Почувствуй, как мой бархатный язычок гл
 #: /Game/Dialogue/Fern/DefaultP2/FernGreeting02.Default__FernGreeting02_C.SessionData.LinesToFemale(0).LinesToFemale
 msgctxt ",73B59191487A1B6CCB6E58B4159D8060"
 msgid "Oh Master, you have fed me well."
-msgstr "О хозяин, ты накормил меня."
+msgstr "О масстер, ты накормил меня."
 
 #. Key:	73F68F1D4C449AE1E1ECBCB61358B27E
 #. SourceLocation:	/Game/Dialogue/Camilla/Default/CamillaDefault01_R02.Default__CamillaDefault01_R02_C.SessionData.Lines(2).Lines
@@ -4316,7 +4316,7 @@ msgstr "Ух ты! Этого не может быть!"
 #: /Game/Dialogue/Fern/DefaultP2/FernDefault02.Default__FernDefault02_C.SessionData.LinesToFemale(1).LinesToFemale
 msgctxt ",A9B242A6410BF5830F30419F32801AC2"
 msgid "Look at my beautiful flower, it bloomed! Oh my did it feel weird..."
-msgstr "Посмотри - мой прекрасный цветок расцвел! О боже, это так странно..."
+msgstr "Посcмотри - мой прекраcсный цветок раcсцвел! О боже, это так cстранно..."
 
 #. Key:	AA16BE3B4732F407329ED6B450557C71
 #. SourceLocation:	/Game/Dialogue/Romy/Default/RomyGreeting01.Default__RomyGreeting01_C.SessionData.Lines(0).Lines
@@ -4743,7 +4743,7 @@ msgstr "Очень смешно!"
 #: /Game/Dialogue/Fern/DefaultP2/FernGreeting02.Default__FernGreeting02_C.SessionData.LinesToFuta(0).LinesToFuta
 msgctxt ",BBBCA38B49D367A566E07BA607FA7359"
 msgid "Oh Master, you have fed me well."
-msgstr "О хозяин, ты накормил меня."
+msgstr "О масстер, ты накормил меня."
 
 #. Key:	BC25BCBE4F9535F47E145F8384E62BA5
 #. SourceLocation:	/Game/Dialogue/Fern/DefaultP3/FernDefault03_R05.Default__FernDefault03_R05_C.SessionData.Lines(2).Lines
@@ -5205,7 +5205,7 @@ msgstr "Вот почему мы так сильно желаем секса - �
 #: /Game/Dialogue/Fern/DefaultP3/FernDefault03_R04.Default__FernDefault03_R04_C.SessionData.Lines(0).Lines
 msgctxt ",D202E32F436700405E2417A73206A501"
 msgid "Oh Master... I have waited for this."
-msgstr "О Хозяин... Я ждала этого."
+msgstr "О Масстер... Я ждала этого."
 
 #. Key:	D209ED1D49C6A4C6106AC69A3100D415
 #. SourceLocation:	/Game/Dialogue/Fern/Default/FernDefault01_R02_R01.Default__FernDefault01_R02_R01_C.SessionData.Lines(1).Lines
@@ -5254,7 +5254,7 @@ msgstr "Мне нужно человеческое молоко, чтобы вы
 #: /Game/Dialogue/Fern/DefaultP2/FernGreeting02.Default__FernGreeting02_C.SessionData.LinesToFemale(1).LinesToFemale
 msgctxt ",D48D138B4D55F9A604E2E0AFFACE1674"
 msgid "Look at my beautiful flower, it bloomed! Oh my did it feel weird..."
-msgstr "Посмотри мой прекрасный цветок расцвел! О боже, это так странно..."
+msgstr "Поcсмотри - мой прекраcсный цветок раcсцвел! О боже, это так сcтранно..."
 
 #. Key:	D4B876E04002BC56FF720D829DA04785
 #. SourceLocation:	/Game/Dialogue/Falene/SexScenes/FaleneBlowJob.Default__FaleneBlowJob_C.SessionData.LinesToFemale(6).LinesToFemale
@@ -5359,7 +5359,7 @@ msgstr "Понимаешь, в @WORLD_NAME@ нет такого места, гд
 #: /Game/Dialogue/Fern/DefaultP3/FernDefault03.Default__FernDefault03_C.SessionData.LinesToFemale(1).LinesToFemale
 msgctxt ",D7F8B9C2431BFB6ED28ECAAF83BAE062"
 msgid "Look at my beautiful flower, it bloomed! Oh my did it feel weird..."
-msgstr "Посмотри мой прекрасный цветок расцвел! О боже, это так странно..."
+msgstr "Поcсмотри - мой прекраcсный цветок расcцвел! О боже, это так сcтранно..."
 
 #. Key:	D8A6098049B17D17442735B4FDBAB323
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_FutaBalls.Default__FaleneDefault01_FutaBalls_C.SessionData.Lines(2).Lines
@@ -5562,7 +5562,7 @@ msgstr "Прекрасный золотой ангел появился всег
 #: /Game/Dialogue/Fern/DefaultP2/FernGreeting02.Default__FernGreeting02_C.SessionData.LinesToFuta(1).LinesToFuta
 msgctxt ",DD7ECB9E437DDF8975868AA3934E909D"
 msgid "Look at my beautiful flower, it bloomed! Oh my did it feel weird..."
-msgstr "Посмотри мой прекрасный цветок расцвел! О боже, это так странно..."
+msgstr "Посcмотри - мой прекраcсный цветок расcцвел! О боже, это так сcтранно..."
 
 #. Key:	DDC7B99042CEA89C790895990EB876BE
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_R02.Default__FaleneDefault01_R02_C.SessionData.Lines(1).Lines
@@ -5926,7 +5926,7 @@ msgstr "Жеребец: Увеличен размер полового член�
 #: /Game/Dialogue/Fern/DefaultP2/FernDefault02_RL_M.Default__FernDefault02_RL_M_C.ResponseData(0).ResponseData.BreederPrompt
 msgctxt ",EC6BFF394580DB5B2B148096C2994439"
 msgid "Why did you call me master?"
-msgstr "Почему ты зовешь меня хозяином?"
+msgstr "Почему ты зовешь меня мастером?"
 
 #. Key:	EC9757E141CD427BCC7326B974A16B82
 #. SourceLocation:	/Game/Dialogue/Neela/SexScenes/NeelaSnakeCuddleF.Default__NeelaSnakeCuddleF_C.SessionData.Lines(4).Lines
@@ -5975,7 +5975,7 @@ msgstr "Ох... Здесь так одиноко... Развей печаль с
 #: /Game/Dialogue/Fern/DefaultP2/FernDefault02.Default__FernDefault02_C.SessionData.LinesToFemale(0).LinesToFemale
 msgctxt ",EE8FDFD64822DC7BFDD6C9A70419163D"
 msgid "Oh Master, you have fed me well."
-msgstr "О хозяин, ты накормил меня."
+msgstr "О масстер, ты накормил меня."
 
 #. Key:	EEBA2B7C475E9710DEB122887C14BEE9
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(8 - Value).TraitIcons.HelpText
@@ -6318,7 +6318,7 @@ msgstr "Потратив более 4000 лет путешествуя по Пу
 #: /Game/Dialogue/Fern/DefaultP3/FernDefault03.Default__FernDefault03_C.SessionData.LinesToFuta(0).LinesToFuta
 msgctxt ",FC2E4BC244CE7A4471B402A207DCB5C4"
 msgid "Oh Master, you have fed me well."
-msgstr "О хозяин, ты накормил меня."
+msgstr "О масстер, ты накормил меня."
 
 #. Key:	FC6A48C641C7797ED1492DB62B0AC386
 #. SourceLocation:	/Game/Dialogue/Camilla/Default/CamillaDefault01_R07_RL.Default__CamillaDefault01_R07_RL_C.ResponseData(1).ResponseData.BreederPrompt
