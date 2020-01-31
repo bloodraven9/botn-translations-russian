@@ -25,7 +25,7 @@ msgstr "Это моя финальная форма, и в ней я чувст�
 #: /Game/Dialogue/Cassie/Default/CassieDefault01_Meow.Default__CassieDefault01_Meow_C.SessionData.LinesToFemale(3).LinesToFemale
 msgctxt ",0061A5124B098F61DE991D81AB884112"
 msgid "This little leather tool belt can barely contain my butter stick!"
-msgstr "Этот маленький ремешок едва здерживает мою скользкую палочку!"
+msgstr "Этот маленький ремешок едва cдерживает мою скользкую палочку!"
 
 #. Key:	01386D9C478E6BE9974F00942E5EA1E0
 #. SourceLocation:	/Game/Dialogue/Mirru/Default/MirruDefault01_RL.Default__MirruDefault01_RL_C.ResponseData(0).ResponseData.BreederPrompt
@@ -1411,7 +1411,7 @@ msgstr "Разводить!"
 #: /Game/Dialogue/Camilla/Default/CamillaDefault01_R01.Default__CamillaDefault01_R01_C.SessionData.Lines(7).Lines
 msgctxt ",3A5C7D5342118BA87B8C6595C9B5D200"
 msgid "The massive set of tits called Amber sells milk. You can find Amber across the way, but be warned: the only thing thicker than her accent is her body. Good luck with that."
-msgstr "Эти огромные ходячие сиськи по имени Эмбер продают молоко. Она торгует через дорогу, но знайте: тело не самое толстое что у нее есть. Удачи."
+msgstr "Эти огромные ходячие сиськи по имени Эмбер продают молоко. Она торгует через дорогу, но знай: её акцент намного толще её тела. Удачи."
 
 #. Key:	3AB82ACD4DE402E534B94C83E44F5A2C
 #. SourceLocation:	/Game/Dialogue/Neela/Default/NeelaGreeting01.Default__NeelaGreeting01_C.SessionData.Lines(2).Lines
