@@ -151,7 +151,7 @@ msgstr "Ооо да! Ааа... проникни в мое древнее вла�
 #: /Game/Dialogue/Falene/Default/FaleneDefault01.Default__FaleneDefault01_C.SessionData.Lines(0).Lines
 msgctxt ",04744CA84CBAE9AB13EA1989A23A0DDC"
 msgid "I will leave your ranch soon! But don't worry, you can find me in Hedon."
-msgstr "Скоро я покину твое ранчо! Но не волнуйся, ты сможешь найти меня в Хедоне."
+msgstr "Скоро я покину твое ранчо! Но не волнуйся, ты сможешь найти меня в Гедоне."
 
 #. Key:	04809803498EAC7920E3F09D8A29F0BF
 #. SourceLocation:	/Game/Dialogue/Fern/Default/FernGreeting01.Default__FernGreeting01_C.SessionData.Lines(4).Lines
