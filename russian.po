@@ -2405,7 +2405,7 @@ msgstr "О происхождении @MONSTER_RACE@ неизвестно, но 
 #: /Game/Dialogue/Parvati/Default/ParvatiGreeting01.Default__ParvatiGreeting01_C.SessionData.LinesToFuta(7).LinesToFuta
 msgctxt ",5E27E8A74A30D389BBB939B5142249BB"
 msgid "I greatly desire to experience your fat cock."
-msgstr "{Я очень хочу испытать твой толстый член.}"
+msgstr "Я очень хочу испытать твой толстый член."
 
 #. Key:	5E335B804845931D253C9186CD06C403
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToFemale(8).LinesToFemale
