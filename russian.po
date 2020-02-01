@@ -2617,6 +2617,13 @@ msgctxt ",65F2B1384977D80660A4E4A91389BC9D"
 msgid "Grungy"
 msgstr "Грязный"
 
+#. Key:	664C0BE948989DEEE1185793CB1EEE77
+#. SourceLocation:	/Game/Dialogue/Parvati/Default/ParvatiGreeting01.Default__ParvatiGreeting01_C.SessionData.LinesToFemale(5).LinesToFemale
+#: /Game/Dialogue/Parvati/Default/ParvatiGreeting01.Default__ParvatiGreeting01_C.SessionData.LinesToFemale(5).LinesToFemale
+msgctxt ",664C0BE948989DEEE1185793CB1EEE77"
+msgid "My teachings are not for those who desire to keep their virginity."
+msgstr ""
+
 #. Key:	6658580C407404A28C6BD1875A2920D2
 #. SourceLocation:	/Game/Dialogue/Fern/Default/FernDefault01_RL_T.Default__FernDefault01_RL_T_C.ResponseData(1).ResponseData.BreederPrompt
 #: /Game/Dialogue/Fern/Default/FernDefault01_RL_T.Default__FernDefault01_RL_T_C.ResponseData(1).ResponseData.BreederPrompt
@@ -3065,6 +3072,13 @@ msgctxt ",7531D7CC4B4C50FC4972DB878B5DEDCA"
 msgid "How do I obtain spirit form?"
 msgstr "Как мне обрести духовную форму?"
 
+#. Key:	7553E8614616B738728FC0BCAFAFD4D2
+#. SourceLocation:	/Game/Dialogue/Parvati/Default/ParvatiGreeting01.Default__ParvatiGreeting01_C.SessionData.LinesToFemale(1).LinesToFemale
+#: /Game/Dialogue/Parvati/Default/ParvatiGreeting01.Default__ParvatiGreeting01_C.SessionData.LinesToFemale(1).LinesToFemale
+msgctxt ",7553E8614616B738728FC0BCAFAFD4D2"
+msgid "For knowledge of contorting the body can I bestow."
+msgstr ""
+
 #. Key:	75848F9C47DF47B57018B9BD12602720
 #. SourceLocation:	/Game/Dialogue/Leylanna/Default/LeylannaDefault01_GettingWeird.Default__LeylannaDefault01_GettingWeird_C.SessionData.Lines(0).Lines
 #: /Game/Dialogue/Leylanna/Default/LeylannaDefault01_GettingWeird.Default__LeylannaDefault01_GettingWeird_C.SessionData.Lines(0).Lines
@@ -3184,6 +3198,13 @@ msgctxt ",7A60BC8D497743BB08B8F9AF812EDCC7"
 msgid "My name is Mirru."
 msgstr "Меня зовут Мирру."
 
+#. Key:	7A6479A946793FED41931F8AF7F6B4DE
+#. SourceLocation:	/Game/Dialogue/Parvati/Default/ParvatiDefault01_Teach.Default__ParvatiDefault01_Teach_C.SessionData.LinesToFuta(1).LinesToFuta
+#: /Game/Dialogue/Parvati/Default/ParvatiDefault01_Teach.Default__ParvatiDefault01_Teach_C.SessionData.LinesToFuta(1).LinesToFuta
+msgctxt ",7A6479A946793FED41931F8AF7F6B4DE"
+msgid "Relax while I slather your dick with lube."
+msgstr ""
+
 #. Key:	7AE87BF645B6A4B1D35071A966CCF13E
 #. SourceLocation:	/Game/Dialogue/Emissary/Default/EmissaryDefault01_RL.Default__EmissaryDefault01_RL_C.ResponseData(1).ResponseData.BreederPrompt
 #: /Game/Dialogue/Emissary/Default/EmissaryDefault01_RL.Default__EmissaryDefault01_RL_C.ResponseData(1).ResponseData.BreederPrompt
@@ -3211,6 +3232,13 @@ msgstr "Молочный"
 msgctxt ",7C4054234127D8843978CD80C4B540B7"
 msgid "Yes... oh yes, it feels so good! Penetrate me deeper!"
 msgstr "Да... О да, это так приятно! Проникни в меня глубже!"
+
+#. Key:	7C5853BA4383F9B61021B3A6AD59FA09
+#. SourceLocation:	/Game/Dialogue/Parvati/Default/ParvatiDefault01.Default__ParvatiDefault01_C.SessionData.Lines(3).Lines
+#: /Game/Dialogue/Parvati/Default/ParvatiDefault01.Default__ParvatiDefault01_C.SessionData.Lines(3).Lines
+msgctxt ",7C5853BA4383F9B61021B3A6AD59FA09"
+msgid "Using our bodies in ways all too perverse."
+msgstr ""
 
 #. Key:	7CBF0BC045EF15D872E4EC89A2B54116
 #. SourceLocation:	/Game/Dialogue/Leylanna/Default/LeylannaDefault01_HowToSpiritForm_RL_F.Default__LeylannaDefault01_HowToSpiritForm_RL_F_C.ResponseData(2).ResponseData.BreederPrompt
@@ -3296,6 +3324,13 @@ msgctxt ",7FEBDCF1488DFD58CEB8F28DF96358B3"
 msgid "Your ass is so beautiful, ohhhh... let me bury my face in it!"
 msgstr "Твоя задница так прекрасна, оооо... позволь мне зарыться в ней лицом!"
 
+#. Key:	803D82954112367C37478B894372AB5A
+#. SourceLocation:	/Game/Dialogue/Parvati/Default/ParvatiDefault01_FloatRhyme.Default__ParvatiDefault01_FloatRhyme_C.SessionData.Lines(5).Lines
+#: /Game/Dialogue/Parvati/Default/ParvatiDefault01_FloatRhyme.Default__ParvatiDefault01_FloatRhyme_C.SessionData.Lines(5).Lines
+msgctxt ",803D82954112367C37478B894372AB5A"
+msgid "Beautiful sex positions that break all norms."
+msgstr ""
+
 #. Key:	8044648D4BB5A708D0C1658B377C01A4
 #. SourceLocation:	/Game/Dialogue/Romy/Default/RomyDefault01.Default__RomyDefault01_C.SessionData.Lines(0).Lines
 #: /Game/Dialogue/Romy/Default/RomyDefault01.Default__RomyDefault01_C.SessionData.Lines(0).Lines
@@ -3323,6 +3358,13 @@ msgstr "Вернись ко мне, когда поймаешь Лису гер�
 msgctxt ",81BA7F3C4947D886880CA687DA5D133F"
 msgid "Homestead"
 msgstr "Усадьба"
+
+#. Key:	827D026847F470B33C9BA5B6E24201F5
+#. SourceLocation:	/Game/Breeding/Positions/Lifted.Default__Lifted_C.SessionData.PositionName
+#: /Game/Breeding/Positions/Lifted.Default__Lifted_C.SessionData.PositionName
+msgctxt ",827D026847F470B33C9BA5B6E24201F5"
+msgid "Lifted"
+msgstr ""
 
 #. Key:	8323A0B240DA89AE9385A6970E54FC26
 #. SourceLocation:	/Game/Dialogue/Emissary/Default/EmissaryBlessedInquiry01_R01.Default__EmissaryBlessedInquiry01_R01_C.SessionData.Lines(3).Lines
@@ -3400,6 +3442,13 @@ msgstr "Не позволяй ее холодному поведению вве�
 msgctxt ",84C4480D4F8374778DDEEAA7A0195EC1"
 msgid "Unfortunately, it can only be used for travel."
 msgstr "К сожалению, они используются только для путешествий."
+
+#. Key:	84E329854997BD3064CA67922BD88726
+#. SourceLocation:	/Game/Dialogue/Parvati/Default/ParvatiGreeting01.Default__ParvatiGreeting01_C.SessionData.LinesToFemale(4).LinesToFemale
+#: /Game/Dialogue/Parvati/Default/ParvatiGreeting01.Default__ParvatiGreeting01_C.SessionData.LinesToFemale(4).LinesToFemale
+msgctxt ",84E329854997BD3064CA67922BD88726"
+msgid "One with the Goddess, one with infinity."
+msgstr ""
 
 #. Key:	84ECDF64481524BC47B862968D5475BE
 #. SourceLocation:	/Game/Dialogue/Falene/SexScenes/FaleneBlowJob.Default__FaleneBlowJob_C.SessionData.LinesToMale(7).LinesToMale
@@ -3485,6 +3534,13 @@ msgctxt ",86818D694AB04782DD1A299E28AC5BAF"
 msgid "Or... you can beat them to it and have your way."
 msgstr "Или...ты можешь взять их силой."
 
+#. Key:	86C230E147542961EF516C854DF91DDB
+#. SourceLocation:	/Game/Dialogue/Parvati/Default/ParvatiGreeting01.Default__ParvatiGreeting01_C.SessionData.LinesToFemale(9).LinesToFemale
+#: /Game/Dialogue/Parvati/Default/ParvatiGreeting01.Default__ParvatiGreeting01_C.SessionData.LinesToFemale(9).LinesToFemale
+msgctxt ",86C230E147542961EF516C854DF91DDB"
+msgid "Now let's make love, or you shall find the Her ire."
+msgstr ""
+
 #. Key:	86DCDE444C6876DE3F3C6D8EC7E6FC20
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_R05.Default__FaleneDefault01_R05_C.SessionData.Lines(4).Lines
 #: /Game/Dialogue/Falene/Default/FaleneDefault01_R05.Default__FaleneDefault01_R05_C.SessionData.Lines(4).Lines
@@ -3568,6 +3624,13 @@ msgstr "..."
 msgctxt ",88C30C5C411F049B09320995A20AE25B"
 msgid "That's a topic deserving of an entire volume."
 msgstr "Это тема, достойная целого тома."
+
+#. Key:	88C6CA66419DF0FF12D0A4B560B847DA
+#. SourceLocation:	/Game/Dialogue/Parvati/Default/ParvatiDefault01_FloatRhyme.Default__ParvatiDefault01_FloatRhyme_C.SessionData.Lines(9).Lines
+#: /Game/Dialogue/Parvati/Default/ParvatiDefault01_FloatRhyme.Default__ParvatiDefault01_FloatRhyme_C.SessionData.Lines(9).Lines
+msgctxt ",88C6CA66419DF0FF12D0A4B560B847DA"
+msgid "Thus, you should stay and hear my rhymes."
+msgstr ""
 
 #. Key:	88E908134B3B56C2274F33974CFB4AE5
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToMale(0).LinesToMale
@@ -3730,6 +3793,13 @@ msgctxt ",8D3E28104D0EAE4C533EE39A8D65B6DB"
 msgid "It's going to be sad to lose the ability to move, but at least I have you Master!"
 msgstr "Очень грустно утратить способность ходить, однако, у меня по прежнему есть ты Мастер!"
 
+#. Key:	8D4C9C144C33EE6A19B08696ABFFB5DA
+#. SourceLocation:	/Game/Dialogue/Parvati/Default/ParvatiDefault01_FloatRhyme.Default__ParvatiDefault01_FloatRhyme_C.SessionData.Lines(7).Lines
+#: /Game/Dialogue/Parvati/Default/ParvatiDefault01_FloatRhyme.Default__ParvatiDefault01_FloatRhyme_C.SessionData.Lines(7).Lines
+msgctxt ",8D4C9C144C33EE6A19B08696ABFFB5DA"
+msgid "I will make you feel so good, if it is pleasure that you seek."
+msgstr ""
+
 #. Key:	8DA42A584992D1AF833DDA8EA615FB7B
 #. SourceLocation:	/Game/Dialogue/Fern/SexScenes/FernCum_01.Default__FernCum_01_C.SessionData.Lines(3).Lines
 #: /Game/Dialogue/Fern/SexScenes/FernCum_01.Default__FernCum_01_C.SessionData.Lines(3).Lines
@@ -3884,12 +3954,26 @@ msgctxt ",93200BC643D32038D21FA9A6972CB59F"
 msgid "Amazing!"
 msgstr "Превосходно!"
 
+#. Key:	93ACD44B44EFF7C20AF15E9D718C3166
+#. SourceLocation:	/Game/Breeding/Positions/Missionary.Default__Missionary_C.SessionData.PositionName
+#: /Game/Breeding/Positions/Missionary.Default__Missionary_C.SessionData.PositionName
+msgctxt ",93ACD44B44EFF7C20AF15E9D718C3166"
+msgid "Missionary"
+msgstr "Миссионерская"
+
 #. Key:	93B6CD7C4E7ECCBA8FD7F38BD9A11025
 #. SourceLocation:	/Game/Dialogue/Cassie/Default/CassieDefault01_RL.Default__CassieDefault01_RL_C.ResponseData(1).ResponseData.BreederPrompt
 #: /Game/Dialogue/Cassie/Default/CassieDefault01_RL.Default__CassieDefault01_RL_C.ResponseData(1).ResponseData.BreederPrompt
 msgctxt ",93B6CD7C4E7ECCBA8FD7F38BD9A11025"
 msgid "Uh... meow!"
 msgstr "Ух... мяу!"
+
+#. Key:	941010544E6432D137832FA1B37E0C10
+#. SourceLocation:	/Game/Dialogue/Parvati/Default/ParvatiDefault01_Teach.Default__ParvatiDefault01_Teach_C.SessionData.Lines(3).Lines
+#: /Game/Dialogue/Parvati/Default/ParvatiDefault01_Teach.Default__ParvatiDefault01_Teach_C.SessionData.Lines(3).Lines
+msgctxt ",941010544E6432D137832FA1B37E0C10"
+msgid "So we can do any position that might arise."
+msgstr ""
 
 #. Key:	943C15EB4C419656532B6A8A133CD0F3
 #. SourceLocation:	/Game/Dialogue/Fern/Default/FernDefault01_RL_M.Default__FernDefault01_RL_M_C.ResponseData(3).ResponseData.BreederPrompt
@@ -4009,6 +4093,13 @@ msgstr "*Мурр*"
 msgctxt ",97244FB84D6D7CC0273CD3BB89B847D9"
 msgid "Swift"
 msgstr "Проныра"
+
+#. Key:	975E8DE7431AB39F97281DB7BD7DE314
+#. SourceLocation:	/Game/Dialogue/Parvati/Default/ParvatiDefault01_Teach.Default__ParvatiDefault01_Teach_C.SessionData.Lines(0).Lines
+#: /Game/Dialogue/Parvati/Default/ParvatiDefault01_Teach.Default__ParvatiDefault01_Teach_C.SessionData.Lines(0).Lines
+msgctxt ",975E8DE7431AB39F97281DB7BD7DE314"
+msgid "Remove your garments, thou must be nude."
+msgstr ""
 
 #. Key:	97819B7A480CF2968256F1AD74021DAD
 #. SourceLocation:	/Game/Dialogue/Romy/Default/RomyDefault01_AboutMusic.Default__RomyDefault01_AboutMusic_C.SessionData.Lines(4).Lines
@@ -4227,6 +4318,13 @@ msgctxt ",9F83DE504D98E2D4C149568C1F8DE768"
 msgid "Massive: Roughly 15ft in height."
 msgstr "Массивный: Больше 15-ти футов в росте."
 
+#. Key:	9F9D5BEE4F26E405A81EB09066622552
+#. SourceLocation:	/Game/Dialogue/Parvati/Default/ParvatiDefault01_FloatRhyme.Default__ParvatiDefault01_FloatRhyme_C.SessionData.Lines(4).Lines
+#: /Game/Dialogue/Parvati/Default/ParvatiDefault01_FloatRhyme.Default__ParvatiDefault01_FloatRhyme_C.SessionData.Lines(4).Lines
+msgctxt ",9F9D5BEE4F26E405A81EB09066622552"
+msgid "Eons in Her embrace have taught me bodily forms."
+msgstr ""
+
 #. Key:	9FAD5CA34B7A4B192E688C9C72A825B3
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_R06.Default__FaleneDefault01_R06_C.SessionData.Lines(1).Lines
 #: /Game/Dialogue/Falene/Default/FaleneDefault01_R06.Default__FaleneDefault01_R06_C.SessionData.Lines(1).Lines
@@ -4324,6 +4422,13 @@ msgstr "Oх... мягкая человеческая киска, потряса�
 msgctxt ",A3D34227454452C74EC9BEBE9D5B4A17"
 msgid "Mastah's breast so soft! Fern like it."
 msgstr "Грудь масстера такая мягкая! Ферн нравитсса."
+
+#. Key:	A40264BD4BB3E658212ECE987CC24B4A
+#. SourceLocation:	/Game/Dialogue/Parvati/Default/ParvatiDefault01_Teach.Default__ParvatiDefault01_Teach_C.SessionData.Lines(2).Lines
+#: /Game/Dialogue/Parvati/Default/ParvatiDefault01_Teach.Default__ParvatiDefault01_Teach_C.SessionData.Lines(2).Lines
+msgctxt ",A40264BD4BB3E658212ECE987CC24B4A"
+msgid "Don't worry, for I can change my size."
+msgstr ""
 
 #. Key:	A4367C3445DA16F7A5FC4584F73685FA
 #. SourceLocation:	/Game/Dialogue/Neela/Default/NeelaDefault01.Default__NeelaDefault01_C.SessionData.Lines(2).Lines
@@ -4710,12 +4815,26 @@ msgctxt ",B3B9D4DE46AC98F7EC5432A2F06C92D6"
 msgid "Also, you will be making more cute little @MONSTER_RACE@ for me to \"play\" with!"
 msgstr "А еще, ты можешь вывести маленьких миленьких @MONSTER_RACE@ для меня!"
 
+#. Key:	B41CF0334A59DC837984179B995A16B2
+#. SourceLocation:	/Game/Dialogue/Parvati/Default/ParvatiDefault01_FloatRhyme.Default__ParvatiDefault01_FloatRhyme_C.SessionData.Lines(0).Lines
+#: /Game/Dialogue/Parvati/Default/ParvatiDefault01_FloatRhyme.Default__ParvatiDefault01_FloatRhyme_C.SessionData.Lines(0).Lines
+msgctxt ",B41CF0334A59DC837984179B995A16B2"
+msgid "Such is how I uncovered the truth of non-duality."
+msgstr ""
+
 #. Key:	B48E37AC4977FA95BA4EB3B39018F087
 #. SourceLocation:	/Game/Dialogue/Fern/DefaultP3/FernDefault03.Default__FernDefault03_C.SessionData.LinesToFemale(3).LinesToFemale
 #: /Game/Dialogue/Fern/DefaultP3/FernDefault03.Default__FernDefault03_C.SessionData.LinesToFemale(3).LinesToFemale
 msgctxt ",B48E37AC4977FA95BA4EB3B39018F087"
 msgid "My body longs for your delicious breast milk."
 msgstr "Мое тело жаждет твоего восхитительного молока."
+
+#. Key:	B49B5FD64432ADC45593F3B4F50455B6
+#. SourceLocation:	/Game/Breeding/Positions/Waterfall.Default__Waterfall_C.SessionData.PositionName
+#: /Game/Breeding/Positions/Waterfall.Default__Waterfall_C.SessionData.PositionName
+msgctxt ",B49B5FD64432ADC45593F3B4F50455B6"
+msgid "Waterfall"
+msgstr "Водопад"
 
 #. Key:	B4EFBB67424526E49554149C5ADDE508
 #. SourceLocation:	/Game/Dialogue/Camilla/SexScenes/CamillaAdorableLump.Default__CamillaAdorableLump_C.SessionData.LinesToFuta(0).LinesToFuta
@@ -4787,6 +4906,13 @@ msgctxt ",B7AB851641C9ABEE4A178B9DFFD50B0B"
 msgid "Hybrid"
 msgstr "Гибрид"
 
+#. Key:	B7ABB23A457CC2E34BB616933364E7F3
+#. SourceLocation:	/Game/Breeding/Positions/Lifted.Default__Lifted_C.SessionData.Description
+#: /Game/Breeding/Positions/Lifted.Default__Lifted_C.SessionData.Description
+msgctxt ",B7ABB23A457CC2E34BB616933364E7F3"
+msgid "A larger giver uses its strength to lift the receiver while penetrating from behind."
+msgstr ""
+
 #. Key:	B7DDB984480E5280CB46B69238C0654E
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(25 - Value).TraitIcons.HelpText
 #: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(25 - Value).TraitIcons.HelpText
@@ -4814,6 +4940,20 @@ msgstr "Ну, я ответила на твой вопрос? Уже уходи�
 msgctxt ",B841784842366C72B99D7BABC88D97E6"
 msgid "Pregnancy doesn't make sense!"
 msgstr "Беременность не имеет смысла!"
+
+#. Key:	B85AAF9E46DEE4DCD0E942BEAB518960
+#. SourceLocation:	/Game/Breeding/Positions/Butterfly.Default__Butterfly_C.SessionData.Description
+#: /Game/Breeding/Positions/Butterfly.Default__Butterfly_C.SessionData.Description
+msgctxt ",B85AAF9E46DEE4DCD0E942BEAB518960"
+msgid "The receiver lays elevated on her back, while the giver stands and thrusts."
+msgstr ""
+
+#. Key:	B8D3474E436959F3B7C140BFE42CF3C0
+#. SourceLocation:	/Game/Breeding/Positions/Doggy.Default__Doggy_C.SessionData.Description
+#: /Game/Breeding/Positions/Doggy.Default__Doggy_C.SessionData.Description
+msgctxt ",B8D3474E436959F3B7C140BFE42CF3C0"
+msgid "On all fours, the receiver gets pounded from behind."
+msgstr ""
 
 #. Key:	B8D5DBD04A2C66CA06A044B457DC1B92
 #. SourceLocation:	/Game/Dialogue/Neela/Default/NeelaDefault01_YourVoid.Default__NeelaDefault01_YourVoid_C.SessionData.LinesToFuta(6).LinesToFuta
@@ -5060,6 +5200,13 @@ msgctxt ",C35F97ED47D151CAD06084864F0ED555"
 msgid "Doing this allows the spirit to experience pleasure from your deeds, and you get to experience pleasures beyond what your human body can achieve."
 msgstr "Сделай так, и дух сможет почувствовать твоё наслаждение, а ты сможешь почувствовать то, что не способно почувствовать человеческое тело."
 
+#. Key:	C45BFAF14EABF8D1BD3502825C5C1560
+#. SourceLocation:	/Game/Dialogue/Parvati/Default/ParvatiDefault01_FloatRhyme.Default__ParvatiDefault01_FloatRhyme_C.SessionData.Lines(1).Lines
+#: /Game/Dialogue/Parvati/Default/ParvatiDefault01_FloatRhyme.Default__ParvatiDefault01_FloatRhyme_C.SessionData.Lines(1).Lines
+msgctxt ",C45BFAF14EABF8D1BD3502825C5C1560"
+msgid "And became one with the Goddess who indulged in beastiality."
+msgstr ""
+
 #. Key:	C462B3344F759413A7C6F28489176C99
 #. SourceLocation:	/Game/Dialogue/Camilla/Default/CamillaDefault01_R03_RL.Default__CamillaDefault01_R03_RL_C.ResponseData(1).ResponseData.BreederPrompt
 #: /Game/Dialogue/Camilla/Default/CamillaDefault01_R03_RL.Default__CamillaDefault01_R03_RL_C.ResponseData(1).ResponseData.BreederPrompt
@@ -5087,6 +5234,13 @@ msgstr "Или, чья-то воля привела тебя к моему св�
 msgctxt ",C4F8D7B9479B1BE8B5FA0AB326EEEF3A"
 msgid "Formurian"
 msgstr "Формурианец"
+
+#. Key:	C52FEFD44780735A14B2A78C9F57D862
+#. SourceLocation:	/Game/Dialogue/Parvati/Default/ParvatiGreeting01.Default__ParvatiGreeting01_C.SessionData.LinesToFemale(6).LinesToFemale
+#: /Game/Dialogue/Parvati/Default/ParvatiGreeting01.Default__ParvatiGreeting01_C.SessionData.LinesToFemale(6).LinesToFemale
+msgctxt ",C52FEFD44780735A14B2A78C9F57D862"
+msgid "Give your body to me, and in ecstasy we will make it conform."
+msgstr ""
 
 #. Key:	C5E724D9440EB6AC1E01458A6325FC39
 #. SourceLocation:	/Game/Dialogue/Fern/Default/FernDefault01_R02.Default__FernDefault01_R02_C.SessionData.Lines(1).Lines
@@ -5129,6 +5283,13 @@ msgstr "Да! Я чувствую, что ты скоро кончишь... Я �
 msgctxt ",C720F2B64D81061E9D1CC7A3ACD4F0BB"
 msgid "Beware, some blessed ones might succumb to their desires and surprise you if you get close!"
 msgstr "Осторожно, некоторые могут поддаться своим желаниям и напасть на тебя, если ты окажешься слишком близко!"
+
+#. Key:	C73CE27C41A91E73C54B58B65E56049E
+#. SourceLocation:	/Game/Dialogue/Parvati/Default/ParvatiGreeting01.Default__ParvatiGreeting01_C.SessionData.LinesToFemale(3).LinesToFemale
+#: /Game/Dialogue/Parvati/Default/ParvatiGreeting01.Default__ParvatiGreeting01_C.SessionData.LinesToFemale(3).LinesToFemale
+msgctxt ",C73CE27C41A91E73C54B58B65E56049E"
+msgid "You seek to learn a new way to use your pleasure hole."
+msgstr ""
 
 #. Key:	C77FA616486308414031F29069272188
 #. SourceLocation:	/Game/Dialogue/Leylanna/Default/LeylannaDefault01_RL.Default__LeylannaDefault01_RL_C.ResponseData(2).ResponseData.BreederPrompt
@@ -5213,6 +5374,13 @@ msgstr "Эльфы относятся к расе Сильван, большом
 msgctxt ",CD24CE384C0548CF493A43A0F88CB7A2"
 msgid "Indulge yourself human, for I am thy servant."
 msgstr "Развлекайся человек, я тебе услужу."
+
+#. Key:	CD8C53FE4EAFB9508679088ACC31A4CD
+#. SourceLocation:	/Game/Breeding/Positions/Cowgirl.Default__Cowgirl_C.SessionData.Description
+#: /Game/Breeding/Positions/Cowgirl.Default__Cowgirl_C.SessionData.Description
+msgctxt ",CD8C53FE4EAFB9508679088ACC31A4CD"
+msgid "The receiver bounces up and down while facing the giver."
+msgstr ""
 
 #. Key:	CE27DDF94397A475B6331E9CAF6EB7C5
 #. SourceLocation:	/Game/Dialogue/Mirru/Default/MirruDefault01_BodySexToy.Default__MirruDefault01_BodySexToy_C.SessionData.LinesToMale(3).LinesToMale
@@ -5368,6 +5536,13 @@ msgctxt ",D3EBB7904D4648D8930D5B98189AC73D"
 msgid "Hybrid"
 msgstr "Гибрид"
 
+#. Key:	D43D63CB4B6E7B157FD06E89C537F572
+#. SourceLocation:	/Game/Breeding/Positions/Waterfall.Default__Waterfall_C.SessionData.Description
+#: /Game/Breeding/Positions/Waterfall.Default__Waterfall_C.SessionData.Description
+msgctxt ",D43D63CB4B6E7B157FD06E89C537F572"
+msgid "The giver's lower half is elevated while the receiver balances on top."
+msgstr ""
+
 #. Key:	D456D54240773E6C7DA921A0B4BDBA16
 #. SourceLocation:	/Game/Dialogue/Fern/DefaultP2/FernDefault02_R04.Default__FernDefault02_R04_C.SessionData.Lines(1).Lines
 #: /Game/Dialogue/Fern/DefaultP2/FernDefault02_R04.Default__FernDefault02_R04_C.SessionData.Lines(1).Lines
@@ -5422,7 +5597,14 @@ msgstr "Позволь мне вылизать твою сладкую ваги�
 #: /Game/Dialogue/Camilla/Default/CamillaDefault01_R01.Default__CamillaDefault01_R01_C.SessionData.Lines(4).Lines
 msgctxt ",D5A1DB2341980090F900379E1AE48051"
 msgid "If you don't, they will!"
-msgstr "Если не ты их, то они тебя!"
+msgstr "Если не ты, то они!"
+
+#. Key:	D5C1C3B248D402846D813ABD2800F061
+#. SourceLocation:	/Game/Dialogue/Parvati/Default/ParvatiDefault01_FloatRhyme.Default__ParvatiDefault01_FloatRhyme_C.SessionData.Lines(2).Lines
+#: /Game/Dialogue/Parvati/Default/ParvatiDefault01_FloatRhyme.Default__ParvatiDefault01_FloatRhyme_C.SessionData.Lines(2).Lines
+msgctxt ",D5C1C3B248D402846D813ABD2800F061"
+msgid "Mentally I have sex with Her every day."
+msgstr "Я имею ее мысленно каждый день"
 
 #. Key:	D5C1EFC54081F21A6C1F538839E450A2
 #. SourceLocation:	/Game/Dialogue/Camilla/SexScenes/CamillaAdorableLump.Default__CamillaAdorableLump_C.SessionData.LinesToFuta(3).LinesToFuta
@@ -5479,6 +5661,13 @@ msgstr "Мое тело жаждет твоего восхитительного
 msgctxt ",D7CBF3A849F90F40A1E899A00B974FBA"
 msgid "See, there is nowhere in @WORLD_NAME@ that I haven't slithered."
 msgstr "Понимаешь, в @WORLD_NAME@ нет такого места, где бы я не ползала."
+
+#. Key:	D7CD27D2485A136014BAEDA62F225167
+#. SourceLocation:	/Game/Breeding/Positions/Missionary.Default__Missionary_C.SessionData.Description
+#: /Game/Breeding/Positions/Missionary.Default__Missionary_C.SessionData.Description
+msgctxt ",D7CD27D2485A136014BAEDA62F225167"
+msgid "The giver lays on top of the receiver and thrusts."
+msgstr ""
 
 #. Key:	D7F8B9C2431BFB6ED28ECAAF83BAE062
 #. SourceLocation:	/Game/Dialogue/Fern/DefaultP3/FernDefault03.Default__FernDefault03_C.SessionData.LinesToFemale(1).LinesToFemale
@@ -5689,6 +5878,13 @@ msgstr "Прекрасный золотой ангел появился всег
 msgctxt ",DD7ECB9E437DDF8975868AA3934E909D"
 msgid "Look at my beautiful flower, it bloomed! Oh my did it feel weird..."
 msgstr "Посcмотри - мой прекраcсный цветок расcцвел! О боже, это так сcтранно..."
+
+#. Key:	DD90913F4C544CDB2D79CDAE67287C68
+#. SourceLocation:	/Game/Dialogue/Parvati/Default/ParvatiDefault01.Default__ParvatiDefault01_C.SessionData.Lines(0).Lines
+#: /Game/Dialogue/Parvati/Default/ParvatiDefault01.Default__ParvatiDefault01_C.SessionData.Lines(0).Lines
+msgctxt ",DD90913F4C544CDB2D79CDAE67287C68"
+msgid "Returning to me with that familiar glint in your eye."
+msgstr ""
 
 #. Key:	DDC7B99042CEA89C790895990EB876BE
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_R02.Default__FaleneDefault01_R02_C.SessionData.Lines(1).Lines
@@ -5949,6 +6145,13 @@ msgctxt ",E6AE999D442B37DD898ED3B14ADA261A"
 msgid "Wild elves aren't as common as other @MONSTER_RACE@, Painted Elves even less so."
 msgstr "Эльфы самые малочисленные @MONSTER_RACE@, а Раскрашенные Эльфы совсем редкость."
 
+#. Key:	E771BFFB4897C621A00726862D211233
+#. SourceLocation:	/Game/Breeding/Positions/ReverseCowgirl.Default__ReverseCowgirl_C.SessionData.Description
+#: /Game/Breeding/Positions/ReverseCowgirl.Default__ReverseCowgirl_C.SessionData.Description
+msgctxt ",E771BFFB4897C621A00726862D211233"
+msgid "The receiver bounces up and down while facing away from the giver."
+msgstr ""
+
 #. Key:	E8789C0E4CCC57BB8A98178902DA8110
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(1 - Value).TraitIcons.HelpText
 #: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(1 - Value).TraitIcons.HelpText
@@ -6081,6 +6284,13 @@ msgstr "Теперь я уже взрослая Альрауна!"
 msgctxt ",ED550A2148D3A000A85A3888AF7B31B1"
 msgid "..."
 msgstr "..."
+
+#. Key:	EDA3DF9D4C1774AA8DDFC69C0EFD0035
+#. SourceLocation:	/Game/Dialogue/Parvati/Default/ParvatiGreeting01.Default__ParvatiGreeting01_C.SessionData.LinesToFemale(8).LinesToFemale
+#: /Game/Dialogue/Parvati/Default/ParvatiGreeting01.Default__ParvatiGreeting01_C.SessionData.LinesToFemale(8).LinesToFemale
+msgctxt ",EDA3DF9D4C1774AA8DDFC69C0EFD0035"
+msgid "Favor from the Goddess will you require."
+msgstr "Тебе понадобится благосклонность Богини."
 
 #. Key:	EDFEC0864067F06F1A5A1C9F3501DE00
 #. SourceLocation:	/Game/Dialogue/Fern/SexScenes/FernCum_01.Default__FernCum_01_C.SessionData.Lines(2).Lines
