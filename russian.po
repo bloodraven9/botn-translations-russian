@@ -3805,7 +3805,7 @@ msgstr "Что? Да... сердца... У Кракенов их два."
 #: /Game/Dialogue/Fern/DefaultP2/FernDefault02_R01.Default__FernDefault02_R01_C.SessionData.Lines(3).Lines
 msgctxt ",8D3E28104D0EAE4C533EE39A8D65B6DB"
 msgid "It's going to be sad to lose the ability to move, but at least I have you Master!"
-msgstr "Очень грустно утратить способность ходить, однако, у меня по прежнему есть ты Мастер!"
+msgstr "Очень грусстно утратить сспоссобность ходить, однако, у меня по прежнему ессть ты Масстер!"
 
 #. Key:	8D4C9C144C33EE6A19B08696ABFFB5DA
 #. SourceLocation:	/Game/Dialogue/Parvati/Default/ParvatiDefault01_FloatRhyme.Default__ParvatiDefault01_FloatRhyme_C.SessionData.Lines(7).Lines
@@ -3987,7 +3987,7 @@ msgstr "Ух... мяу!"
 #: /Game/Dialogue/Parvati/Default/ParvatiDefault01_Teach.Default__ParvatiDefault01_Teach_C.SessionData.Lines(3).Lines
 msgctxt ",941010544E6432D137832FA1B37E0C10"
 msgid "So we can do any position that might arise."
-msgstr "Мы можем попробовать любые существующие позы."
+msgstr "Так что, мы можем попробовать любые существующие позы."
 
 #. Key:	943C15EB4C419656532B6A8A133CD0F3
 #. SourceLocation:	/Game/Dialogue/Fern/Default/FernDefault01_RL_M.Default__FernDefault01_RL_M_C.ResponseData(3).ResponseData.BreederPrompt
