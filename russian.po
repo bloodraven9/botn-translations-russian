@@ -529,7 +529,7 @@ msgstr "У тебя набор столь плодородных губ и гр�
 #: /Game/Dialogue/Mirru/SexScenes/MirruSnatchT.Default__MirruSnatchT_C.SessionData.Lines(2).Lines
 msgctxt ",12D3C80246AEABBC7C78CD8D7A2FD415"
 msgid "Do you like my thick deep vagina? Ahh... penetrate it with all your might..."
-msgstr "Тебе нравится моя пухлая глубокая вагина? Ахх... Войди в нее со всей силы..."
+msgstr "Тебе нравится моя пухлая глубокая вагина? Аах... Войди в нее со всей силы..."
 
 #. Key:	12F0D8C14278EB1A73FD4289B39B7E87
 #. SourceLocation:	/Game/Dialogue/Blossom/Default/BlossomDefault01_RL_F.Default__BlossomDefault01_RL_F_C.ResponseData(2).ResponseData.BreederPrompt
@@ -2300,7 +2300,7 @@ msgstr "Все нормально... Я просто хочу твоего мо�
 #: /Game/Dialogue/Falene/Default/FaleneDefault01_FutaBalls.Default__FaleneDefault01_FutaBalls_C.SessionData.Lines(0).Lines
 msgctxt ",591A0FAA474F00F7E8E2F28C1E009891"
 msgid "Well you see human, futas don't need them."
-msgstr "Ну, видишь ли, человек, футам они не нужны."
+msgstr "Ну, видишь ли, человек, гермафродитам они не нужны."
 
 #. Key:	59AE8221430C7DB9A85B7BB2B4663795
 #. SourceLocation:	/Game/Dialogue/Emissary/Default/EmissaryDefault01.Default__EmissaryDefault01_C.SessionData.Lines(0).Lines
@@ -2370,7 +2370,7 @@ msgstr "Я хочу чувствовать теплую человеческую
 #: /Game/Dialogue/Falene/Default/FaleneDefault01_RL.Default__FaleneDefault01_RL_C.ResponseData(7).ResponseData.BreederPrompt
 msgctxt ",5B50ECD6460E78702D62488307BE2A0A"
 msgid "Why don't futas have balls?"
-msgstr "Почему у футы нет яиц?"
+msgstr "Почему у гермафродита нет яиц?"
 
 #. Key:	5C17953A4E43CD3EE715BC8BE3D80889
 #. SourceLocation:	/Game/Dialogue/Camilla/Default/CamillaDefault01_R02.Default__CamillaDefault01_R02_C.SessionData.Lines(8).Lines
@@ -2930,7 +2930,7 @@ msgstr "Да, порадуй меня своим членом, и духи ок�
 #: /Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToFuta(16).LinesToFuta
 msgctxt ",70B4299E404BAC657357D7AD12E3DF68"
 msgid "I want that delicious futa dick inside me... ohhh, right now!"
-msgstr "Я хочу принять в себя этот прекрасный фута-член... ооох, немедленно!"
+msgstr "Я хочу принять в себя этот прекрасный член... ооох, немедленно!"
 
 #. Key:	70CF21944D42682E43C6EBB4A8757DB0
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_FutaBalls.Default__FaleneDefault01_FutaBalls_C.SessionData.Lines(3).Lines
@@ -4029,7 +4029,7 @@ msgstr "Действительно! Твоя восхитительная жид
 #: /Game/Dialogue/Mirru/Default/MirruDefault01_Princess.Default__MirruDefault01_Princess_C.SessionData.Lines(2).Lines
 msgctxt ",94861BA24AA560F31BB02F9A4AC431F9"
 msgid "Unlike most Krakens, she is pure female and not futa. She is very rare."
-msgstr "В отличие от большинства кракенов, она самка, а не фута. Это очень большая редкость."
+msgstr "В отличие от большинства Кракенов, она самка, а не гермафродит. Это очень большая редкость."
 
 #. Key:	94FAC38648F37068EA98D4BEB220AA61
 #. SourceLocation:	/Game/Dialogue/Neela/Default/NeelaDefault01_AboutLamias.Default__NeelaDefault01_AboutLamias_C.SessionData.Lines(4).Lines
@@ -4148,7 +4148,7 @@ msgstr "Мне нужна человеческая сперма что бы вы
 #: /Game/Dialogue/Camilla/Default/CamillaDefault01_RL.Default__CamillaDefault01_RL_C.ResponseData(4).ResponseData.BreederPrompt
 msgctxt ",9823997B4369C9710C0858A44B670A9D"
 msgid "Why don't futas have balls?"
-msgstr "Почему у футы нет яиц?"
+msgstr "Почему у гермафродита нет яиц?"
 
 #. Key:	9826413940251A15497827A9930F74C3
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToFemale(24).LinesToFemale
@@ -4295,7 +4295,7 @@ msgstr "Покажи свои молочные продукты."
 #: /Game/Dialogue/Falene/SexScenes/FaleneBlowJob.Default__FaleneBlowJob_C.SessionData.LinesToFuta(0).LinesToFuta
 msgctxt ",9E5B0BA14AE1E009AC9A5BA4D423863D"
 msgid "Ohhh how I have waited to wrap my soft lips around a human dick! Ahhh..."
-msgstr "О, как же я хотела, сомкнуть свои мягкие губы на человеческом члене! Ахх..."
+msgstr "О, как же я хотела, сомкнуть свои мягкие губы на человеческом члене! Аах..."
 
 #. Key:	9ECA418E4EC2E9617CD48B82C43CB5FA
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(2 - Value).TraitIcons.HelpText
@@ -4372,7 +4372,7 @@ msgstr "Телесные жидкости Формуриан"
 #: /Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToFemale(5).LinesToFemale
 msgctxt ",A028577648369DBF41FFC6B04A76C3FA"
 msgid "Oh silly me, I never introduced myself."
-msgstr "Ой я глупышка, я еще и не представилась."
+msgstr "Ой, я глупышка, так и не представилась."
 
 #. Key:	A0B57F5941F9CAEBBB30CF828C3E26AC
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_R01.Default__FaleneDefault01_R01_C.SessionData.Lines(12).Lines
@@ -4617,7 +4617,7 @@ msgstr "Титан"
 #: /Game/Dialogue/Falene/SexScenes/FaleneBlowJob.Default__FaleneBlowJob_C.SessionData.LinesToFemale(5).LinesToFemale
 msgctxt ",ABEE483E4EE1D5F8E67437A711E81D7D"
 msgid "*Lick* *Kiss*"
-msgstr "*Лизь**Чмок*"
+msgstr "*Лизь* *Чмок*"
 
 #. Key:	ACB6D0AB4FEF709BE8976DAF20A467D6
 #. SourceLocation:	/Game/Dialogue/Camilla/Default/CamillaGreeting01.Default__CamillaGreeting01_C.SessionData.Lines(0).Lines
@@ -4883,7 +4883,7 @@ msgstr "Все хотят Фейлин. Она так красива, что н�
 #: /Game/Dialogue/Leylanna/Default/LeylannaDefault01_HowToSpiritForm.Default__LeylannaDefault01_HowToSpiritForm_C.SessionData.LinesToFuta(2).LinesToFuta
 msgctxt ",B69447294A19D4E4338E36BBB1C2DADE"
 msgid "Catch a futa Foxen if you have not done so, and then return to me. We will then make love and form a covenant."
-msgstr "Поймай для меня фута-Лису, если у тебя её ещё нет, а затем вернись ко мне. Тогда мы предадимся любви и заключим договор."
+msgstr "Поймай для меня Лису гермафродита, если у тебя её ещё нет, а затем вернись ко мне. Тогда мы предадимся любви и заключим договор."
 
 #. Key:	B69F20F0421426CBBF0D7FBE2E7C76D6
 #. SourceLocation:	/Game/Dialogue/Romy/Default/RomyDefault01_BatheAllDay.Default__RomyDefault01_BatheAllDay_C.SessionData.Lines(1).Lines
@@ -5576,7 +5576,7 @@ msgstr "Поcсмотри - мой прекраcсный цветок раcсц�
 #: /Game/Dialogue/Falene/SexScenes/FaleneBlowJob.Default__FaleneBlowJob_C.SessionData.LinesToFemale(6).LinesToFemale
 msgctxt ",D4B876E04002BC56FF720D829DA04785"
 msgid "Ahh... oh... so delicious."
-msgstr "Ахх... ох... как вкусно."
+msgstr "Аах... ох... как вкусно."
 
 #. Key:	D4BAFDEE4340A6062B18808C4CB9ABF1
 #. SourceLocation:	/Game/Dialogue/Mirru/SexScenes/MirruSnatchF.Default__MirruSnatchF_C.SessionData.Lines(4).Lines
@@ -6234,7 +6234,7 @@ msgstr "Мяу! Хе-хе, не заводи меня!"
 #: /Game/Dialogue/Mirru/SexScenes/MirruKrakVag.Default__MirruKrakVag_C.SessionData.Lines(2).Lines
 msgctxt ",EB717BA44A439427B1DE6CA60FA650A2"
 msgid "Do you like my thick deep vagina? Ahh... penetrate it with all your might..."
-msgstr "Тебе нравится моя пухлая глубокая вагина? Ахх... Войди в нее со всей силы..."
+msgstr "Тебе нравится моя пухлая глубокая вагина? Аах... Войди в нее со всей силы..."
 
 #. Key:	EB8281BE4BDC307B5C0B208F2E5CDCED
 #. SourceLocation:	/Game/Dialogue/Camilla/Default/CamillaDefault01_R02.Default__CamillaDefault01_R02_C.SessionData.Lines(5).Lines
@@ -6794,7 +6794,7 @@ msgstr "Телесные жидкости Серафима"
 #: /Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToMale(5).LinesToMale
 msgctxt ",FFA17F124A05F93244CA07860B63DEA2"
 msgid "Oh silly me, I never introduced myself."
-msgstr "Ой я глупышка, я еще и не представилась."
+msgstr "Ой, я глупышка, так и не представилась."
 
 #. Key:	FFEB9256402DB5ADDFEED38770F40285
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(24 - Value).TraitIcons.HelpText
