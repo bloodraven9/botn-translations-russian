@@ -550,7 +550,7 @@ msgstr "Да... О да, это так приятно! Проникни в ме�
 #: /Game/Dialogue/Neela/Default/NeelaDefault01_RL.Default__NeelaDefault01_RL_C.ResponseData(0).ResponseData.BreederPrompt
 msgctxt ",132FEAC24092921E25A0F68A9AA99D0B"
 msgid "What is the Void?"
-msgstr "Что за Пустота?"
+msgstr "Пустота, что это?"
 
 #. Key:	13E887904839CEF7B4D79EBD63EA0F05
 #. SourceLocation:	/Game/Dialogue/Camilla/SexScenes/CamillaAdorableLump.Default__CamillaAdorableLump_C.SessionData.LinesToFuta(2).LinesToFuta
@@ -6724,7 +6724,7 @@ msgstr "Стонущий утес"
 #: /Game/Dialogue/Neela/Default/NeelaDefault01_YourVoid_RL.Default__NeelaDefault01_YourVoid_RL_C.ResponseData(0).ResponseData.BreederPrompt
 msgctxt ",FD905EC14D8B8AC5E3D8D28AB7280C39"
 msgid "Experience this tasty human!"
-msgstr "Испытай это сладенький человек!"
+msgstr "Опробуй столь сладкого человека!"
 
 #. Key:	FD996BF544296A6A4A54CE82ABF12183
 #. SourceLocation:	/Game/Dialogue/Fern/DefaultP2/FernGreeting02.Default__FernGreeting02_C.SessionData.LinesToFuta(2).LinesToFuta
