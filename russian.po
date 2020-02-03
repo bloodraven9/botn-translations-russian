@@ -438,7 +438,7 @@ msgstr "Ну так проложим же путь одной плоти в др
 #: /Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToFemale(25).LinesToFemale
 msgctxt ",107C6B8448B1F139A90AFDBD17AE1AA9"
 msgid "However, some might be more playful about it and surprise you!"
-msgstr "Однако, некоторые из них могут быть более настойчивыми и удивить вас!"
+msgstr "Однако, некоторые из них могут быть более настойчивыми и напасть на тебя!"
 
 #. Key:	10B6D2544B53FFD4CF0A1DA4375DF5B5
 #. SourceLocation:	/Game/Dialogue/Leylanna/Default/LeylannaDefault01_NoSpiritVariant.Default__LeylannaDefault01_NoSpiritVariant_C.SessionData.LinesToFemale(0).LinesToFemale
@@ -872,7 +872,7 @@ msgstr "Вы только что стали новым жителем @WORLD_NAM
 #: /Game/Dialogue/Blossom/Default/BlossomDefault01_R01.Default__BlossomDefault01_R01_C.SessionData.Lines(1).Lines
 msgctxt ",210B50F94F9FCF3416F33C880389C277"
 msgid "With Mastah's body fluid... mother made me. Still sapling... want fluidsss!"
-msgstr "С помощью флюидов масстера... Мама-Ферн создала меня. Пока ещё россток... хочу флюидов!"
+msgstr "С помощью флюидов масстера... Мама-Ферн ссоздала меня. Пока ещё россток... хочу флюидов!"
 
 #. Key:	2126F09F4B710631419B5DABA6528521
 #. SourceLocation:	/Game/Dialogue/Fern/SexScenes/FernMilk_01.Default__FernMilk_01_C.SessionData.Lines(5).Lines
@@ -1726,7 +1726,7 @@ msgstr "Принять"
 #: /Game/Dialogue/Mirru/Default/MirruDefault01_MultipleHearts.Default__MirruDefault01_MultipleHearts_C.SessionData.Lines(1).Lines
 msgctxt ",43D16A4C487E8E717D3AF2A72A1F2C56"
 msgid "Way to kill the mood human."
-msgstr "Один из врянтов испортить настроение человек."
+msgstr "Не порть настроение, человек."
 
 #. Key:	43D6E7FC4718254A804FD5AF3D1C8186
 #. SourceLocation:	/Game/Dialogue/Neela/SexScenes/NeelaSnakeCuddleT.Default__NeelaSnakeCuddleT_C.SessionData.Lines(3).Lines
@@ -2510,7 +2510,7 @@ msgstr "Почему ты зовешь меня мастером?"
 #: /Game/Dialogue/Fern/DefaultP2/FernDefault02_R02.Default__FernDefault02_R02_C.SessionData.Lines(2).Lines
 msgctxt ",62DABAA04453893D6FCD5390D28CB19A"
 msgid "Soon, I will fully bloom and not be able to move. We can have a lot of fun with my flower body!"
-msgstr "Скоро я расцвету и не смогу двигаться. И тогда мы вдоволь повеселимся с моим цветочным телом!"
+msgstr "Сскоро я расцвету и не ссмогу двигатьсся. И тогда мы вдоволь повесселимся с моим цветочным телом!"
 
 #. Key:	62FF5D604699246B05ECEDA19F98F1BA
 #. SourceLocation:	/Game/Dialogue/Mirru/Default/MirruDefault01_BodySexToy.Default__MirruDefault01_BodySexToy_C.SessionData.LinesToFemale(1).LinesToFemale
@@ -5100,7 +5100,7 @@ msgstr "Иногда Фалин катает меня на спине по го�
 #: /Game/Dialogue/Camilla/Default/CamillaDefault01.Default__CamillaDefault01_C.SessionData.Lines(1).Lines
 msgctxt ",BE9F677046DE7F9AE5246FB18D7F8FFB"
 msgid "Once she threw me into that pussy portal when Neela wasn't looking!"
-msgstr "Однажды она закинула меня в кископортал, когда Нила отвернулась!"
+msgstr "Однажды она закинула меня в кископортал, когда Ниила отвернулась!"
 
 #. Key:	BEDA7D94498AC1A3091C29BABE2C94F7
 #. SourceLocation:	/Game/Dialogue/Camilla/Default/CamillaDefault01_RL.Default__CamillaDefault01_RL_C.ResponseData(1).ResponseData.BreederPrompt
@@ -6647,7 +6647,7 @@ msgstr "Аах... это так здорово! Я сейчас кончу."
 #: /Game/Dialogue/AmberMae/Default/AmberMaeGreeting01.Default__AmberMaeGreeting01_C.SessionData.Lines(6).Lines
 msgctxt ",FB8D2D144CB9249F47237B94F66E71F1"
 msgid "Why I drink it and use it to bake treats of course! I ain't a wee lass mind you--I drink lots o' the stuff! Also, me treats are famous world wide!"
-msgstr "Почему же, я его пью и использую для выпечки, естессна! Я уже взрослая дивчина и могу сама решать чо мне пить! Кроме того, моя выпечка славятся по всьому свиту!"
+msgstr "Почему же, я его пью и использую для выпечки, естессна! Я уже взросла и могу сама решать чё мне пить! Кроме того, моя выпечка славятся по всьому свиту!"
 
 #. Key:	FBA6175C45D9F4E3E3CD7F85021561C6
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_Pregnancy.Default__FaleneDefault01_Pregnancy_C.SessionData.Lines(0).Lines
