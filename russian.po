@@ -963,7 +963,7 @@ msgstr "Я хочу попробовать вагину Кракена..."
 #: /Game/Dialogue/Fern/DefaultP2/FernGreeting02.Default__FernGreeting02_C.SessionData.LinesToFemale(2).LinesToFemale
 msgctxt ",23E7B88A464A51712A11B1A07FE361A3"
 msgid "I am a growing Alraune, perhaps you have fluids to spare?"
-msgstr "Я - растущая Альрауна, мне нужны флюиды, у тебя ессть?"
+msgstr "Я - расстущая Альрауна, мне нужны флюиды, у тебя ессть?"
 
 #. Key:	240A4A634DB7018141BD60B5A94B716C
 #. SourceLocation:	/Game/Dialogue/AmberMae/Default/AmberMaeDefault01_Accent.Default__AmberMaeDefault01_Accent_C.SessionData.Lines(0).Lines
@@ -4057,7 +4057,7 @@ msgstr "Эзотерическая лужайка"
 #: /Game/Dialogue/Fern/DefaultP3/FernDefault03.Default__FernDefault03_C.SessionData.LinesToFuta(2).LinesToFuta
 msgctxt ",9589965546B48748E41BA7942844189B"
 msgid "I am a growing Alraune, perhaps you have fluids to spare?"
-msgstr "Я - растущая Альрауна, мне нужны флюиды, у тебя есть?"
+msgstr "Я - расстущая Альрауна, мне нужны флюиды, у тебя ессть?"
 
 #. Key:	960E85EF4CA91DAAA4DCFF93B84D183E
 #. SourceLocation:	/Game/Dialogue/Mirru/Default/MirruDefault01_BodySexToy.Default__MirruDefault01_BodySexToy_C.SessionData.LinesToFuta(4).LinesToFuta
@@ -5821,7 +5821,7 @@ msgstr "Ссс..."
 #: /Game/Dialogue/Fern/DefaultP3/FernDefault03_R01.Default__FernDefault03_R01_C.SessionData.Lines(1).Lines
 msgctxt ",DB7D31B143C7D61531D61790BE87667B"
 msgid "I grew in your soil, and now it is my permanent home. Hopefully you like your new decoration!"
-msgstr "Я выроссла на твоей земле, и теперь это мой посстоянный дом. Надеюссь тебе нравитсся твоя новая декорация"
+msgstr "Я выроссла на твоей земле, и теперь это мой дом навссегда. Надеюссь тебе нравитсся твоя новая декорация"
 
 #. Key:	DC0025004492CEEAE0F8D1A26E169F34
 #. SourceLocation:	/Game/Dialogue/Blossom/Default/BlossomDefault01_R02.Default__BlossomDefault01_R02_C.SessionData.Lines(1).Lines
@@ -6101,7 +6101,7 @@ msgstr "Аах... оооох... да!"
 #: /Game/Dialogue/Fern/DefaultP3/FernDefault03.Default__FernDefault03_C.SessionData.LinesToFemale(2).LinesToFemale
 msgctxt ",E460226A4FF1B186BCA5DE85158B49AF"
 msgid "I am a growing Alraune, perhaps you have fluids to spare?"
-msgstr "Я - растущая Альрауна, мне нужны флюиды, у тебя есть?"
+msgstr "Я - расстущая Альрауна, мне нужны флюиды, у тебя ессть?"
 
 #. Key:	E499F0E4452FBC3AAE82E18BCF77B28B
 #. SourceLocation:	/Game/Dialogue/Emissary/Default/EmissaryBlessedInquiry01_R01.Default__EmissaryBlessedInquiry01_R01_C.SessionData.Lines(2).Lines
@@ -6731,7 +6731,7 @@ msgstr "Испытай это сладенький человек!"
 #: /Game/Dialogue/Fern/DefaultP2/FernGreeting02.Default__FernGreeting02_C.SessionData.LinesToFuta(2).LinesToFuta
 msgctxt ",FD996BF544296A6A4A54CE82ABF12183"
 msgid "I am a growing Alraune, perhaps you have fluids to spare?"
-msgstr "Я - растущая Альрауна, мне нужны флюиды, у тебя есть?"
+msgstr "Я - расстущая Альрауна, мне нужны флюиды, у тебя ессть?"
 
 #. Key:	FDBDE7714A97FE255B38A0BACEC479DB
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(7 - Value).TraitIcons.DisplayName
