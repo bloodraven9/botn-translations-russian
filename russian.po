@@ -3042,7 +3042,7 @@ msgstr "Гарпии предпочитают знойное солнце Бар
 #: /Game/Dialogue/Falene/Default/FaleneDefault01_R01.Default__FaleneDefault01_R01_C.SessionData.Lines(11).Lines
 msgctxt ",740E4D7D44C42EC222B32AAF3DB022F4"
 msgid "It's likely we have barely scratched the surface of what it's capable of, so my theory isn't that farfetched."
-msgstr "{Скорее всего мы едва поцарапали поверхность, так что моя теория не так уж далека от истины.}"
+msgstr "Однако, мы едва ли приблизились к истине, так что моя теория вполне логична."
 
 #. Key:	7413D71A4AAA4CA135368D8D6BD67DC1
 #. SourceLocation:	/Game/Dialogue/Mirru/SexScenes/MirruKrakVag.Default__MirruKrakVag_C.SessionData.Lines(5).Lines
