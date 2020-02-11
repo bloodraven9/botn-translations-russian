@@ -8,7 +8,7 @@ Russian translation PO files for Breeders of the Nephelym
 
 Message board 4 Team
 ---
-2020/02/03
+2020/02/11
 Обнаружены неточности :
 - ,BB0E7B2D4F49CAAB00A884BE87ED9F44 (не точный перевод)
 - ,D9AEE8B346F04D85CD643FA456C20645 (проверить род)
