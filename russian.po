@@ -5870,7 +5870,7 @@ msgstr "Большегрудая"
 #: /Game/Dialogue/Leylanna/Default/LeylannaDefault01.Default__LeylannaDefault01_C.SessionData.Lines(0).Lines
 msgctxt ",DCBFA42D4FD9520CA7F586A84DCF3921"
 msgid "Make love with me @BREEDER_NAME@, let us writhe in pleasure before Her gaze."
-msgstr "Займись со мной любовью @BREEDER_NAME@, будем извиваться в удовольствии пред Её взором."
+msgstr "Займись со мной любовью @BREEDER_NAME@, будем биться в экстазе пред Её взором."
 
 #. Key:	DCFCF2FF45351BEF9BAEACA9BE408F9A
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_R03.Default__FaleneDefault01_R03_C.SessionData.Lines(13).Lines
