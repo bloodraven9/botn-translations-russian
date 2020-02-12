@@ -5009,7 +5009,7 @@ msgstr "Как же я завидую твоему высокому сексуа
 #: /Game/Dialogue/Cassie/Default/CassieGreeting01.Default__CassieGreeting01_C.SessionData.Lines(7).Lines
 msgctxt ",BB0E7B2D4F49CAAB00A884BE87ED9F44"
 msgid "Or if ya wanna really butter my butt and let me see your \"property\"."
-msgstr "Если ты действительно хочешь поскользить на моей заднице, сначала покажи мне своё \"достоинство\"."
+msgstr "Если ты действительно хочешь проскользнуть в мою попку, сначала покажи мне своё \"достоинство\"."
 
 #. Key:	BB8EC0EA497B20CC5A726AA919605178
 #. SourceLocation:	/Game/Dialogue/Camilla/Default/CamillaDefault01_R04.Default__CamillaDefault01_R04_C.SessionData.Lines(0).Lines
