@@ -8,7 +8,7 @@ Russian translation PO files for Breeders of the Nephelym
 
 Message board 4 Team
 ---
-2020/03/15
 
-Переводим названия сараев в усадьбе.
+2020/03/15 Переводим названия сараев в усадьбе.
+
 ---
