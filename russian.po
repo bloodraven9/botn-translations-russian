@@ -25,7 +25,7 @@ msgstr "Это моя финальная форма, и в ней я чувст�
 #: /Game/Ranch/Upgrades/BovaurShed.Default__BovaurShed_C.Upgrade.DisplayName
 msgctxt ",002DAFE7433D240D0A5822A932016D65"
 msgid "Bovaur Shed"
-msgstr ""
+msgstr "Хлев"
 
 #. Key:	0061A5124B098F61DE991D81AB884112
 #. SourceLocation:	/Game/Dialogue/Cassie/Default/CassieDefault01_Meow.Default__CassieDefault01_Meow_C.SessionData.LinesToFemale(3).LinesToFemale
@@ -1061,7 +1061,7 @@ msgstr "Ооох...масстер...ааах...дай мне ссвоих флю
 #: /Game/Ranch/Upgrades/NekoCondo.Default__NekoCondo_C.Upgrade.DisplayName
 msgctxt ",24679A7147C3C737DE65DBA1F7CE9FAB"
 msgid "Neko Condo"
-msgstr ""
+msgstr "Неко Кондо"
 
 #. Key:	249E987842C35A9986491A967E86BEC3
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(21 - Value).TraitIcons.HelpText
@@ -5681,7 +5681,7 @@ msgstr "У Эмбер сиськи больше, чем у меня! Как же
 #: /Game/Ranch/Upgrades/FormurianPond.Default__FormurianPond_C.Upgrade.DisplayName
 msgctxt ",D03FE11A4B475C76629C24AF0C738457"
 msgid "Formurian Pond"
-msgstr ""
+msgstr "Формурийский Пруд"
 
 #. Key:	D066439244AFE855B06F90AB1A4A0829
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(8 - Value).TravelShrines.ShrineName
@@ -7599,14 +7599,14 @@ msgstr ""
 #: Source/Radiant/Public/Game/Monsters/SexyBreedingSystem.cpp:155
 msgctxt "BreedingSystem,NoSexPosition"
 msgid "Sex position must be selected."
-msgstr ""
+msgstr "Необходимо выбрать позу."
 
 #. Key:	Allure
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:149
 #: Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:149
 msgctxt "CharacterDetails,Allure"
 msgid "Allure"
-msgstr ""
+msgstr "Обаяние"
 
 #. Key:	AllureTooltip
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:150
@@ -7620,14 +7620,14 @@ msgstr ""
 #: Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:63
 msgctxt "CharacterDetails,Attributes"
 msgid "Attributes"
-msgstr ""
+msgstr "Атрибуты"
 
 #. Key:	Dexterity
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:163
 #: Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:163
 msgctxt "CharacterDetails,Dexterity"
 msgid "Dexterity"
-msgstr ""
+msgstr "Ловкость"
 
 #. Key:	DexterityTooltip
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:164
@@ -7641,7 +7641,7 @@ msgstr ""
 #: Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:111
 msgctxt "CharacterDetails,Father"
 msgid "Father"
-msgstr ""
+msgstr "Отец"
 
 #. Key:	FatherTooltip
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:112
@@ -7669,7 +7669,7 @@ msgstr ""
 #: Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:128
 msgctxt "CharacterDetails,Level"
 msgid "Level"
-msgstr ""
+msgstr "Уровень"
 
 #. Key:	LevelTooltip
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:129
@@ -7683,7 +7683,7 @@ msgstr ""
 #: Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:38
 msgctxt "CharacterDetails,Lifeforce"
 msgid "Spirit"
-msgstr ""
+msgstr "Дух"
 
 #. Key:	LifeforceTooltip
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:39
@@ -7697,7 +7697,7 @@ msgstr ""
 #: Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:44
 msgctxt "CharacterDetails,Loyalty"
 msgid "Loyalty"
-msgstr ""
+msgstr "Привязанность"
 
 #. Key:	LoyaltyTooltip
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:45
@@ -7711,7 +7711,7 @@ msgstr ""
 #: Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:31
 msgctxt "CharacterDetails,Lust"
 msgid "Lust"
-msgstr ""
+msgstr "Страсть"
 
 #. Key:	LustTooltip
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:32
@@ -7725,7 +7725,7 @@ msgstr ""
 #: Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:104
 msgctxt "CharacterDetails,Mother"
 msgid "Mother"
-msgstr ""
+msgstr "Мать"
 
 #. Key:	MotherTooltip
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:105
@@ -7760,7 +7760,7 @@ msgstr ""
 #: Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:73
 msgctxt "CharacterDetails,Race"
 msgid "Race"
-msgstr ""
+msgstr "Род"
 
 #. Key:	RaceTooltip
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:74
@@ -7774,7 +7774,7 @@ msgstr ""
 #: Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:87
 msgctxt "CharacterDetails,Sex"
 msgid "Sex"
-msgstr ""
+msgstr "Пол"
 
 #. Key:	SexTooltip
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:88
@@ -7788,14 +7788,14 @@ msgstr ""
 #: Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:118
 msgctxt "CharacterDetails,Stats"
 msgid "Stats"
-msgstr ""
+msgstr "Характеристики"
 
 #. Key:	Strength
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:135
 #: Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:135
 msgctxt "CharacterDetails,Strength"
 msgid "Strength"
-msgstr ""
+msgstr "Сила"
 
 #. Key:	StrengthTooltip
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:136
@@ -7809,7 +7809,7 @@ msgstr ""
 #: Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:177
 msgctxt "CharacterDetails,Traits"
 msgid "Traits"
-msgstr ""
+msgstr "Черты"
 
 #. Key:	Value
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:170
@@ -7844,7 +7844,7 @@ msgstr ""
 #: Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:156
 msgctxt "CharacterDetails,Willpower"
 msgid "Willpower"
-msgstr ""
+msgstr "Сила воли"
 
 #. Key:	WillpowerTooltip
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:157
@@ -7858,7 +7858,7 @@ msgstr ""
 #: Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:50
 msgctxt "CharacterDetails,XP"
 msgid "XP"
-msgstr ""
+msgstr "Опыт"
 
 #. Key:	XPTooltip
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:51
@@ -8390,7 +8390,7 @@ msgstr ""
 #: Source/Radiant/Public/UI/Components/SexyConfirmationBox.cpp:102
 msgctxt "ConfirmationBox,ReleaseConfirmTitle"
 msgid "Release this Nephelym?"
-msgstr ""
+msgstr "Выпустить нефелима?"
 
 #. Key:	ReturnMainConfirm
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyConfirmationBox.cpp:95
@@ -8985,7 +8985,7 @@ msgstr ""
 #: Source/Radiant/Public/UI/Menus/SexyMainMenu.cpp:57
 msgctxt "MainMenu,DiscordButton"
 msgid "Discord"
-msgstr ""
+msgstr "Discord"
 
 #. Key:	ExitGameButton
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyMainMenu.cpp:64
@@ -9146,7 +9146,7 @@ msgstr ""
 #: Source/Radiant/Public/UI/Menus/SexyOffspringMenu.cpp:27
 msgctxt "Offspring,ReleaseButtonTitle"
 msgid "Release"
-msgstr ""
+msgstr "Выпустить"
 
 #. Key:	ReleaseButtonTooltip
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyOffspringMenu.cpp:28
@@ -9279,7 +9279,7 @@ msgstr ""
 #: Source/Radiant/Public/UI/Components/SexyResourceList.cpp:869
 msgctxt "ResourceList,ActionRelease"
 msgid "Release into the Wild"
-msgstr ""
+msgstr "Выпустить на волю"
 
 #. Key:	ActionRename
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyResourceList.cpp:853
@@ -9342,7 +9342,7 @@ msgstr ""
 #: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:100
 msgctxt "SettingsMenu,AllFutas"
 msgid "Only Futas"
-msgstr ""
+msgstr "Только футанари"
 
 #. Key:	AllFutasHelp
 #. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:100
@@ -10035,7 +10035,7 @@ msgstr ""
 #: Source/Radiant/Public/UI/Menus/SexyRoamerMenu.cpp:299
 msgctxt "SSexyRoamerMenu,ResistMessage"
 msgid "Rapidly click to resist climax."
-msgstr ""
+msgstr "Быстро кликай мышкой, для сопротивления кульминации."
 
 #. Key:	RoamerWindowTitle
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyRoamerMenu.cpp:202
@@ -10337,4 +10337,3 @@ msgstr ""
 msgctxt "WorldAction,TraverseAction"
 msgid "Traverse Portal"
 msgstr ""
-
