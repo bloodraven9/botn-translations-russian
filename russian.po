@@ -7711,7 +7711,7 @@ msgstr ""
 #: Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:31
 msgctxt "CharacterDetails,Lust"
 msgid "Lust"
-msgstr "Страсть"
+msgstr "Похоть"
 
 #. Key:	LustTooltip
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:32
@@ -10035,7 +10035,7 @@ msgstr ""
 #: Source/Radiant/Public/UI/Menus/SexyRoamerMenu.cpp:299
 msgctxt "SSexyRoamerMenu,ResistMessage"
 msgid "Rapidly click to resist climax."
-msgstr "Быстро кликай мышкой, для сопротивления кульминации."
+msgstr "Быстро кликай мышкой, для сопротивления оргазму."
 
 #. Key:	RoamerWindowTitle
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyRoamerMenu.cpp:202
