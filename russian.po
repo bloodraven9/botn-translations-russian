@@ -1957,7 +1957,7 @@ msgstr "Расскажи о Разукрашенных эльфах."
 #: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(6 - Value).TravelShrines.ShrineName
 msgctxt ",48107A45419D9511DA312F919A7866E8"
 msgid "Hedon Township"
-msgstr "Город Гедон"
+msgstr "Поселение Гедон"
 
 #. Key:	484618D147614F8A866FE197422E04C0
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_R04.Default__FaleneDefault01_R04_C.SessionData.Lines(8).Lines
@@ -7109,7 +7109,7 @@ msgstr "Духовная форма обновлена."
 #: Source/Radiant/Public/Characters/Dialogue/SexyDialogueSystem.cpp:296
 msgctxt "ASexyDialogueSystem,NoFuta"
 msgid "Futa is disabled."
-msgstr "Гермафродиты деактивированы."
+msgstr "Футанари деактивированы."
 
 #. Key:	SpiritForm
 #. SourceLocation:	Source/Radiant/Public/Game/SexyGameMode.cpp:329
@@ -7445,7 +7445,7 @@ msgstr "Правая нога"
 #: Source/Radiant/Public/UI/Menus/SexyBreedingSessionMenu.cpp:222
 msgctxt "BreedingSession,IKRoot"
 msgid "Root"
-msgstr ""
+msgstr "Root"
 
 #. Key:	IKSpine
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyBreedingSessionMenu.cpp:331
@@ -7557,7 +7557,7 @@ msgstr "Выявлена несовместимость."
 #: Source/Radiant/Public/Game/Monsters/SexyBreedingSystem.cpp:171
 msgctxt "BreedingSystem,NoFemaleGiver"
 msgid "Giver must be futa or male."
-msgstr "{Дающий} должен быть гермафродитом или мужчиной."
+msgstr "{Дающий} должен быть футанари или мужчиной."
 
 #. Key:	NoGiver
 #. SourceLocation:	Source/Radiant/Public/Game/Monsters/SexyBreedingSystem.cpp:159
@@ -7571,7 +7571,7 @@ msgstr "Должен быть выбран {дающий}."
 #: Source/Radiant/Public/Game/Monsters/SexyBreedingSystem.cpp:167
 msgctxt "BreedingSystem,NoMaleReceiver"
 msgid "Receiver must be female or futa."
-msgstr "{Принимающий} должен быть гермафродитом или женщиной"
+msgstr "{Принимающий} должен быть футанари или женщиной"
 
 #. Key:	NoOffspring
 #. SourceLocation:	Source/Radiant/Public/Game/Monsters/SexyBreedingSystem.cpp:597
@@ -8775,7 +8775,7 @@ msgstr "Цена"
 #: Source/Radiant/Public/UI/Components/SexyItemDetails.cpp:99
 msgctxt "ItemDetails,ValueTooltip"
 msgid "Value will change by this modifier when this item is used."
-msgstr ""
+msgstr "Значение будет изменяться этим модификатором при использовании данного {предмета}."
 
 #. Key:	Willpower
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyItemDetails.cpp:84
@@ -9349,7 +9349,7 @@ msgstr "Только футанари"
 #: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:100
 msgctxt "SettingsMenu,AllFutasHelp"
 msgid "With the exception of the breeders, all other characters are futas."
-msgstr "Все кроме заводчика становятся гермафродитами."
+msgstr "Все кроме заводчика становятся футанари."
 
 #. Key:	AudioTitle
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:84
@@ -9489,14 +9489,14 @@ msgstr "Звероподобные женщины"
 #: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:97
 msgctxt "SettingsMenu,FeralFemalesHelp"
 msgid "Female and futa Nephelym can have a trait that alters their appearance to be more monster than human. Males are always exotic."
-msgstr "Женщины и гермафродиты могут появится с чертой, делающей их более звероподобными. Мужчины всегда звероподобны."
+msgstr "Женщины и футанари могут появится с чертой, делающей их более звероподобными. Мужчины всегда звероподобны."
 
 #. Key:	Futanari
 #. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:98
 #: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:98
 msgctxt "SettingsMenu,Futanari"
 msgid "Futanari"
-msgstr "Гермафродит"
+msgstr "Футанари"
 
 #. Key:	FutanariHelp
 #. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:98
@@ -9531,7 +9531,7 @@ msgstr "Человекоподобные женщины"
 #: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:96
 msgctxt "SettingsMenu,HominalFemalesHelp"
 msgid "Female and futa Nephelym can have a trait that alters their appearance to be more human than monster."
-msgstr "Женщины и гермафродиты могут появится с чертой, делающей их более человекоподобными."
+msgstr "Женщины и футанари могут появится с чертой, делающей их более человекоподобными."
 
 #. Key:	Hybrid
 #. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:95
@@ -9573,14 +9573,14 @@ msgstr "Локализация"
 #: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:99
 msgctxt "SettingsMenu,MalesFutas"
 msgid "All Males are Futas"
-msgstr "Все мужчины гермафродиты"
+msgstr "Все мужчины футанари"
 
 #. Key:	MalesFutasHelp
 #. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:99
 #: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:99
 msgctxt "SettingsMenu,MalesFutasHelp"
 msgid "With the exception of the male breeder, all male Nephelym will be replaced with futas."
-msgstr "За исключением мужчины заводчика, все мужские варианты нефилимов заменяются гермафродитами."
+msgstr "За исключением мужчины заводчика, все мужские варианты нефилимов заменяются футанари."
 
 #. Key:	MasterVolume
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:389
