@@ -151,7 +151,7 @@ msgstr "Почему ты зовешь меня мастером?"
 #: /Game/Dialogue/Cassie/SexScenes/CassieSplintersT.Default__CassieSplintersT_C.SessionData.Lines(3).Lines
 msgctxt ",03FDE484412EB5432BA89A9FF52176AD"
 msgid "Meow! It feels so good! I'm going to get kitty cum all over myself!"
-msgstr "Мьяу! Как хорошо! Эта киска собирается обкончать всю себя!"
+msgstr "Мяу! Как хорошо! Эта киска собирается обкончать всю себя!"
 
 #. Key:	04205AC945DE4E603D9147AFE4BB7547
 #. SourceLocation:	/Game/Dialogue/Neela/SexScenes/NeelaSnakeCuddleT.Default__NeelaSnakeCuddleT_C.SessionData.Lines(0).Lines
@@ -907,7 +907,7 @@ msgstr "Поймай для меня самку Лисы, если у тебя �
 #: /Game/Ranch/Upgrades/VulwargKennel.Default__VulwargKennel_C.Upgrade.DisplayName
 msgctxt ",202CB97A40D83492E9EFE18430F24A11"
 msgid "Vulwarg Kennel"
-msgstr "Псарня Вервольфов"
+msgstr "Псарня Вульваргов"
 
 #. Key:	2087D4A34628AB4B8A51C4827BDC8AA0
 #. SourceLocation:	/Game/Dialogue/Fern/SexScenes/FernMilk_01.Default__FernMilk_01_C.SessionData.Lines(6).Lines
@@ -1061,7 +1061,7 @@ msgstr "Ооох...масстер...ааах...дай мне ссвоих флю
 #: /Game/Ranch/Upgrades/NekoCondo.Default__NekoCondo_C.Upgrade.DisplayName
 msgctxt ",24679A7147C3C737DE65DBA1F7CE9FAB"
 msgid "Neko Condo"
-msgstr "Неко Кондо"
+msgstr "Домик Неко"
 
 #. Key:	249E987842C35A9986491A967E86BEC3
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(21 - Value).TraitIcons.HelpText
@@ -4547,7 +4547,7 @@ msgstr "Ой, я глупышка, так и не представилась."
 #: /Game/Ranch/Upgrades/MuttHut.Default__MuttHut_C.Upgrade.DisplayName
 msgctxt ",A0B0E60C4AD4856B54C5298236CC5BC3"
 msgid "Mutt Hut"
-msgstr "Хижина Гибридов"
+msgstr "Хижина Мутантов"
 
 #. Key:	A0B57F5941F9CAEBBB30CF828C3E26AC
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_R01.Default__FaleneDefault01_R01_C.SessionData.Lines(12).Lines
@@ -5345,7 +5345,7 @@ msgstr "С кого мне начать смывать грязь?"
 #: /Game/Characters/Procedural/Variants/Thriae/Harvest/ThriaeHarvest.Default__ThriaeHarvest_C.Harvest.Description
 msgctxt ",BFE419FB4198F6466864C0A660018BA3"
 msgid "Thriae body fluids."
-msgstr "Телесные жидкости Пчелы"
+msgstr "Телесные жидкости Фрии"
 
 #. Key:	C03BBCDD4AACD3CC387AAAB2A4FD00E9
 #. SourceLocation:	/Game/Dialogue/Camilla/Default/CamillaDefault01_R01.Default__CamillaDefault01_R01_C.SessionData.Lines(1).Lines
@@ -5569,7 +5569,7 @@ msgstr "Осторожно человек, похоть Кракена нель�
 #: /Game/Ranch/Upgrades/VulwargKennel.Default__VulwargKennel_C.Upgrade.Description
 msgctxt ",CB4B328646049F44CA1AF5B3E7454C29"
 msgid "This allows you to catch and store all variants of Vulwarg."
-msgstr "Это позволит тебе ловить и содержать все варианты Вервольфов."
+msgstr "Это позволит тебе ловить и содержать все варианты Вульваргов."
 
 #. Key:	CB6197724E6737AA23A5DD991AD65537
 #. SourceLocation:	/Game/Dialogue/Romy/Default/RomyDefault01_YourMusic.Default__RomyDefault01_YourMusic_C.SessionData.LinesToFemale(1).LinesToFemale
@@ -5639,7 +5639,7 @@ msgstr "Я могу построить все, что пожелают твои 
 #: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(18 - Value).TraitIcons.HelpText
 msgctxt ",CE50C843466352316F4461BC2722C00E"
 msgid "Nurturing: Offspring inherit 20% higher stats."
-msgstr "Заботливый: Все показатели потомства увеличиваются на 20% "
+msgstr "Заботливый: Все показатели потомства увеличиваются на 20%"
 
 #. Key:	CEC4092D45D0DBE6546A729EE34F0267
 #. SourceLocation:	/Game/Dialogue/Romy/Default/RomyDefault01_AboutMusic.Default__RomyDefault01_AboutMusic_C.SessionData.Lines(3).Lines
@@ -5688,7 +5688,7 @@ msgstr "Формурийский Пруд"
 #: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(8 - Value).TravelShrines.ShrineName
 msgctxt ",D066439244AFE855B06F90AB1A4A0829"
 msgid "Sultry Plateau"
-msgstr "Знойное Плато"
+msgstr "Плато Разврата"
 
 #. Key:	D0FA90CC4E9378DF7150FB881B18DC60
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(5 - Value).TraitIcons.HelpText
@@ -6689,7 +6689,7 @@ msgstr "Телесные жидкости демона."
 #: /Game/Characters/Procedural/Variants/Thriae/Harvest/ThriaeHarvest.Default__ThriaeHarvest_C.Harvest.RaceName
 msgctxt ",F3FBCA874294C689B32721B1C210D74A"
 msgid "Thriae"
-msgstr "Пчела"
+msgstr "Фрия"
 
 #. Key:	F44AC0034E9517A0581F3EA383C623F9
 #. SourceLocation:	/Game/Dialogue/Leylanna/Default/LeylannaDefault01_NoSpiritVariant.Default__LeylannaDefault01_NoSpiritVariant_C.SessionData.LinesToMale(0).LinesToMale
@@ -6969,7 +6969,7 @@ msgstr "Припухлость живота представляет собой 
 #: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(3 - Value).TravelShrines.ShrineName
 msgctxt ",FD8011CC4C321FCEC4C41F88F97FDCD1"
 msgid "Moaning Crag"
-msgstr "Стонущий утес"
+msgstr "Стонущий Утёс"
 
 #. Key:	FD905EC14D8B8AC5E3D8D28AB7280C39
 #. SourceLocation:	/Game/Dialogue/Neela/Default/NeelaDefault01_YourVoid_RL.Default__NeelaDefault01_YourVoid_RL_C.ResponseData(0).ResponseData.BreederPrompt
@@ -7158,14 +7158,14 @@ msgstr "Фута сцена пропущена, секс поза выучена
 #: Source/Radiant/Public/World/SexyOverworldInterface.cpp:191
 msgctxt "ASexyOverworldInterface,Breaks"
 msgid "Virgin Breaks"
-msgstr "Девственный Каньон"
+msgstr "Девственные Разломы"
 
 #. Key:	Cavern
 #. SourceLocation:	Source/Radiant/Public/World/SexyOverworldInterface.cpp:199
 #: Source/Radiant/Public/World/SexyOverworldInterface.cpp:199
 msgctxt "ASexyOverworldInterface,Cavern"
 msgid "Amorous Hallows"
-msgstr "Любовные Мощи"
+msgstr "Пещеры Любви"
 
 #. Key:	ClimaxPeak
 #. SourceLocation:	Source/Radiant/Public/World/SexyOverworldInterface.cpp:195
@@ -7228,7 +7228,7 @@ msgstr "Плато Разврата"
 #: Source/Radiant/Public/World/SexyOverworldInterface.cpp:159
 msgctxt "ASexyOverworldInterface,Lustwood"
 msgid "Lustwood"
-msgstr "Лес Похоти"
+msgstr "Страстолесье"
 
 #. Key:	Pastures
 #. SourceLocation:	Source/Radiant/Public/World/SexyOverworldInterface.cpp:167
@@ -7697,7 +7697,7 @@ msgstr "Духовная энергия. используется что бы п
 #: Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:44
 msgctxt "CharacterDetails,Loyalty"
 msgid "Loyalty"
-msgstr "Привязанность"
+msgstr "Преданность"
 
 #. Key:	LoyaltyTooltip
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:45
@@ -7711,7 +7711,7 @@ msgstr "Показывает как счастлив субъект на тво�
 #: Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:31
 msgctxt "CharacterDetails,Lust"
 msgid "Lust"
-msgstr "Страсть"
+msgstr "Похоть"
 
 #. Key:	LustTooltip
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:32
@@ -7781,7 +7781,7 @@ msgstr "Пол"
 #: Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:88
 msgctxt "CharacterDetails,SexTooltip"
 msgid "What genetalia this one was born with."
-msgstr "Показывает с какими гениталиями рождён субъект.
+msgstr "Показывает с какими гениталиями рождён субъект"
 
 #. Key:	Stats
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:118
@@ -7802,7 +7802,7 @@ msgstr "Сила"
 #: Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:136
 msgctxt "CharacterDetails,StrengthTooltip"
 msgid "The physical strength of this one."
-msgstr "Физическая сила субъекта.
+msgstr "Физическая сила субъекта"
 
 #. Key:	Traits
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:177
@@ -7914,7 +7914,7 @@ msgstr "Живот"
 #: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:482
 msgctxt "CharacterEditor,BodyAttachments"
 msgid "Attachments"
-msgstr ""
+msgstr "Дополнения"
 
 #. Key:	BodyAttachmentsMaterial
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:449
@@ -8572,7 +8572,7 @@ msgstr "355 мл"
 #: Source/Radiant/Public/UI/Components/SexyHarvestWidget.cpp:167
 msgctxt "HarvestWidget,PriceML"
 msgid "Unit Price:"
-msgstr "{Цена единицы:}"
+msgstr "Цена за единицу:"
 
 #. Key:	SellMilkTooltip
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyHarvestWidget.cpp:419
@@ -9041,7 +9041,7 @@ msgstr "Выполнить указанное действие, проигрыв
 #: Source/Radiant/Public/Game/Monsters/SexyMonsterSystem.cpp:557
 msgctxt "ManageMonster,HarvestDev"
 msgid "Harvest scene in development."
-msgstr ""
+msgstr "Сцена в разработке."
 
 #. Key:	InvalidAction
 #. SourceLocation:	Source/Radiant/Public/Game/Monsters/SexyMonsterSystem.cpp:359
