@@ -3140,7 +3140,7 @@ msgstr "Аах... да! Наполни меня своим человеческ�
 #: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(12 - Value).TravelShrines.ShrineName
 msgctxt ",73986546438B9C190B8B769537B05047"
 msgid "Climax Peak"
-msgstr "Пик Блаженства"
+msgstr "Пик Оргазма"
 
 #. Key:	73B3AE3C43F892A09044CD8CAABBE3B3
 #. SourceLocation:	/Game/Dialogue/Falene/SexScenes/FaleneBlowJob.Default__FaleneBlowJob_C.SessionData.LinesToFuta(2).LinesToFuta
@@ -6486,7 +6486,7 @@ msgstr "Тебе нравится моя пухлая глубокая ваги�
 #: /Game/Dialogue/Camilla/Default/CamillaDefault01_R02.Default__CamillaDefault01_R02_C.SessionData.Lines(5).Lines
 msgctxt ",EB8281BE4BDC307B5C0B208F2E5CDCED"
 msgid "Titans like the mountain caves of the Climax Peak."
-msgstr "Титаны облюбовали пещеры на Пике Блаженства"
+msgstr "Титаны облюбовали пещеры на Пике Оргазма"
 
 #. Key:	EB9CEE7C492834A71E0684923E36AB86
 #. SourceLocation:	/Game/Dialogue/Fern/SexScenes/FernCum_01.Default__FernCum_01_C.SessionData.Lines(5).Lines
