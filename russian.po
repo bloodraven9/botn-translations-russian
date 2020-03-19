@@ -5940,7 +5940,7 @@ msgstr "*Мурр*"
 #: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(4 - Value).TravelShrines.ShrineName
 msgctxt ",D913C6254D30AA08E8B01787AE3D1B68"
 msgid "Hivelands"
-msgstr "Гудящая поляна"
+msgstr "Земли Роя"
 
 #. Key:	D942BF8C4B6164B1D4F7569E55FC349E
 #. SourceLocation:	/Game/Dialogue/Fern/DefaultP3/FernDefault03_R03.Default__FernDefault03_R03_C.SessionData.Lines(0).Lines
