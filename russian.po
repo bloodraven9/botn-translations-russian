@@ -53,7 +53,7 @@ msgstr "А-а, ты не уйдишь пока не выпьишь усё, да 
 #: /Game/Ranch/Upgrades/HarpyAviary.Default__HarpyAviary_C.Upgrade.Description
 msgctxt ",017B23B341D5CE5BB9CC0293262CBD91"
 msgid "This allows you to catch and store all variants of Harpies."
-msgstr "Это позволит тебе ловить и содержать любые варианты Гарпий."
+msgstr "Это позволит тебе ловить и содержать любые виды Гарпий."
 
 #. Key:	017CCB4443E3658AEA961E9EDC5B53BF
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToFuta(4).LinesToFuta
@@ -557,14 +557,14 @@ msgstr "В глубине души мы просто ищем удовольст
 #: /Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToFemale(12).LinesToFemale
 msgctxt ",129E92F14686D57C52A26598C5257AF6"
 msgid "You have a beautiful set of fertile hips and breasts... you will make a great mate!"
-msgstr "У тебя набор столь плодородных губ и грудей... вы создали великолепную самку!"
+msgstr "У тебя такие прекрасные объемные груди и манящие бёдра... мы станем отличными друзьями!"
 
 #. Key:	12AF2DD443EFD1CDF7E19291D7E49384
 #. SourceLocation:	/Game/Ranch/Upgrades/ThriaeHive.Default__ThriaeHive_C.Upgrade.Description
 #: /Game/Ranch/Upgrades/ThriaeHive.Default__ThriaeHive_C.Upgrade.Description
 msgctxt ",12AF2DD443EFD1CDF7E19291D7E49384"
 msgid "This allows you to catch and store all variants of Thriae."
-msgstr "Это позволит тебе ловить и содержать все варианты Фрий."
+msgstr "Это позволит тебе ловить и содержать любые виды Фрий."
 
 #. Key:	12D3C80246AEABBC7C78CD8D7A2FD415
 #. SourceLocation:	/Game/Dialogue/Mirru/SexScenes/MirruSnatchT.Default__MirruSnatchT_C.SessionData.Lines(2).Lines
@@ -844,7 +844,7 @@ msgstr "Русалки уникальны среди формуриан, мы с
 #: /Game/Dialogue/Parvati/Default/ParvatiDefault01_Teach.Default__ParvatiDefault01_Teach_C.SessionData.Lines(5).Lines
 msgctxt ",1E0C491A43E8C2F67FA568B20B5A6743"
 msgid "Pay close attention to my form, and learn you should."
-msgstr "Смотри внимательней на мою форму, и запоминай"
+msgstr "Смотри внимательней на мою форму и запоминай."
 
 #. Key:	1E23F2524EB7DC68DC07EC92E709C65F
 #. SourceLocation:	/Game/Dialogue/Fern/DefaultP3/FernGreeting03.Default__FernGreeting03_C.SessionData.LinesToFuta(4).LinesToFuta
@@ -865,7 +865,7 @@ msgstr "Столько удовольствия! Ааах..."
 #: /Game/Dialogue/Emissary/Default/EmissaryGreeting01.Default__EmissaryGreeting01_C.SessionData.Lines(5).Lines
 msgctxt ",1E80A3A048E90BE3C26622BC4F2230F7"
 msgid "Bring them to me so that the Goddess can be reunited with her children. You shall be rewarded with the crystalized cum of the Goddess Herself."
-msgstr "Приведи их ко мне, чтобы Богиня могла вновь воссоединиться со своими детьми. Тебя будет ждать вознаграждение из кристаллизованного нектара Самой Богини."
+msgstr "Приведи их ко мне, чтобы Богиня могла вновь воссоединиться со своими детьми. Тебя будет ждать вознаграждение из кристаллизованного нектара самой Богини."
 
 #. Key:	1E9E8C004AF398F32ECD97B66BFC3438
 #. SourceLocation:	/Game/Dialogue/Fern/Default/FernDefault01_RL_M.Default__FernDefault01_RL_M_C.ResponseData(2).ResponseData.BreederPrompt
@@ -1005,14 +1005,14 @@ msgstr "Проверить Быкавров"
 #: /Game/Ranch/Upgrades/MuttHut.Default__MuttHut_C.Upgrade.Description
 msgctxt ",2341F9304FDFA81B77486F840A0E749C"
 msgid "This allows you to breed and store all hybrids."
-msgstr "Это позволит тебе разводить и содержать все варианты гибридов."
+msgstr "Это позволит тебе разводить и содержать любые виды гибридов."
 
 #. Key:	235E743740D1DB78A77472BFB5D5C1A8
 #. SourceLocation:	/Game/Ranch/Upgrades/SylvanTreehouse.Default__SylvanTreehouse_C.Upgrade.Description
 #: /Game/Ranch/Upgrades/SylvanTreehouse.Default__SylvanTreehouse_C.Upgrade.Description
 msgctxt ",235E743740D1DB78A77472BFB5D5C1A8"
 msgid "This allows you to catch and store all variants of Sylvan."
-msgstr "Это позволит тебе ловить и содержать все варианты Сильван."
+msgstr "Это позволит тебе ловить и содержать любые виды Сильван."
 
 #. Key:	236BBFF14A62BA287C86179E8ACDDCA9
 #. SourceLocation:	/Game/Dialogue/Fern/SexScenes/FernCum_01.Default__FernCum_01_C.SessionData.Lines(0).Lines
@@ -2244,7 +2244,7 @@ msgstr "Выродок: Результат близкородственного 
 #: /Game/Ranch/Upgrades/BovaurShed.Default__BovaurShed_C.Upgrade.Description
 msgctxt ",51B5762D4545FEE2F7E8D895B66B031B"
 msgid "This allows you to catch and store all variants of Bovaur."
-msgstr "Это позволит тебе ловить и содержать все варианты Быкавров."
+msgstr "Это позволит тебе ловить и содержать любые виды Быкавров."
 
 #. Key:	51CEBDA94681ACB09279C2A598681796
 #. SourceLocation:	/Game/Dialogue/Romy/Default/RomyDefault01_YourMusic_ToneDeaf.Default__RomyDefault01_YourMusic_ToneDeaf_C.SessionData.Lines(1).Lines
@@ -2601,7 +2601,7 @@ msgstr "Кое-кто обожает тебя так сильно, что гот
 #: /Game/Ranch/Upgrades/NekoCondo.Default__NekoCondo_C.Upgrade.Description
 msgctxt ",61DD0F8342D2EFAE9232248215EADFB4"
 msgid "This allows you to catch and store all variants of Nekos."
-msgstr "Это позволит тебе ловить и содержать все варианты Неко."
+msgstr "Это позволит тебе ловить и содержать любые виды Неко."
 
 #. Key:	61DEC1574FD90C69A68E04B4E3BD4DDB
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_RL.Default__FaleneDefault01_RL_C.ResponseData(2).ResponseData.BreederPrompt
@@ -3595,7 +3595,7 @@ msgstr "*Чмок* *Чмок*"
 #: /Game/Ranch/Upgrades/SeraphimLoft.Default__SeraphimLoft_C.Upgrade.Description
 msgctxt ",850118264E28125C1BEFE4B4C33B1F6D"
 msgid "This allows you to catch and store all variants of Seraphim."
-msgstr "Это позволит тебе ловить и содержать все варианты Серафимов."
+msgstr "Это позволит тебе ловить и содержать любые виды Серафимов."
 
 #. Key:	852A10F045E59BFFF8DD789EE5504277
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_R03.Default__FaleneDefault01_R03_C.SessionData.Lines(6).Lines
@@ -4134,7 +4134,7 @@ msgstr "Ух... мяу!"
 #: /Game/Ranch/Upgrades/DragonHoard.Default__DragonHoard_C.Upgrade.Description
 msgctxt ",93BFA77B4203C927F888AA9756403DB1"
 msgid "This allows you to catch and store all variants of Dragon."
-msgstr "Это позволит тебе ловить и содержать все варианты Драконов."
+msgstr "Это позволит тебе ловить и содержать любые виды Драконов."
 
 #. Key:	941010544E6432D137832FA1B37E0C10
 #. SourceLocation:	/Game/Dialogue/Parvati/Default/ParvatiDefault01_Teach.Default__ParvatiDefault01_Teach_C.SessionData.Lines(3).Lines
@@ -4260,7 +4260,7 @@ msgstr "*Мурр*"
 #: /Game/Ranch/Upgrades/FoxenHouse.Default__FoxenHouse_C.Upgrade.Description
 msgctxt ",9717FEC243A7CD17EDAAD89765F8E2A8"
 msgid "This allows you to catch and store all variants of Foxen."
-msgstr "Это позволит тебе ловить и содержать все варианты Лис."
+msgstr "Это позволит тебе ловить и содержать любые виды Лис."
 
 #. Key:	97244FB84D6D7CC0273CD3BB89B847D9
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(22 - Value).TraitIcons.DisplayName
@@ -4876,7 +4876,7 @@ msgstr "Удовлетвори себя моей киской!"
 #: /Game/Ranch/Upgrades/TitanCave.Default__TitanCave_C.Upgrade.Description
 msgctxt ",AF04F5A4417DBB7D20BC64B4B66C34DD"
 msgid "This allows you to catch and store all variants of Titan."
-msgstr "Это позволит тебе ловить и содержать все варианты Титанов"
+msgstr "Это позволит тебе ловить и содержать любые виды Титанов."
 
 #. Key:	AF4962AA4EF7962370DC5D869BFFA992
 #. SourceLocation:	/Game/Dialogue/Camilla/Default/CamillaDefault01_R01.Default__CamillaDefault01_R01_C.SessionData.Lines(8).Lines
@@ -5387,7 +5387,7 @@ msgstr "Сказано, это точные копии вагины самой �
 #: /Game/Ranch/Upgrades/FormurianPond.Default__FormurianPond_C.Upgrade.Description
 msgctxt ",C2409B0E43C4FECF37A9A4AEC03EA9E7"
 msgid "This allows you to catch and store all Formurian variants."
-msgstr "Это позволит тебе ловить и содержать все варианты Формуриан."
+msgstr "Это позволит тебе ловить и содержать любые виды Формуриан."
 
 #. Key:	C29993C74D67F8AE960E44826013B47C
 #. SourceLocation:	/Game/Dialogue/Mirru/Default/MirruDefault01_AboutKrakens.Default__MirruDefault01_AboutKrakens_C.SessionData.Lines(1).Lines
@@ -5569,7 +5569,7 @@ msgstr "Осторожно человек, похоть Кракена нель�
 #: /Game/Ranch/Upgrades/VulwargKennel.Default__VulwargKennel_C.Upgrade.Description
 msgctxt ",CB4B328646049F44CA1AF5B3E7454C29"
 msgid "This allows you to catch and store all variants of Vulwarg."
-msgstr "Это позволит тебе ловить и содержать все варианты Вульваргов."
+msgstr "Это позволит тебе ловить и содержать любые виды Вульваргов."
 
 #. Key:	CB6197724E6737AA23A5DD991AD65537
 #. SourceLocation:	/Game/Dialogue/Romy/Default/RomyDefault01_YourMusic.Default__RomyDefault01_YourMusic_C.SessionData.LinesToFemale(1).LinesToFemale
@@ -6465,7 +6465,7 @@ msgstr "Именно я, Мирру, буду следующей королев�
 #: /Game/Ranch/Upgrades/DemonPool.Default__DemonPool_C.Upgrade.Description
 msgctxt ",EAE306A64EE7F2719CB1719962D3F107"
 msgid "This allows you to catch and store all variants of Demon."
-msgstr "Это позволит тебе ловить и содержать все варианты Демонов."
+msgstr "Это позволит тебе ловить и содержать любые виды Демонов."
 
 #. Key:	EB2D583D443FA7DB15278C95780CBC37
 #. SourceLocation:	/Game/Dialogue/Cassie/Default/CassieDefault01_Meow.Default__CassieDefault01_Meow_C.SessionData.LinesToFemale(0).LinesToFemale
@@ -6703,7 +6703,7 @@ msgstr "Вернись ко мне, когда поймаешь самца Ву�
 #: /Game/Ranch/Upgrades/StarfallenMonolith.Default__StarfallenMonolith_C.Upgrade.Description
 msgctxt ",F5276F72433DAADC3348C9937061AB06"
 msgid "This allows you to catch and store all variants of Starfallen."
-msgstr "Это позволит тебе ловить и содержать все варианты Странников."
+msgstr "Это позволит тебе ловить и содержать любые виды Странников."
 
 #. Key:	F5D89EF24DD4E97F5789B4AF367D8E47
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_R04.Default__FaleneDefault01_R04_C.SessionData.Lines(4).Lines
